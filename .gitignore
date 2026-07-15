@@ -1,0 +1,14 @@
+# --- Jupyter Notebook の一時キャッシュファイルを無視 ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# --- OSが自動作成する不要なシステムファイルを無視 ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.Zone.Identifier
+
+# --- 大容量の実験用オリジナル画像（rawデータ）はGitの追跡から除外する ---
+data/raw/
