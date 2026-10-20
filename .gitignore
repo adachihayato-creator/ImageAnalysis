@@ -12,3 +12,15 @@ desktop.ini
 
 # --- 大容量の実験用オリジナル画像（rawデータ）はGitの追跡から除外する ---
 data/raw/
+# Windows download metadata
+*:Zone.Identifier
+
+# Local tool/config directories
+.agents/
+.aws/
+.codex/
+.venv/
+
+# Keep the current presentation; retain intermediate decks/backups locally only.
+presentations/20261015/*.pptx
+!presentations/20261015/M1_10_15_全体.pptx

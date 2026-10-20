@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="740" viewBox="0 0 1040 740"><rect width="1040" height="740" fill="white"/>
+<text x="65" y="40" font-family="sans-serif" font-size="17">BrRb_1: RGB change from 0h</text>
+<path d="M65,295.0h390" stroke="#ddd"/><text x="25" y="299.0" font-size="12">-20</text>
+<path d="M65,240.0h390" stroke="#ddd"/><text x="25" y="244.0" font-size="12">-10</text>
+<path d="M65,185.0h390" stroke="#ddd"/><text x="25" y="189.0" font-size="12">0</text>
+<path d="M65,130.0h390" stroke="#ddd"/><text x="25" y="134.0" font-size="12">10</text>
+<path d="M65,75.0h390" stroke="#ddd"/><text x="25" y="79.0" font-size="12">20</text>
+<text x="65" y="320" font-size="13">0h</text>
+<text x="195" y="320" font-size="13">1h</text>
+<text x="325" y="320" font-size="13">2h</text>
+<text x="455" y="320" font-size="13">3h</text>
+<polyline points="65,185.0 195,133.2604 325,111.38414999999999 455,75.33824999999999" fill="none" stroke="#d33" stroke-width="2" stroke-dasharray="6,4"/>
+<polyline points="65,185.0 195,135.3735 325,119.26015 455,101.2482" fill="none" stroke="#d33" stroke-width="2" stroke-dasharray="none"/>
+<polyline points="65,185.0 195,149.9628 325,127.1378 455,123.75475" fill="none" stroke="#198c38" stroke-width="2" stroke-dasharray="6,4"/>
+<polyline points="65,185.0 195,152.638 325,136.3679 455,129.40875" fill="none" stroke="#198c38" stroke-width="2" stroke-dasharray="none"/>
+<polyline points="65,185.0 195,189.3736 325,163.9449 455,183.80045" fill="none" stroke="#36c" stroke-width="2" stroke-dasharray="6,4"/>
+<polyline points="65,185.0 195,172.80705 325,156.2416 455,159.22755" fill="none" stroke="#36c" stroke-width="2" stroke-dasharray="none"/>
+<text x="65" y="345" font-family="sans-serif" font-size="13">solid: corrected; dashed: raw; JPEG RGB units</text>
+<text x="585" y="40" font-family="sans-serif" font-size="17">BrRb_2: RGB change from 0h</text>
+<path d="M585,295.0h390" stroke="#ddd"/><text x="545" y="299.0" font-size="12">-12</text>
+<path d="M585,240.0h390" stroke="#ddd"/><text x="545" y="244.0" font-size="12">-6</text>
+<path d="M585,185.0h390" stroke="#ddd"/><text x="545" y="189.0" font-size="12">0</text>
+<path d="M585,130.0h390" stroke="#ddd"/><text x="545" y="134.0" font-size="12">6</text>
+<path d="M585,75.0h390" stroke="#ddd"/><text x="545" y="79.0" font-size="12">12</text>
+<text x="585" y="320" font-size="13">0h</text>
+<text x="715" y="320" font-size="13">1h</text>
+<text x="845" y="320" font-size="13">2h</text>
+<text x="975" y="320" font-size="13">3h</text>
+<polyline points="585,185.0 715,121.17341666666667 845,120.72425 975,75.14025000000001" fill="none" stroke="#d33" stroke-width="2" stroke-dasharray="6,4"/>
+<polyline points="585,185.0 715,165.47133333333335 845,155.73908333333333 975,138.94575" fill="none" stroke="#d33" stroke-width="2" stroke-dasharray="none"/>
+<polyline points="585,185.0 715,178.34958333333333 845,164.84708333333333 975,150.85141666666667" fill="none" stroke="#198c38" stroke-width="2" stroke-dasharray="6,4"/>
+<polyline points="585,185.0 715,170.99333333333334 845,157.225 975,147.48358333333334" fill="none" stroke="#198c38" stroke-width="2" stroke-dasharray="none"/>
+<polyline points="585,185.0 715,198.64641666666665 845,183.141 975,187.02033333333333" fill="none" stroke="#36c" stroke-width="2" stroke-dasharray="6,4"/>
+<polyline points="585,185.0 715,178.14791666666667 845,168.33866666666665 975,162.43258333333333" fill="none" stroke="#36c" stroke-width="2" stroke-dasharray="none"/>
+<text x="585" y="345" font-family="sans-serif" font-size="13">solid: corrected; dashed: raw; JPEG RGB units</text>
+<text x="65" y="400" font-family="sans-serif" font-size="17">Sn25_1: RGB change from 0h</text>
+<path d="M65,655.0h390" stroke="#ddd"/><text x="25" y="659.0" font-size="12">-8</text>
+<path d="M65,600.0h390" stroke="#ddd"/><text x="25" y="604.0" font-size="12">-4</text>
+<path d="M65,545.0h390" stroke="#ddd"/><text x="25" y="549.0" font-size="12">0</text>
+<path d="M65,490.0h390" stroke="#ddd"/><text x="25" y="494.0" font-size="12">4</text>
+<path d="M65,435.0h390" stroke="#ddd"/><text x="25" y="439.0" font-size="12">8</text>
+<text x="65" y="680" font-size="13">0h</text>
+<text x="195" y="680" font-size="13">1h</text>
+<text x="325" y="680" font-size="13">2h</text>
+<text x="455" y="680" font-size="13">3h</text>
+<polyline points="65,545.0 195,520.6955 325,470.1835 455,452.692125" fill="none" stroke="#d33" stroke-width="2" stroke-dasharray="6,4"/>
+<polyline points="65,545.0 195,509.141375 325,499.961875 455,494.54025" fill="none" stroke="#d33" stroke-width="2" stroke-dasharray="none"/>
+<polyline points="65,545.0 195,531.78625 325,545.108625 455,539.1425" fill="none" stroke="#198c38" stroke-width="2" stroke-dasharray="6,4"/>
+<polyline points="65,545.0 195,537.282125 325,545.108625 455,537.290375" fill="none" stroke="#198c38" stroke-width="2" stroke-dasharray="none"/>
+<polyline points="65,545.0 195,579.857625 325,562.307125 455,567.92125" fill="none" stroke="#36c" stroke-width="2" stroke-dasharray="6,4"/>
+<polyline points="65,545.0 195,554.249625 325,541.49925 455,541.940625" fill="none" stroke="#36c" stroke-width="2" stroke-dasharray="none"/>
+<text x="65" y="705" font-family="sans-serif" font-size="13">solid: corrected; dashed: raw; JPEG RGB units</text>
+<text x="585" y="400" font-family="sans-serif" font-size="17">Sn25_2: RGB change from 0h</text>
+<path d="M585,655.0h390" stroke="#ddd"/><text x="545" y="659.0" font-size="12">-10</text>
+<path d="M585,600.0h390" stroke="#ddd"/><text x="545" y="604.0" font-size="12">-5</text>
+<path d="M585,545.0h390" stroke="#ddd"/><text x="545" y="549.0" font-size="12">0</text>
+<path d="M585,490.0h390" stroke="#ddd"/><text x="545" y="494.0" font-size="12">5</text>
+<path d="M585,435.0h390" stroke="#ddd"/><text x="545" y="439.0" font-size="12">10</text>
+<text x="585" y="680" font-size="13">0h</text>
+<text x="715" y="680" font-size="13">1h</text>
+<text x="845" y="680" font-size="13">2h</text>
+<text x="975" y="680" font-size="13">3h</text>
+<polyline points="585,545.0 715,465.8099 845,455.53589999999997 975,440.00059999999996" fill="none" stroke="#d33" stroke-width="2" stroke-dasharray="6,4"/>
+<polyline points="585,545.0 715,523.0605 845,514.772 975,508.1214" fill="none" stroke="#d33" stroke-width="2" stroke-dasharray="none"/>
+<polyline points="585,545.0 715,516.6233 845,510.2851 975,499.3181" fill="none" stroke="#198c38" stroke-width="2" stroke-dasharray="6,4"/>
+<polyline points="585,545.0 715,519.1929 845,511.5512 975,503.2638" fill="none" stroke="#198c38" stroke-width="2" stroke-dasharray="none"/>
+<polyline points="585,545.0 715,545.9251 845,530.7836 975,527.6651" fill="none" stroke="#36c" stroke-width="2" stroke-dasharray="6,4"/>
+<polyline points="585,545.0 715,533.2795 845,519.9959 975,511.9901" fill="none" stroke="#36c" stroke-width="2" stroke-dasharray="none"/>
+<text x="585" y="705" font-family="sans-serif" font-size="13">solid: corrected; dashed: raw; JPEG RGB units</text>
+</svg>

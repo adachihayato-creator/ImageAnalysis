@@ -1,0 +1,9 @@
+﻿試料ID（仮）,画像パス,XRDパス,同じ膜の対応,XRD判定,確認事項
+con-22-0m,data/raw/Yamamoto/20260717/FAMACsPb(IBr)3 con1.jpg,data/raw/Yamamoto/20260717/con-22-0m.txt,ユーザー確認済み,,
+con-22-0m,data/raw/Yamamoto/20260717/FAMACsPb(IBr)3  con2.jpg,data/raw/Yamamoto/20260717/con-22-0m.txt,ユーザー確認済み,,
+pmma-22-0m,data/raw/Yamamoto/20260717/FAMACsPb(IBr)3  PMMA1.jpg,data/raw/Yamamoto/20260717/pmma-22-0m.txt,ユーザー確認済み,,
+pmma-22-0m,data/raw/Yamamoto/20260717/FAMACsPb(IBr)3 PMMA2.jpg,data/raw/Yamamoto/20260717/pmma-22-0m.txt,ユーザー確認済み,,
+con-22-1d,data/raw/Yamamoto/20260717/FAMACsPb(IBr)3_con_1DAY.jpg,data/raw/Yamamoto/20260717/con-22-1d.txt,ユーザー確認済み,,
+pmma-22-1d,data/raw/Yamamoto/20260717/FAMACsPb(IBr)3_PMMA_1DAY.jpg,data/raw/Yamamoto/20260717/pmma-22-1d.txt,ユーザー確認済み,,
+con-130-1d,data/raw/Yamamoto/20260717/FAMACsPb(IBr)3_con_130_1day.jpg,data/raw/Yamamoto/20260717/con-130-1d.txt,ユーザー確認済み,,保持時間：ファイル名1d、内部見出し1h
+pmma-130-1d,data/raw/Yamamoto/20260717/FAMACsPb(IBr)3_PMMA_130_1day.jpg,data/raw/Yamamoto/20260717/pmma-130-1d.txt,ユーザー確認済み,,
