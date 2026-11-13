@@ -20,7 +20,15 @@ data/raw/
 .aws/
 .codex/
 .venv/
+hardware/camera/.connection/
 
 # Keep the current presentation; retain intermediate decks/backups locally only.
 presentations/20261015/*.pptx
 !presentations/20261015/M1_10_15_全体.pptx
+
+# Research software and presentation history remain local.
+**/backups/
+presentations/20261112/.*.pptx
+presentations/20261112/preview/
+data/processed/**/previous_analysis/
+~$*

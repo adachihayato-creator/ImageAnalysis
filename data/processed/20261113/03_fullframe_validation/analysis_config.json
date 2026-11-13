@@ -1,0 +1,20 @@
+{
+  "common_reference": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/1h/photo_20261112_163701_835677.jpg",
+  "primary_sigma": 8,
+  "primary_threshold": 0.1,
+  "minimum_component_area": 3,
+  "canonical_size": 256,
+  "masks_pixels": {
+    "full": 65536,
+    "central18": 26896,
+    "outer18": 38640,
+    "edge5": 12636,
+    "outer18_without_edge5": 26004,
+    "inside_edge5": 52900
+  },
+  "central_each_edge_fraction": 0.1796875,
+  "edge5_each_edge_fraction": 0.05078125,
+  "segmentation": "primary: connected components separately within each mask; partition: full spots partitioned without resegmentation",
+  "inference": "3 independent films, high peak1 film;5 technical repeats of10min only; no causal or equivalence claim",
+  "code_sha256": "a84677bc624bdd76c79115f8f4225a756a80da370789545e31e91df27a978036"
+}

@@ -1,0 +1,278 @@
+[
+  {
+    "image": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/1h/photo_20261112_163701_835677.jpg",
+    "image_sha256": "5b4409fc72b3a86a6c768b1b6014a9480c00a48757ad4f2c88abf5b07f66531c",
+    "json_sha256": "09343c11711aebc6f09074c8715ca182a6757ff7cad1f3e9d05bf46509d41184",
+    "corners": [
+      [
+        1099.0,
+        449.0
+      ],
+      [
+        1349.0,
+        454.0
+      ],
+      [
+        1350.0,
+        697.0
+      ],
+      [
+        1096.0,
+        698.0
+      ]
+    ]
+  },
+  {
+    "image": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/2h/photo_20261112_175349_328671.jpg",
+    "image_sha256": "fe2d00422cb57a2a570730fddcc479e6b549ecdecd5f32571bd0908050f4cd03",
+    "json_sha256": "9056edbf8c729610227b7a95687a55708bb5d20ed760e8fdf531f7f1a633b445",
+    "corners": [
+      [
+        1102.0,
+        447.0
+      ],
+      [
+        1351.0,
+        451.0
+      ],
+      [
+        1354.0,
+        695.0
+      ],
+      [
+        1100.0,
+        697.0
+      ]
+    ]
+  },
+  {
+    "image": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/3h/photo_20261112_185926_165626.jpg",
+    "image_sha256": "05d0b94d11d158d1caa1d75fe2a5c0d34656c320ea7d95b47c980121bdeb966c",
+    "json_sha256": "e520b729c037e9306cf3873c2edd31297859b59366ab6ee0f6ec36d8ff8020b3",
+    "corners": [
+      [
+        1104.0,
+        450.0
+      ],
+      [
+        1354.0,
+        453.0
+      ],
+      [
+        1357.0,
+        695.0
+      ],
+      [
+        1103.0,
+        699.0
+      ]
+    ]
+  },
+  {
+    "image": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/4h/photo_20261112_194141_190983.jpg",
+    "image_sha256": "ebd982d6f89d865fb928773d7719ebf6dda2734287bd5c54dc772777bac3b7e5",
+    "json_sha256": "25054dc027cdd2492b88ce4bffaaa702e3ad96e3cc6f6a435d268794df476190",
+    "corners": [
+      [
+        1108.0,
+        444.0
+      ],
+      [
+        1357.0,
+        451.0
+      ],
+      [
+        1356.0,
+        694.0
+      ],
+      [
+        1102.0,
+        692.0
+      ]
+    ]
+  },
+  {
+    "image": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/1h/photo_20261112_163823_568713.jpg",
+    "image_sha256": "dfbd86d33b23458d637a5019efe8f2d77d780dc70e2a48e24b07f4f1df280663",
+    "json_sha256": "646263ee789ee03fb0a1783436c5dc498f87760f204e12e96a2f91cc76789468",
+    "corners": [
+      [
+        1125.0,
+        435.0
+      ],
+      [
+        1347.0,
+        441.0
+      ],
+      [
+        1336.0,
+        702.0
+      ],
+      [
+        1102.0,
+        697.0
+      ]
+    ]
+  },
+  {
+    "image": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/2h/photo_20261112_175429_369058.jpg",
+    "image_sha256": "c84797822cb1e41f755b92c31b12c96e15ff9e80df4234be694311a583ef215e",
+    "json_sha256": "87b0be5d2f97d188f775b12b4e0db18bbfa008ca53d43b2d2781954ced1d6667",
+    "corners": [
+      [
+        1105.0,
+        437.0
+      ],
+      [
+        1352.0,
+        443.0
+      ],
+      [
+        1339.0,
+        699.0
+      ],
+      [
+        1100.0,
+        701.0
+      ]
+    ]
+  },
+  {
+    "image": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/3h/photo_20261112_190056_730761.jpg",
+    "image_sha256": "6f3600e5730ed02a292cd0042a0f6a0a1805a70c16348828790afc3eb6a84c65",
+    "json_sha256": "8885b863ad692154fc6bbaa75fb246f436b21b3b2eff174f64fc437609524919",
+    "corners": [
+      [
+        1101.0,
+        437.0
+      ],
+      [
+        1348.0,
+        451.0
+      ],
+      [
+        1330.0,
+        703.0
+      ],
+      [
+        1095.0,
+        700.0
+      ]
+    ]
+  },
+  {
+    "image": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/4h/photo_20261112_194238_111697.jpg",
+    "image_sha256": "e9be8087b0cbce32c18597f8dd060f0635532b89a27b4d258b37cc1a1370de68",
+    "json_sha256": "17d7dc19fd0037670d417786793ba5d2dddf01e57af8e368a9c9ea59582470d5",
+    "corners": [
+      [
+        1100.0,
+        439.0
+      ],
+      [
+        1347.0,
+        452.0
+      ],
+      [
+        1349.0,
+        684.0
+      ],
+      [
+        1098.0,
+        702.0
+      ]
+    ]
+  },
+  {
+    "image": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/0h/photo_20261112_164117_524607.jpg",
+    "image_sha256": "b4d974588f5f1a85e08921f7a4b0ea7164fdcc35dc77fbb818a9702ff5cde5c4",
+    "json_sha256": "2590af1d6a2ea26fd9fdd479a092d301031994702ac8cf4201d507fe2ef49f8a",
+    "corners": [
+      [
+        1096.0,
+        455.0
+      ],
+      [
+        1334.0,
+        456.0
+      ],
+      [
+        1355.0,
+        692.0
+      ],
+      [
+        1099.0,
+        697.0
+      ]
+    ]
+  },
+  {
+    "image": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/1h/photo_20261112_175516_408891.jpg",
+    "image_sha256": "a7b4039e68acebe128e5da9b0899570071e82ad1aae17f9da0ae65cb93f2a09c",
+    "json_sha256": "23cbcbcdcef4675718d7e252242ca15ed25d047c47e75b2f9c801e35410935d7",
+    "corners": [
+      [
+        1094.0,
+        447.0
+      ],
+      [
+        1351.0,
+        449.0
+      ],
+      [
+        1352.0,
+        686.0
+      ],
+      [
+        1098.0,
+        689.0
+      ]
+    ]
+  },
+  {
+    "image": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/2h/photo_20261112_190147_952547.jpg",
+    "image_sha256": "e6f8f43bf9b27c8725b248cf13ca85e0baeec7d68d710852d53716ba923ff887",
+    "json_sha256": "07f6375bcf890fdf5bf43d8d1257ff759705a1771b412543dc23677de180d483",
+    "corners": [
+      [
+        1103.0,
+        453.0
+      ],
+      [
+        1359.0,
+        458.0
+      ],
+      [
+        1359.0,
+        694.0
+      ],
+      [
+        1104.0,
+        695.0
+      ]
+    ]
+  },
+  {
+    "image": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/3h/photo_20261112_194343_578299.jpg",
+    "image_sha256": "e6c31fcec4a5878d2d317c815c443f72a20e74a48212e1f8d49103c862159a7e",
+    "json_sha256": "80638a47706a9b729a7bf5c49d40243037eaa6c6e2a9c638cd5f62743f910b35",
+    "corners": [
+      [
+        1099.0,
+        450.0
+      ],
+      [
+        1356.0,
+        454.0
+      ],
+      [
+        1356.0,
+        689.0
+      ],
+      [
+        1100.0,
+        690.0
+      ]
+    ]
+  }
+]

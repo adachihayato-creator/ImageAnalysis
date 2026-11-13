@@ -1,0 +1,11 @@
+﻿feature,settings_compared,15min_largest_count,15min_smallest_count,note
+gray_spatial_cv,108,27,0,条件数は独立膜数や確率ではない。複数特徴を探索した結果。
+relative_fine_pattern_sd,108,90,0,条件数は独立膜数や確率ではない。複数特徴を探索した結果。
+bright_area_percent,108,103,0,条件数は独立膜数や確率ではない。複数特徴を探索した結果。
+bright_components_per_10000px,108,72,17,条件数は独立膜数や確率ではない。複数特徴を探索した結果。
+bright_component_median_area_px,108,34,3,条件数は独立膜数や確率ではない。複数特徴を探索した結果。
+center_over_periphery_brightness,108,54,18,条件数は独立膜数や確率ではない。複数特徴を探索した結果。
+relative_contrast_p95,108,51,0,条件数は独立膜数や確率ではない。複数特徴を探索した結果。
+mean_Lstar,108,0,54,条件数は独立膜数や確率ではない。複数特徴を探索した結果。
+mean_astar,108,81,18,条件数は独立膜数や確率ではない。複数特徴を探索した結果。
+mean_bstar,108,108,0,条件数は独立膜数や確率ではない。複数特徴を探索した結果。

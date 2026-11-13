@@ -1,0 +1,158 @@
+[
+  {
+    "filename": "photo_20261112_163701_835677.jpg",
+    "anneal_min": 5,
+    "label": "1h",
+    "gains_RGB": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "full_image_clipped_fraction": 0.0,
+    "input": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/1h/photo_20261112_163701_835677.jpg",
+    "input_sha256": "5b4409fc72b3a86a6c768b1b6014a9480c00a48757ad4f2c88abf5b07f66531c"
+  },
+  {
+    "filename": "photo_20261112_175349_328671.jpg",
+    "anneal_min": 5,
+    "label": "2h",
+    "gains_RGB": [
+      0.9946439897121023,
+      1.1220946063885493,
+      1.3422883063322846
+    ],
+    "full_image_clipped_fraction": 0.0,
+    "input": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/2h/photo_20261112_175349_328671.jpg",
+    "input_sha256": "fe2d00422cb57a2a570730fddcc479e6b549ecdecd5f32571bd0908050f4cd03"
+  },
+  {
+    "filename": "photo_20261112_185926_165626.jpg",
+    "anneal_min": 5,
+    "label": "3h",
+    "gains_RGB": [
+      1.0075936743687375,
+      1.0529762211187912,
+      1.0630972615852223
+    ],
+    "full_image_clipped_fraction": 0.0,
+    "input": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/3h/photo_20261112_185926_165626.jpg",
+    "input_sha256": "05d0b94d11d158d1caa1d75fe2a5c0d34656c320ea7d95b47c980121bdeb966c"
+  },
+  {
+    "filename": "photo_20261112_194141_190983.jpg",
+    "anneal_min": 5,
+    "label": "4h",
+    "gains_RGB": [
+      0.9907791948558837,
+      1.0528609211774989,
+      1.0913961935817944
+    ],
+    "full_image_clipped_fraction": 0.0,
+    "input": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/4h/photo_20261112_194141_190983.jpg",
+    "input_sha256": "ebd982d6f89d865fb928773d7719ebf6dda2734287bd5c54dc772777bac3b7e5"
+  },
+  {
+    "filename": "photo_20261112_163823_568713.jpg",
+    "anneal_min": 10,
+    "label": "1h",
+    "gains_RGB": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "full_image_clipped_fraction": 0.0,
+    "input": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/1h/photo_20261112_163823_568713.jpg",
+    "input_sha256": "dfbd86d33b23458d637a5019efe8f2d77d780dc70e2a48e24b07f4f1df280663"
+  },
+  {
+    "filename": "photo_20261112_175429_369058.jpg",
+    "anneal_min": 10,
+    "label": "2h",
+    "gains_RGB": [
+      0.9900352918799108,
+      1.176770377631411,
+      1.4853365002571666
+    ],
+    "full_image_clipped_fraction": 0.0,
+    "input": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/2h/photo_20261112_175429_369058.jpg",
+    "input_sha256": "c84797822cb1e41f755b92c31b12c96e15ff9e80df4234be694311a583ef215e"
+  },
+  {
+    "filename": "photo_20261112_190056_730761.jpg",
+    "anneal_min": 10,
+    "label": "3h",
+    "gains_RGB": [
+      1.0011630421675037,
+      1.0386530900292366,
+      1.1300887087483376
+    ],
+    "full_image_clipped_fraction": 0.0,
+    "input": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/3h/photo_20261112_190056_730761.jpg",
+    "input_sha256": "6f3600e5730ed02a292cd0042a0f6a0a1805a70c16348828790afc3eb6a84c65"
+  },
+  {
+    "filename": "photo_20261112_194238_111697.jpg",
+    "anneal_min": 10,
+    "label": "4h",
+    "gains_RGB": [
+      1.010300424004956,
+      1.0739019233812543,
+      1.1671573573112908
+    ],
+    "full_image_clipped_fraction": 0.0,
+    "input": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/4h/photo_20261112_194238_111697.jpg",
+    "input_sha256": "e9be8087b0cbce32c18597f8dd060f0635532b89a27b4d258b37cc1a1370de68"
+  },
+  {
+    "filename": "photo_20261112_164117_524607.jpg",
+    "anneal_min": 15,
+    "label": "0h",
+    "gains_RGB": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "full_image_clipped_fraction": 0.0,
+    "input": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/0h/photo_20261112_164117_524607.jpg",
+    "input_sha256": "b4d974588f5f1a85e08921f7a4b0ea7164fdcc35dc77fbb818a9702ff5cde5c4"
+  },
+  {
+    "filename": "photo_20261112_175516_408891.jpg",
+    "anneal_min": 15,
+    "label": "1h",
+    "gains_RGB": [
+      0.9874893202706639,
+      1.1728332173740184,
+      1.604233187309929
+    ],
+    "full_image_clipped_fraction": 4.018775720164609e-06,
+    "input": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/1h/photo_20261112_175516_408891.jpg",
+    "input_sha256": "a7b4039e68acebe128e5da9b0899570071e82ad1aae17f9da0ae65cb93f2a09c"
+  },
+  {
+    "filename": "photo_20261112_190147_952547.jpg",
+    "anneal_min": 15,
+    "label": "2h",
+    "gains_RGB": [
+      0.9712696228735377,
+      1.079145819599355,
+      1.1714491647335692
+    ],
+    "full_image_clipped_fraction": 0.0,
+    "input": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/2h/photo_20261112_190147_952547.jpg",
+    "input_sha256": "e6f8f43bf9b27c8725b248cf13ca85e0baeec7d68d710852d53716ba923ff887"
+  },
+  {
+    "filename": "photo_20261112_194343_578299.jpg",
+    "anneal_min": 15,
+    "label": "3h",
+    "gains_RGB": [
+      0.9835760382304028,
+      1.072016458958123,
+      1.1641647570686284
+    ],
+    "full_image_clipped_fraction": 0.0,
+    "input": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/3h/photo_20261112_194343_578299.jpg",
+    "input_sha256": "e6c31fcec4a5878d2d317c815c443f72a20e74a48212e1f8d49103c862159a7e"
+  }
+]

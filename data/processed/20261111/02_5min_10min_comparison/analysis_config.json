@@ -1,0 +1,42 @@
+{
+  "primary_margin": 0.18,
+  "margins": [
+    0.12,
+    0.18,
+    0.24
+  ],
+  "registration": "detected substrate corners; perspective warp 256x256; not pixel-perfect registration",
+  "paper_patch_centers": [
+    [
+      785,
+      555
+    ],
+    [
+      1585,
+      555
+    ],
+    [
+      1185,
+      250
+    ],
+    [
+      1185,
+      855
+    ]
+  ],
+  "paper_patch_size": [
+    40,
+    40
+  ],
+  "fine_pattern_filter": {
+    "gaussian_sigma_pixels": [
+      0.7,
+      3.0
+    ],
+    "coordinate_system": "256x256 warped image"
+  },
+  "sample_count": "one film per condition assumed from user labels; not replicated films",
+  "representative_5min_1day": "first of five fixed images, not selected by appearance",
+  "fixed_profile_sha256": "e2c6d57c337cdb281bd6a7885bb437310ea60bf1eb8c482316721e3b853d28f7",
+  "code_sha256": "8b09f4264723090d9d9dd9c5b4315c959313b8db59a8a184170dde56700e7f08"
+}

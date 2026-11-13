@@ -1,0 +1,89 @@
+[
+  {
+    "anneal_min": 5,
+    "label": "3h",
+    "old": "photo_20261112_183616_684396.jpg",
+    "new": "photo_20261112_185926_165626.jpg",
+    "captured_at": "2026-11-12T18:59:26.165626+09:00",
+    "moves": [
+      {
+        "source": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/3h/photo_20261112_183616_684396.jpg",
+        "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/_履歴/20261112_1901差替前/5min/3h/photo_20261112_183616_684396.jpg",
+        "sha256": "a3fbe6ffaaa96c2fd06c21bb5df442c4bae83c2f81431ca54277444eca7f1800"
+      },
+      {
+        "source": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/3h/photo_20261112_183616_684396.json",
+        "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/_履歴/20261112_1901差替前/5min/3h/photo_20261112_183616_684396.json",
+        "sha256": "afb3bdefb54d46ba20781c058efe905fa36f62a787bbf04a059d1d3017c11dff"
+      },
+      {
+        "source": "data/raw/試行錯誤写真/photo_20261112_185926_165626.jpg",
+        "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/3h/photo_20261112_185926_165626.jpg",
+        "sha256": "05d0b94d11d158d1caa1d75fe2a5c0d34656c320ea7d95b47c980121bdeb966c"
+      },
+      {
+        "source": "data/raw/試行錯誤写真/photo_20261112_185926_165626.json",
+        "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/3h/photo_20261112_185926_165626.json",
+        "sha256": "e520b729c037e9306cf3873c2edd31297859b59366ab6ee0f6ec36d8ff8020b3"
+      }
+    ]
+  },
+  {
+    "anneal_min": 10,
+    "label": "3h",
+    "old": "photo_20261112_183656_738096.jpg",
+    "new": "photo_20261112_190056_730761.jpg",
+    "captured_at": "2026-11-12T19:00:56.730761+09:00",
+    "moves": [
+      {
+        "source": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/3h/photo_20261112_183656_738096.jpg",
+        "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/_履歴/20261112_1901差替前/10min/3h/photo_20261112_183656_738096.jpg",
+        "sha256": "7140de20e1505e37e70955305a786e035f0819a797aa1508d3718884e08ab4a4"
+      },
+      {
+        "source": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/3h/photo_20261112_183656_738096.json",
+        "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/_履歴/20261112_1901差替前/10min/3h/photo_20261112_183656_738096.json",
+        "sha256": "5a2c7392748edfe5c62c04bba07dc1ebc6dd70b55b49e6e1c733c0c950741dc8"
+      },
+      {
+        "source": "data/raw/試行錯誤写真/photo_20261112_190056_730761.jpg",
+        "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/3h/photo_20261112_190056_730761.jpg",
+        "sha256": "6f3600e5730ed02a292cd0042a0f6a0a1805a70c16348828790afc3eb6a84c65"
+      },
+      {
+        "source": "data/raw/試行錯誤写真/photo_20261112_190056_730761.json",
+        "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/3h/photo_20261112_190056_730761.json",
+        "sha256": "8885b863ad692154fc6bbaa75fb246f436b21b3b2eff174f64fc437609524919"
+      }
+    ]
+  },
+  {
+    "anneal_min": 15,
+    "label": "2h",
+    "old": "photo_20261112_183737_001142.jpg",
+    "new": "photo_20261112_190147_952547.jpg",
+    "captured_at": "2026-11-12T19:01:47.952547+09:00",
+    "moves": [
+      {
+        "source": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/2h/photo_20261112_183737_001142.jpg",
+        "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/_履歴/20261112_1901差替前/15min/2h/photo_20261112_183737_001142.jpg",
+        "sha256": "23e44f0a67c2b61b5399001f3daea1ab8eddd19741f97d326c35098b0a15d156"
+      },
+      {
+        "source": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/2h/photo_20261112_183737_001142.json",
+        "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/_履歴/20261112_1901差替前/15min/2h/photo_20261112_183737_001142.json",
+        "sha256": "b0409aedc8ab643b67f1ed9c46efcbf13c128aa9c1c2bb422b71fa500db58def"
+      },
+      {
+        "source": "data/raw/試行錯誤写真/photo_20261112_190147_952547.jpg",
+        "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/2h/photo_20261112_190147_952547.jpg",
+        "sha256": "e6f8f43bf9b27c8725b248cf13ca85e0baeec7d68d710852d53716ba923ff887"
+      },
+      {
+        "source": "data/raw/試行錯誤写真/photo_20261112_190147_952547.json",
+        "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/2h/photo_20261112_190147_952547.json",
+        "sha256": "07f6375bcf890fdf5bf43d8d1257ff759705a1771b412543dc23677de180d483"
+      }
+    ]
+  }
+]

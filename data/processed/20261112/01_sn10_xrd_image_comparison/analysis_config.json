@@ -1,0 +1,62 @@
+{
+  "sample": "Sn/(Sn+Pb)=0.10; Pb0.90; SnF2 0.1mol% total composition; anneal130C",
+  "windows": {
+    "low": {
+      "search": [
+        12,
+        13
+      ],
+      "background": [
+        [
+          11.5,
+          11.8
+        ],
+        [
+          13.1,
+          13.3
+        ]
+      ]
+    },
+    "main": {
+      "search": [
+        13.4,
+        14.7
+      ],
+      "background": [
+        [
+          13.15,
+          13.35
+        ],
+        [
+          14.9,
+          15.2
+        ]
+      ]
+    },
+    "high": {
+      "search": [
+        27.5,
+        29.0
+      ],
+      "background": [
+        [
+          27.0,
+          27.3
+        ],
+        [
+          29.2,
+          29.5
+        ]
+      ]
+    }
+  },
+  "smoothing": "five-point moving average",
+  "area": "signed net area over each search window",
+  "phase_assignment": null,
+  "instrument_broadening_corrected": false,
+  "no_automatic_angle_shift_correction": true,
+  "photo_roi": "corner-aligned256x256,each edge18%removed",
+  "physical_same_film_repeated_measurement": "not independently verified; user matched condition/time labels",
+  "timestamp_assumption": "RASX Z parsed asUTC and converted toJST; device clock correctness not verified",
+  "code_sha256": "66de711d397c720b71161c3e4f1a92774f0f8b2ec20561d22dce0e04d9595b71"
+}

@@ -1,0 +1,55 @@
+{
+  "test": "application_restart_fixed_settings",
+  "restart_reported_by_user": true,
+  "before_json": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/20261110/10min/3h/photo_20261110_190136_786693.json",
+  "after_json": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/03_設定固定後_再起動確認/photo_20261110_190312_797590.json",
+  "profile_sha256": "e2c6d57c337cdb281bd6a7885bb437310ea60bf1eb8c482316721e3b853d28f7",
+  "same_profile": true,
+  "all_compared_values_identical": true,
+  "comparison": {
+    "ExposureTime": {
+      "before": 12772,
+      "after": 12772,
+      "identical": true
+    },
+    "AnalogueGain": {
+      "before": 1.1228070259094238,
+      "after": 1.1228070259094238,
+      "identical": true
+    },
+    "DigitalGain": {
+      "before": 1.0009269714355469,
+      "after": 1.0009269714355469,
+      "identical": true
+    },
+    "ColourGains": {
+      "before": [
+        2.2844626903533936,
+        1.9236259460449219
+      ],
+      "after": [
+        2.2844626903533936,
+        1.9236259460449219
+      ],
+      "identical": true
+    },
+    "LensPosition": {
+      "before": 12.0,
+      "after": 12.0,
+      "identical": true
+    }
+  },
+  "limitation": "One frame before/after application restart; does not establish RGB or mechanical repeatability.",
+  "moves": [
+    {
+      "source": "data/raw/試行錯誤写真/photo_20261110_190312_797590.jpg",
+      "destination": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/03_設定固定後_再起動確認/photo_20261110_190312_797590.jpg",
+      "sha256": "3a0c36462f7b701bfcd35da5c17301c3e2a8ea5643440fab433238471d7ce2f6"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/photo_20261110_190312_797590.json",
+      "destination": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/03_設定固定後_再起動確認/photo_20261110_190312_797590.json",
+      "sha256": "3fe22e7b7d4d8f6ffa84aaea10c036932cfa7869a150cd942edacfdddef6eb34"
+    }
+  ]
+}

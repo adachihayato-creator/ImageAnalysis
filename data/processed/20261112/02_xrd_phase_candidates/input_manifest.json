@@ -1,0 +1,26 @@
+[
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/0h/SnI2 0.1 5min.txt",
+    "sha256": "ea8fea1529a235db8c2bccfaae4f91098c433d7ed431cf13d30cc31e50fe83be"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/1h/SnI2 0.1 5min 1h.txt",
+    "sha256": "9a75965721d986916ea5f64893e91fb722ab5b637fc1018731241ff1e9b0546f"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/0h/SnI2 0.1 10min.txt",
+    "sha256": "eb5d8935b1fbc3ddba9232c8ffd0e1ef6aa9ba88f8bbb4e15346c6d33737b45a"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/1h/SnI2 0.1 10min 1hr.txt",
+    "sha256": "ef5a84c079ed1ce05c042a2b7aa4e6a447ed85c3e544b6effa7506bc7c363334"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/0h/SnI2 0.1 15min.txt",
+    "sha256": "9d97de4c7b0458b1f27ec8f9967b11108dadc13607a44651815c12f22db7aef6"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/1h/SnI2 0.1 15min 1h.txt",
+    "sha256": "a16792460182e0d1a9b5e69935e27fdaebcc1380804b7dad445323089c6b9fee"
+  }
+]

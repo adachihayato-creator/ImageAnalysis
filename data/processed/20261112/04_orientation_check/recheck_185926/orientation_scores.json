@@ -1,0 +1,42 @@
+[
+  {
+    "mirror": false,
+    "ccw_rotation_deg": 0,
+    "correlation": 0.9385134833177898
+  },
+  {
+    "mirror": false,
+    "ccw_rotation_deg": 90,
+    "correlation": 0.011460452423705829
+  },
+  {
+    "mirror": false,
+    "ccw_rotation_deg": 180,
+    "correlation": 0.104528889455217
+  },
+  {
+    "mirror": false,
+    "ccw_rotation_deg": 270,
+    "correlation": 0.015844435329443005
+  },
+  {
+    "mirror": true,
+    "ccw_rotation_deg": 0,
+    "correlation": 0.2129061719494348
+  },
+  {
+    "mirror": true,
+    "ccw_rotation_deg": 90,
+    "correlation": -0.029588207479356417
+  },
+  {
+    "mirror": true,
+    "ccw_rotation_deg": 180,
+    "correlation": 0.12715485814803146
+  },
+  {
+    "mirror": true,
+    "ccw_rotation_deg": 270,
+    "correlation": 0.04037974041520952
+  }
+]

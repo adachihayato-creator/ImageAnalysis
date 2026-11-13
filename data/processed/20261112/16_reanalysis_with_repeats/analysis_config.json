@@ -1,0 +1,21 @@
+{
+  "repeat_sample": "10min film inferred from user following requested protocol; same-film features verified",
+  "repeat_count": 5,
+  "repeat_protocol": "user following remove/replace protocol; each individual action not independently observed",
+  "common_background_reference_filename": "photo_20261112_163823_568713.jpg",
+  "common_paper_RGB": [
+    156.96406249999998,
+    177.0725,
+    185.45656250000002
+  ],
+  "primary_ROI_margin": 0.18,
+  "sensitivity_margins": [
+    0.12,
+    0.18,
+    0.24
+  ],
+  "sd_ddof": 1,
+  "units": "JPEG RGB values, not percent or calibrated color difference",
+  "scope": "five technical replicates, one film, one session; not independent films or between-day uncertainty",
+  "XRD_clock": "unreliable per user; nominal times only"
+}

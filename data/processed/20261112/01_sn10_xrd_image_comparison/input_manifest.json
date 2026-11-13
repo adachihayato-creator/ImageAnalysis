@@ -1,0 +1,92 @@
+[
+  {
+    "kind": "xrd_txt",
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/0h/SnI2 0.1 5min.txt",
+    "sha256": "ea8fea1529a235db8c2bccfaae4f91098c433d7ed431cf13d30cc31e50fe83be"
+  },
+  {
+    "kind": "xrd_rasx",
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/0h/SnI2 0.1 5min.rasx",
+    "sha256": "2eb47fd2c7a6368b18a7d09f62ebffec9740b0188a85deeed23c7c444b296250"
+  },
+  {
+    "kind": "xrd_txt",
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/1h/SnI2 0.1 5min 1h.txt",
+    "sha256": "9a75965721d986916ea5f64893e91fb722ab5b637fc1018731241ff1e9b0546f"
+  },
+  {
+    "kind": "xrd_rasx",
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/1h/SnI2 0.1 5min 1h.rasx",
+    "sha256": "41edb7ed41e057d7a0e59a422c380a0ba7b411c3361b363afb6f30881fba2fa7"
+  },
+  {
+    "kind": "xrd_txt",
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/0h/SnI2 0.1 10min.txt",
+    "sha256": "eb5d8935b1fbc3ddba9232c8ffd0e1ef6aa9ba88f8bbb4e15346c6d33737b45a"
+  },
+  {
+    "kind": "xrd_rasx",
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/0h/SnI2 0.1 10min.rasx",
+    "sha256": "b960a113a5d81ab6f3126e527b601880d2eff130bbec3e34c005e55de3e0e778"
+  },
+  {
+    "kind": "xrd_txt",
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/1h/SnI2 0.1 10min 1hr.txt",
+    "sha256": "ef5a84c079ed1ce05c042a2b7aa4e6a447ed85c3e544b6effa7506bc7c363334"
+  },
+  {
+    "kind": "xrd_rasx",
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/1h/SnI2 0.1 10min 1h.rasx",
+    "sha256": "3d94d08d4f90b09f3523f850af492c01131594ead572be997777508ac7e1c770"
+  },
+  {
+    "kind": "xrd_txt",
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/0h/SnI2 0.1 15min.txt",
+    "sha256": "9d97de4c7b0458b1f27ec8f9967b11108dadc13607a44651815c12f22db7aef6"
+  },
+  {
+    "kind": "xrd_rasx",
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/0h/SnI2 0.1 15min.rasx",
+    "sha256": "5be7796ca44269ec048bb22d263c9ce000847b242bea913dab9fdb2ca0c739e9"
+  },
+  {
+    "kind": "xrd_txt",
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/1h/SnI2 0.1 15min 1h.txt",
+    "sha256": "a16792460182e0d1a9b5e69935e27fdaebcc1380804b7dad445323089c6b9fee"
+  },
+  {
+    "kind": "xrd_rasx",
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/1h/SnI2 0.1 15min 1h.rasx",
+    "sha256": "f21a532aea88368fbe6d9dd5eb09307dcf6957e8183980984d2b63bc17574a56"
+  },
+  {
+    "kind": "photo_1h",
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/1h/photo_20261112_163701_835677.jpg",
+    "sha256": "5b4409fc72b3a86a6c768b1b6014a9480c00a48757ad4f2c88abf5b07f66531c"
+  },
+  {
+    "kind": "photo_metadata_1h",
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/1h/photo_20261112_163701_835677.json",
+    "sha256": "09343c11711aebc6f09074c8715ca182a6757ff7cad1f3e9d05bf46509d41184"
+  },
+  {
+    "kind": "photo_1h",
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/1h/photo_20261112_163823_568713.jpg",
+    "sha256": "dfbd86d33b23458d637a5019efe8f2d77d780dc70e2a48e24b07f4f1df280663"
+  },
+  {
+    "kind": "photo_metadata_1h",
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/1h/photo_20261112_163823_568713.json",
+    "sha256": "646263ee789ee03fb0a1783436c5dc498f87760f204e12e96a2f91cc76789468"
+  },
+  {
+    "kind": "photo_1h",
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/1h/photo_20261112_175516_408891.jpg",
+    "sha256": "a7b4039e68acebe128e5da9b0899570071e82ad1aae17f9da0ae65cb93f2a09c"
+  },
+  {
+    "kind": "photo_metadata_1h",
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/1h/photo_20261112_175516_408891.json",
+    "sha256": "23cbcbcdcef4675718d7e252242ca15ed25d047c47e75b2f9c801e35410935d7"
+  }
+]

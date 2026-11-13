@@ -1,0 +1,104 @@
+[
+  {
+    "anneal_min": 5,
+    "label": "previous",
+    "filename": "photo_20261112_185926_165626.jpg",
+    "film_rgb": [
+      68.62224866151101,
+      37.49758328375967,
+      34.904818560380726
+    ],
+    "paper_rgb": [
+      158.56125,
+      166.93515625,
+      166.66234375
+    ],
+    "laplacian_variance": 34.15779421344374,
+    "film_clipped_fraction": 0.0
+  },
+  {
+    "anneal_min": 5,
+    "label": "latest",
+    "filename": "photo_20261112_194141_190983.jpg",
+    "film_rgb": [
+      70.00431290898275,
+      37.54528554431886,
+      33.38890541344438
+    ],
+    "paper_rgb": [
+      161.2521875,
+      166.9534375,
+      162.3409375
+    ],
+    "laplacian_variance": 30.175116653033907,
+    "film_clipped_fraction": 0.0
+  },
+  {
+    "anneal_min": 10,
+    "label": "previous",
+    "filename": "photo_20261112_190056_730761.jpg",
+    "film_rgb": [
+      56.54933819155265,
+      29.69995538370018,
+      26.776286436644853
+    ],
+    "paper_rgb": [
+      156.78171875,
+      170.48281250000002,
+      164.10796875
+    ],
+    "laplacian_variance": 35.33220247876368,
+    "film_clipped_fraction": 0.0
+  },
+  {
+    "anneal_min": 10,
+    "label": "latest",
+    "filename": "photo_20261112_194238_111697.jpg",
+    "film_rgb": [
+      55.921326591314696,
+      28.4607004759072,
+      26.135373289708507
+    ],
+    "paper_rgb": [
+      155.36375,
+      164.88703125,
+      158.8959375
+    ],
+    "laplacian_variance": 33.321669698003475,
+    "film_clipped_fraction": 0.0
+  },
+  {
+    "anneal_min": 15,
+    "label": "previous",
+    "filename": "photo_20261112_190147_952547.jpg",
+    "film_rgb": [
+      65.49907049375372,
+      32.82603361094586,
+      30.325624628197502
+    ],
+    "paper_rgb": [
+      162.50765625,
+      164.016875,
+      157.81828124999998
+    ],
+    "laplacian_variance": 40.28779649424526,
+    "film_clipped_fraction": 0.0
+  },
+  {
+    "anneal_min": 15,
+    "label": "latest",
+    "filename": "photo_20261112_194343_578299.jpg",
+    "film_rgb": [
+      64.97323022010708,
+      32.93556662700773,
+      30.513422070196313
+    ],
+    "paper_rgb": [
+      160.474375,
+      165.10765625,
+      158.80578125
+    ],
+    "laplacian_variance": 37.83140383328376,
+    "film_clipped_fraction": 0.0
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "mapping": "sample numbers previously confirmed by user",
+  "angle_axis": "instrument header theta/2theta degrees; convention/source not confirmed",
+  "smoothing": "5-point moving average",
+  "peak_search": [
+    13.4,
+    14.4
+  ],
+  "background_windows": [
+    [
+      13.0,
+      13.3
+    ],
+    [
+      14.6,
+      14.9
+    ]
+  ],
+  "net_area_window": [
+    13.4,
+    14.4
+  ],
+  "phase_assignment": null,
+  "instrument_broadening_corrected": false,
+  "image_outer_margin_each_edge": 0.18,
+  "initial_images": "original uncorrected crops; initial features only",
+  "future_metrics": "existing 05 analysis, 3h minus0h, ellipse included, stored separately",
+  "code_sha256": "f4cbfe50e137832177cc0bf2bba6ff884a8a0197687b2ca9ef0899046826225c"
+}

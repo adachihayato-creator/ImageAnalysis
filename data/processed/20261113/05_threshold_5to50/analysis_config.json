@@ -1,0 +1,54 @@
+{
+  "independent_films": 3,
+  "nominal_age": "1h",
+  "perimeter_exclusion": false,
+  "ellipse_exclusion": false,
+  "thresholds_percent": [
+    5,
+    10,
+    15,
+    20,
+    25,
+    30,
+    35,
+    40,
+    45,
+    50
+  ],
+  "primary_sigma_px": 8,
+  "sigma_sensitivity": [
+    6,
+    8,
+    12
+  ],
+  "correction_sensitivity": [
+    false,
+    true
+  ],
+  "minimum_component_pixels": 3,
+  "common_bg_reference": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/1h/photo_20261112_163701_835677.jpg",
+  "fit_centers": [
+    [
+      785,
+      555
+    ],
+    [
+      1585,
+      555
+    ],
+    [
+      1185,
+      250
+    ],
+    [
+      1185,
+      855
+    ]
+  ],
+  "intensity": "0.2126R+0.7152G+0.0722B in JPEG RGB units",
+  "contrast": "(I-Gaussian(I))/max(Gaussian(I),1)",
+  "area": "whole65536 pixels; secondary region densities use same full-frame mask",
+  "edge5": "13pixel wide outer band, sensitivity region not physically identified glass/reflection mask",
+  "uncertainty": "sensitivity bands are processing choices, not statistical confidence intervals",
+  "code_sha256": "d0efef5da87267db47a8947a89830becae3a41309939273efb3a1e1726922966"
+}

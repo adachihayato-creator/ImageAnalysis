@@ -1,0 +1,60 @@
+{
+  "windows": {
+    "low": {
+      "search": [
+        12,
+        13
+      ],
+      "background": [
+        [
+          11.5,
+          11.8
+        ],
+        [
+          13.1,
+          13.3
+        ]
+      ]
+    },
+    "main": {
+      "search": [
+        13.4,
+        14.7
+      ],
+      "background": [
+        [
+          13.15,
+          13.35
+        ],
+        [
+          14.9,
+          15.2
+        ]
+      ]
+    },
+    "high": {
+      "search": [
+        27.5,
+        29.0
+      ],
+      "background": [
+        [
+          27.0,
+          27.3
+        ],
+        [
+          29.2,
+          29.5
+        ]
+      ]
+    }
+  },
+  "smoothing_points": 5,
+  "phase_fractions": false,
+  "instrument_broadening_correction": false,
+  "angular_shift_correction": false,
+  "ROI_margin": 0.18,
+  "background_correction": "perchannel baseline paper/current paper ratio, JPEG units",
+  "clock_assumption": "XRD PC clock unreliable, confirmed by user. Exported timestamps/gaps retained only as original records, not actual timing evidence.",
+  "photo_pairing": "latest matching-film photograph, actual time gaps reported; not necessarily same nominal age"
+}

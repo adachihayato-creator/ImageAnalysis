@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Pi Camera
+Comment=薄膜撮影・JPEGと撮影設定JSONの保存
+Exec=/usr/bin/python3 /home/morimoto.takumi.pi/camera_pero/camera_app.py
+Path=/home/morimoto.takumi.pi/camera_pero
+Icon=camera-photo
+Terminal=true
+Categories=Graphics;Photography;

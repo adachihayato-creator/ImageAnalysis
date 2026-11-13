@@ -1,0 +1,62 @@
+{
+  "independent_films": 3,
+  "time_label": "nominal1h all3; XRD clock unreliable; no precise simultaneity assumption",
+  "common_background_reference": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/1h/photo_20261112_163701_835677.jpg",
+  "correction": "same background RGB reference for cross-film comparison, raw retained",
+  "fit_centers": [
+    [
+      785,
+      555
+    ],
+    [
+      1585,
+      555
+    ],
+    [
+      1185,
+      250
+    ],
+    [
+      1185,
+      855
+    ]
+  ],
+  "patch_size": 40,
+  "primary": {
+    "margin": 0.0,
+    "ellipse_excluded": false,
+    "sigma": 8,
+    "threshold": 0.1,
+    "minimum_component_area_px": 3
+  },
+  "sensitivities": {
+    "margins": [
+      0.0,
+      0.12,
+      0.18,
+      0.24
+    ],
+    "ellipse": [
+      false,
+      true
+    ],
+    "background_normalized": [
+      false,
+      true
+    ],
+    "sigma": [
+      6,
+      8,
+      12
+    ],
+    "threshold": [
+      0.05,
+      0.1,
+      0.15
+    ]
+  },
+  "spot_definition": "local grayscale contrast (I-Gaussian(I))/Gaussian(I) above threshold; connected pixels >=3",
+  "ellipse": "center127.5,127.5 radii33.28,43.52 px in256px image; generic sensitivity mask, not detected reflection",
+  "inference": "exploratory; no correlations, pvalues, phase segmentation or machine learning",
+  "code_sha256": "6bb063e78a2e90f2830ecb5a35a478bc60425d8c66f7dd7220ab8930932936f8"
+}

@@ -1,0 +1,10 @@
+﻿anneal_min,channel,same_slope_direction_all_four,slopes,raw_endpoint_delta,corrected_endpoint_delta,note
+5,R,True,-0.55859;-0.35313;-0.51498;-0.29542,-1.222263533610942,-0.7011685228248865,"descriptive only, no uncertainty or significance threshold"
+5,G,True,-1.22677;-0.32278;-1.11685;-0.27988,-2.650765913146934,-0.6642856496861853,"descriptive only, no uncertainty or significance threshold"
+5,B,True,-1.44098;-0.35712;-1.17654;-0.24860,-2.7924226650803092,-0.5900241977912373,"descriptive only, no uncertainty or significance threshold"
+10,R,False,-0.02748;-0.01071;0.01579;0.04347,0.03751487209994053,0.10328413696115035,"descriptive only, no uncertainty or significance threshold"
+10,G,True,-0.72227;-0.17422;-0.58002;-0.09683,-1.3780487804878057,-0.2300537311773354,"descriptive only, no uncertainty or significance threshold"
+10,B,True,-2.98150;-1.39182;-2.74378;-1.27767,-6.518887566924448,-3.035595039305697,"descriptive only, no uncertainty or significance threshold"
+15,R,True,1.29106;0.49088;1.33405;0.53047,3.1240704937537203,1.242257497035446,"descriptive only, no uncertainty or significance threshold"
+15,G,False,-1.09838;0.06201;-1.00050;0.10893,-2.3429506246282017,0.25509270970609066,"descriptive only, no uncertainty or significance threshold"
+15,B,True,-3.18356;-0.83616;-2.95527;-0.73504,-6.920620166567517,-1.7213171540392977,"descriptive only, no uncertainty or significance threshold"

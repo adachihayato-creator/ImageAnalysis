@@ -1,0 +1,122 @@
+[
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/0h/SnI2 0.1 5min.txt",
+    "kind": "xrd_txt",
+    "sha256": "ea8fea1529a235db8c2bccfaae4f91098c433d7ed431cf13d30cc31e50fe83be"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/0h/SnI2 0.1 5min.rasx",
+    "kind": "xrd_rasx",
+    "sha256": "2eb47fd2c7a6368b18a7d09f62ebffec9740b0188a85deeed23c7c444b296250"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/1h/SnI2 0.1 5min 1h.txt",
+    "kind": "xrd_txt",
+    "sha256": "9a75965721d986916ea5f64893e91fb722ab5b637fc1018731241ff1e9b0546f"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/1h/SnI2 0.1 5min 1h.rasx",
+    "kind": "xrd_rasx",
+    "sha256": "41edb7ed41e057d7a0e59a422c380a0ba7b411c3361b363afb6f30881fba2fa7"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/5h/SnI2 0.1 5min 5hr.txt",
+    "kind": "xrd_txt",
+    "sha256": "0446041d37f44a8a5bf96707a885d4cc0a7fe32f1bfcfe1e350932fde5cc8c87"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/5h/SnI2 0.1 5min 5hr.rasx",
+    "kind": "xrd_rasx",
+    "sha256": "2652df6f0a44c436e8d66f33c002bb3c5d1d819e34ecaf8cf1615a64f1c49691"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/0h/SnI2 0.1 10min.txt",
+    "kind": "xrd_txt",
+    "sha256": "eb5d8935b1fbc3ddba9232c8ffd0e1ef6aa9ba88f8bbb4e15346c6d33737b45a"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/0h/SnI2 0.1 10min.rasx",
+    "kind": "xrd_rasx",
+    "sha256": "b960a113a5d81ab6f3126e527b601880d2eff130bbec3e34c005e55de3e0e778"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/1h/SnI2 0.1 10min 1hr.txt",
+    "kind": "xrd_txt",
+    "sha256": "ef5a84c079ed1ce05c042a2b7aa4e6a447ed85c3e544b6effa7506bc7c363334"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/1h/SnI2 0.1 10min 1h.rasx",
+    "kind": "xrd_rasx",
+    "sha256": "3d94d08d4f90b09f3523f850af492c01131594ead572be997777508ac7e1c770"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/5h/SnI2 0.1 10min 5hr.txt",
+    "kind": "xrd_txt",
+    "sha256": "660470689e5807dbe512454ea0688942258f5dfff29b42f381fa23e67c82a93f"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/5h/SnI2 0.1 10min 5h.rasx",
+    "kind": "xrd_rasx",
+    "sha256": "b341b30a9f6c7cd9e0ddb60bcef065e8f5e113e05e9e6acbdf34ee6271cc9d01"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/0h/SnI2 0.1 15min.txt",
+    "kind": "xrd_txt",
+    "sha256": "9d97de4c7b0458b1f27ec8f9967b11108dadc13607a44651815c12f22db7aef6"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/0h/SnI2 0.1 15min.rasx",
+    "kind": "xrd_rasx",
+    "sha256": "5be7796ca44269ec048bb22d263c9ce000847b242bea913dab9fdb2ca0c739e9"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/1h/SnI2 0.1 15min 1h.txt",
+    "kind": "xrd_txt",
+    "sha256": "a16792460182e0d1a9b5e69935e27fdaebcc1380804b7dad445323089c6b9fee"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/1h/SnI2 0.1 15min 1h.rasx",
+    "kind": "xrd_rasx",
+    "sha256": "f21a532aea88368fbe6d9dd5eb09307dcf6957e8183980984d2b63bc17574a56"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/5h/SnI2 0.1 15min 5h.txt",
+    "kind": "xrd_txt",
+    "sha256": "d8abefc3ea817d65fd00d5d8332d454eadfea127d8d38237706aa641460fa96e"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/5h/SnI2 0.1 15min 5h.rasx",
+    "kind": "xrd_rasx",
+    "sha256": "c888a15166e121e7332ed6ce3280ad2fe147fc45d0f6885a864ed283f6fbdfbe"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_205257_705981.jpg",
+    "kind": "latest_photo",
+    "sha256": "71d1262cbbe8fa615f2b41901d3da8d1b88f551f325636e092885c71b0aff598"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_205257_705981.json",
+    "kind": "latest_photo_metadata",
+    "sha256": "fc995645088a3f7cfb393b615b7a752313d2c1063f92780f84c9150d94ce3409"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_205350_731887.jpg",
+    "kind": "latest_photo",
+    "sha256": "c9599b06eb5af82442ae7ae2e01a62154cfb160b66523ff7553fa85795df2e96"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_205350_731887.json",
+    "kind": "latest_photo_metadata",
+    "sha256": "f01e3cad0329e268cc79440462eb54685874eb4614374ad5d91dadaa4f8024b2"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_205430_272313.jpg",
+    "kind": "latest_photo",
+    "sha256": "f04393e2055a4d724730b3389b11d5b7d7a6677010b138d58678ebbe56906fdf"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_205430_272313.json",
+    "kind": "latest_photo_metadata",
+    "sha256": "a3855f8c8cbbe0b207ed854a8cf6e719b891fdd0837eb173519aca9ccd413185"
+  }
+]

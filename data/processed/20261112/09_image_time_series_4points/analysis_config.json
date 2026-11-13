@@ -1,0 +1,36 @@
+{
+  "primary_margin": 0.18,
+  "sensitivity_margins": [
+    0.12,
+    0.18,
+    0.24
+  ],
+  "ellipse_exclusion": false,
+  "canonical_size": 256,
+  "registration": "substrate corners; not pixel precise",
+  "background_patch_centers": [
+    [
+      785,
+      555
+    ],
+    [
+      1585,
+      555
+    ],
+    [
+      1185,
+      250
+    ],
+    [
+      1185,
+      855
+    ]
+  ],
+  "patch_size": 40,
+  "fine_pattern_gaussian_sigmas": [
+    0.7,
+    3
+  ],
+  "time_axis": "actual hours since first image of each film; first age differs",
+  "code_sha256": "78fce62b1e02fdb778530de5a0d323d5f8408504b92369b6fc4dab03c7f734db"
+}

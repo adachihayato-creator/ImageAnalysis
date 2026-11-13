@@ -1,0 +1,7 @@
+﻿region,settings,15min_largest_count
+full,18,18
+central18,18,18
+outer18,18,18
+edge5,18,18
+outer18_without_edge5,18,14
+inside_edge5,18,17

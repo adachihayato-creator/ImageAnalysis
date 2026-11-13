@@ -1,0 +1,65 @@
+[
+  {
+    "new": "photo_20261112_185926_165626.jpg",
+    "reference_anneal_min": 5,
+    "correlation": 0.9385134833177898,
+    "mirror": false,
+    "ccw_rotation_deg": 0
+  },
+  {
+    "new": "photo_20261112_185926_165626.jpg",
+    "reference_anneal_min": 10,
+    "correlation": 0.0728367677580224,
+    "mirror": false,
+    "ccw_rotation_deg": 180
+  },
+  {
+    "new": "photo_20261112_185926_165626.jpg",
+    "reference_anneal_min": 15,
+    "correlation": 0.08529302704390172,
+    "mirror": true,
+    "ccw_rotation_deg": 180
+  },
+  {
+    "new": "photo_20261112_190056_730761.jpg",
+    "reference_anneal_min": 5,
+    "correlation": 0.11986656546537215,
+    "mirror": true,
+    "ccw_rotation_deg": 270
+  },
+  {
+    "new": "photo_20261112_190056_730761.jpg",
+    "reference_anneal_min": 10,
+    "correlation": 0.228570055229253,
+    "mirror": false,
+    "ccw_rotation_deg": 0
+  },
+  {
+    "new": "photo_20261112_190056_730761.jpg",
+    "reference_anneal_min": 15,
+    "correlation": 0.08676345575842541,
+    "mirror": true,
+    "ccw_rotation_deg": 0
+  },
+  {
+    "new": "photo_20261112_190147_952547.jpg",
+    "reference_anneal_min": 5,
+    "correlation": 0.0694573760679675,
+    "mirror": true,
+    "ccw_rotation_deg": 180
+  },
+  {
+    "new": "photo_20261112_190147_952547.jpg",
+    "reference_anneal_min": 10,
+    "correlation": 0.12478963293031597,
+    "mirror": true,
+    "ccw_rotation_deg": 0
+  },
+  {
+    "new": "photo_20261112_190147_952547.jpg",
+    "reference_anneal_min": 15,
+    "correlation": 0.9698344297891768,
+    "mirror": false,
+    "ccw_rotation_deg": 0
+  }
+]

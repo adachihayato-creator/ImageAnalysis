@@ -1,0 +1,9 @@
+{
+  "settings_no_perimeter_or_ellipse_exclusion": 18,
+  "15min_largest_count": {
+    "bright_area_percent": 18,
+    "relative_fine_pattern_sd": 18,
+    "gray_spatial_cv": 0
+  },
+  "not_probabilities": true
+}

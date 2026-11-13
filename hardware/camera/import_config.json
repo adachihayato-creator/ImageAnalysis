@@ -1,0 +1,11 @@
+{
+  "host": "192.168.1.53",
+  "port": 22,
+  "known_hosts": ".connection/known_hosts",
+  "identity_file": ".connection/id_ed25519",
+  "user": "morimoto.takumi.pi",
+  "remote_dir": "/home/morimoto.takumi.pi/captures",
+  "destination": "../../data/raw/試行錯誤写真",
+  "interval_seconds": 15,
+  "routes_file": "import_routes.json"
+}

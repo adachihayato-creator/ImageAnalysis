@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "context": {
+    "model": "imx708",
+    "camera_id": "/base/soc/i2c0mux/i2c@1/imx708@1a",
+    "capture_size": [
+      2304,
+      1296
+    ],
+    "format": "RGB888"
+  },
+  "corners_normalized": [
+    [
+      0.46026921406860616,
+      0.3258687258687259
+    ],
+    [
+      0.5683890577507599,
+      0.3312741312741313
+    ],
+    [
+      0.5692574902301346,
+      0.5166023166023166
+    ],
+    [
+      0.4585323491098567,
+      0.5158301158301158
+    ]
+  ],
+  "created_at": "2026-11-10T19:09:46.093308+09:00",
+  "source": {
+    "method": "detected_substrate_corners_candidate_requires_operator_confirmation",
+    "reference_image": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/20261110/10min/3h/photo_20261110_190136_786693.jpg",
+    "image_sha256": "bf2fa7c4b4b67e515ab93845e8f234713f38bdcee9944cebf00a715763f1c7cc",
+    "reference_label": "10min/3h",
+    "candidate_is_not_optimality_claim": true
+  },
+  "meaning": "substrate outline, not the color-analysis ROI",
+  "orientation_note": "UP is screen orientation; substrate identity/orientation is not detected"
+}

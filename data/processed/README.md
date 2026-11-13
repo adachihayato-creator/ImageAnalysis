@@ -1,5 +1,23 @@
 # 解析結果の入口
 
+## Sn10%・XRDと画像：2026年11月12日
+
+[アニール5・10・15分の0h／1h比較](20261112/01_sn10_xrd_image_comparison/README.md)
+
+## 画像とXRDの対応付けの練習
+
+[10月15日の4膜で、初期画像と初期XRDを対応させる](20261015/06_xrd_image_practice/README.md)
+
+## 固定設定・白枠導入後：2026年11月11日
+
+[5min・1day、動かさず5回／置き直し5回の結果](20261111/01_fixed_guide_repeatability/README.md)
+
+[5min・10min、3h・1dayの4条件比較](20261111/02_5min_10min_comparison/README.md)
+
+## 撮影装置の再現性試験：2026年11月10日
+
+[同じ膜を動かさず10回／置き直し10回の比較](20261110/01_capture_repeatability/README.md)
+
 ## 今回の研究：2026年10月15日・4膜の0–3 h経時変化
 
 **まず [20261015/README.md](20261015/README.md) を開いてください。**
@@ -26,3 +44,7 @@
 以前の会話にある旧パスのリンクは移動により無効になっているため、この案内のリンクをご利用ください。
 
 最新の画像経時変化解析は [20261015/04_image_time_series/report.md](20261015/04_image_time_series/report.md) です（位置合わせ後・XRDなし）。
+
+## 2026年11月13日：副相候補と画像特徴
+
+[約12.7°のXRDピークと明るい斑点の探索比較](20261113/01_xrd_image_features/README.md)

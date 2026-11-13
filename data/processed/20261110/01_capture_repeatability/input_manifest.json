@@ -1,0 +1,122 @@
+[
+  {
+    "image": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/01_動かさず10回/photo_20261110_172838_425085.jpg",
+    "json": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/01_動かさず10回/photo_20261110_172838_425085.json",
+    "image_sha256": "664e627a20d69c138be0333b1538adac2b10ece9b28af5ad2793bbcf1e881008",
+    "json_sha256": "9c5d561f77ea27fcf94eecdefe950497db3edbeecee9ace4bf8591a630843138"
+  },
+  {
+    "image": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/01_動かさず10回/photo_20261110_172841_400636.jpg",
+    "json": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/01_動かさず10回/photo_20261110_172841_400636.json",
+    "image_sha256": "eb77d2ab0c36414e3594b87cf46aab7579adeaa70d4c314c5f5932bbdbc427ab",
+    "json_sha256": "8bd3794f0c371e3359989b0ac988bf76d1fc96e7f5a33767eb1db3430e82d860"
+  },
+  {
+    "image": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/01_動かさず10回/photo_20261110_172844_819876.jpg",
+    "json": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/01_動かさず10回/photo_20261110_172844_819876.json",
+    "image_sha256": "f71976df35d38b51173aa49092e9a7816b5aef43651687df33b87e07ae7f4c22",
+    "json_sha256": "28dec6cad6f3b86654ad8025b9a3f3b206756261606af3a235beca8c5bbed6ec"
+  },
+  {
+    "image": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/01_動かさず10回/photo_20261110_172848_801174.jpg",
+    "json": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/01_動かさず10回/photo_20261110_172848_801174.json",
+    "image_sha256": "f4315eca930e21bb3f9547ccf3ef5f4d418dc57d737558621cb3d36e7232e825",
+    "json_sha256": "20e41fc688c2e716edda291039a10132a5afcd0dd2ec55fa19e033ebac8a3b54"
+  },
+  {
+    "image": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/01_動かさず10回/photo_20261110_172852_858041.jpg",
+    "json": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/01_動かさず10回/photo_20261110_172852_858041.json",
+    "image_sha256": "050b821a73387df0b53b5b74b622b135002621ce7363f35e8d905bd35682594b",
+    "json_sha256": "46bbf20d26f66c9f3daab20f41e63edee0f9d3b01ba7ed2ca3140ce47b3daa11"
+  },
+  {
+    "image": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/01_動かさず10回/photo_20261110_172856_696975.jpg",
+    "json": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/01_動かさず10回/photo_20261110_172856_696975.json",
+    "image_sha256": "ef88dd16cc01d1709e5ed87ac68259023be11b86d9a5ffef265d7b5d2371528f",
+    "json_sha256": "f7ea32c81873119d843cb1d278e37c585712b37c20a63bc3d317b60dc3cf788e"
+  },
+  {
+    "image": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/01_動かさず10回/photo_20261110_172900_162221.jpg",
+    "json": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/01_動かさず10回/photo_20261110_172900_162221.json",
+    "image_sha256": "90a49ab3e60ffbce30b9abd7997f71efbff7b3153b87d3aa81276ad930abb518",
+    "json_sha256": "47974751c211f2611a22ab0bc2ab13259c9995c7553f58c89a3de3683818cedd"
+  },
+  {
+    "image": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/01_動かさず10回/photo_20261110_172904_012696.jpg",
+    "json": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/01_動かさず10回/photo_20261110_172904_012696.json",
+    "image_sha256": "dab57d30b2941c760cbdea5b198f53a11f9f9f2d70e73696e5a0108f47c7866a",
+    "json_sha256": "1b0174b49312cd8da16ed22727cc6e6edbc421773998943a354f511b806e8089"
+  },
+  {
+    "image": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/01_動かさず10回/photo_20261110_172909_203369.jpg",
+    "json": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/01_動かさず10回/photo_20261110_172909_203369.json",
+    "image_sha256": "5effbf208d4a02f9141f0e9017cba4a5f5b5f4cae9222a925ebadf1a1ddd9caf",
+    "json_sha256": "cc923841f173b6cbd7433d450f40e5b198f5b930b90cbf3b5196861fe6a5db93"
+  },
+  {
+    "image": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/01_動かさず10回/photo_20261110_172913_359773.jpg",
+    "json": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/01_動かさず10回/photo_20261110_172913_359773.json",
+    "image_sha256": "9156bf19bcd32f6f9268ac0b31fc90815aafbb40c22b8070ded45299883de5fa",
+    "json_sha256": "f5af93ca9063ba5451c0294db1f6a868c1f0ba09da050067bf4fe1a5500b4f81"
+  },
+  {
+    "image": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/02_置き直し10回/photo_20261110_173152_750800.jpg",
+    "json": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/02_置き直し10回/photo_20261110_173152_750800.json",
+    "image_sha256": "2883fb0940135a82e750ad3051d4b2784eb3ac007c5664699ca7a86b3e659b68",
+    "json_sha256": "b3cec8058139683b116a7d54b739c2dacd1e3f704977216aac53d534fb38c8e7"
+  },
+  {
+    "image": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/02_置き直し10回/photo_20261110_173202_919632.jpg",
+    "json": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/02_置き直し10回/photo_20261110_173202_919632.json",
+    "image_sha256": "829de21666b88f4fc5b16fd5f65adc41820ab2c7487e708f4c5b8e747bf0795d",
+    "json_sha256": "ae15358fdcb246722d2f3cb56a2e095486c7deea36d6da2dd6e1f85fea56de12"
+  },
+  {
+    "image": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/02_置き直し10回/photo_20261110_173216_978173.jpg",
+    "json": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/02_置き直し10回/photo_20261110_173216_978173.json",
+    "image_sha256": "645092863ebcd3991134f0672c2732e23ef54008701af4f8d9ab7108926b7031",
+    "json_sha256": "504501f13b025fac53eaeeed49f69458eb3949e946fe49f8ea22b3680d2370da"
+  },
+  {
+    "image": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/02_置き直し10回/photo_20261110_173229_560332.jpg",
+    "json": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/02_置き直し10回/photo_20261110_173229_560332.json",
+    "image_sha256": "d7c5f9b5618a42e0133ec8df189c6d79c91c20e25a86bcd64f9ab483f37a9b05",
+    "json_sha256": "2ef95823a81d9551ac48fe89183dc9c05c8a4c236cf1ae36a1fafb77f0db3e8b"
+  },
+  {
+    "image": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/02_置き直し10回/photo_20261110_173241_388733.jpg",
+    "json": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/02_置き直し10回/photo_20261110_173241_388733.json",
+    "image_sha256": "0cbd7e16aa6bd67eb52789503f3b5037a8e3dff876c23d76566a7e6a520923f0",
+    "json_sha256": "0f47012bbc844d02f0ec4016beb27bbe3042e8b05575f27d1ffef0d719863453"
+  },
+  {
+    "image": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/02_置き直し10回/photo_20261110_173251_081506.jpg",
+    "json": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/02_置き直し10回/photo_20261110_173251_081506.json",
+    "image_sha256": "b92ceb5c563158ec48873fb5c2dc0fb07ea18a0358a79870c0ce25de5d3788dc",
+    "json_sha256": "bb87e4a060f1ad16b26b910fe9c5115955c164f012f0b0f888b15432dd2e9bcb"
+  },
+  {
+    "image": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/02_置き直し10回/photo_20261110_173300_677209.jpg",
+    "json": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/02_置き直し10回/photo_20261110_173300_677209.json",
+    "image_sha256": "29e96be7dbe991efec0f634e478f4e3ebb7f686da153764d586651a9917547e9",
+    "json_sha256": "cefa29190eaf512cb508590564bc565d617ca1f28674518ff7cd9c54910f15d3"
+  },
+  {
+    "image": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/02_置き直し10回/photo_20261110_173310_155262.jpg",
+    "json": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/02_置き直し10回/photo_20261110_173310_155262.json",
+    "image_sha256": "d7408abd49afe51ec5cad4bc2631234e735d73ce5681ec212280e9d9967e6aba",
+    "json_sha256": "ef2da98d5c816e5fe9e52e46ef898ca24337c5ef3044ccfc931d7d4f616a61f7"
+  },
+  {
+    "image": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/02_置き直し10回/photo_20261110_173320_348615.jpg",
+    "json": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/02_置き直し10回/photo_20261110_173320_348615.json",
+    "image_sha256": "1643dfc1adb9d674eb8531652dc18bc64353cdac74d309f9c9db48f8cb7d6d26",
+    "json_sha256": "9fb11aefbb30d1e8ee3f8fcec7ffefd0e3b28fc65854ccd64a7688e2161e3b36"
+  },
+  {
+    "image": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/02_置き直し10回/photo_20261110_173622_651281.jpg",
+    "json": "data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol/02_置き直し10回/photo_20261110_173622_651281.json",
+    "image_sha256": "9bb3ed5ea49ddf98466c84576f18583cb3e54fe0af438337ff594664e1960631",
+    "json_sha256": "663e0902cd36c1a0623726dc2764ba397046fd4ad2f5a0161667b5fe24cfd277"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "anneal_min": 5,
+    "channel": "R",
+    "same_slope_sign_four_cases": false,
+    "slopes_rgb_per_hour": [
+      -0.01690212226041302,
+      0.15629084549799976,
+      -0.21486655293929358,
+      -0.07701330560981862
+    ]
+  },
+  {
+    "anneal_min": 5,
+    "channel": "G",
+    "same_slope_sign_four_cases": false,
+    "slopes_rgb_per_hour": [
+      -0.10448616080916999,
+      0.06839277369447708,
+      -0.5514268218112796,
+      -0.10422641449152589
+    ]
+  },
+  {
+    "anneal_min": 5,
+    "channel": "B",
+    "same_slope_sign_four_cases": false,
+    "slopes_rgb_per_hour": [
+      -0.09668549805289299,
+      0.22582760250291736,
+      -1.1157008056777542,
+      -0.18996958496797486
+    ]
+  },
+  {
+    "anneal_min": 10,
+    "channel": "R",
+    "same_slope_sign_four_cases": false,
+    "slopes_rgb_per_hour": [
+      0.09351712859799642,
+      0.07260807582296484,
+      -0.09315917255287498,
+      -0.16918606045690637
+    ]
+  },
+  {
+    "anneal_min": 10,
+    "channel": "G",
+    "same_slope_sign_four_cases": true,
+    "slopes_rgb_per_hour": [
+      -0.2592496124522734,
+      -0.10272719902057227,
+      -0.891283657215564,
+      -0.447368364941446
+    ]
+  },
+  {
+    "anneal_min": 10,
+    "channel": "B",
+    "same_slope_sign_four_cases": true,
+    "slopes_rgb_per_hour": [
+      -0.7693519639025616,
+      -0.3228569761118132,
+      -1.8819150055447176,
+      -0.864399735498098
+    ]
+  },
+  {
+    "anneal_min": 15,
+    "channel": "R",
+    "same_slope_sign_four_cases": true,
+    "slopes_rgb_per_hour": [
+      0.9752694124483395,
+      0.6585699511036689,
+      0.7515490136645271,
+      0.42929547698146503
+    ]
+  },
+  {
+    "anneal_min": 15,
+    "channel": "G",
+    "same_slope_sign_four_cases": false,
+    "slopes_rgb_per_hour": [
+      0.13998599093543931,
+      0.371865824073728,
+      -0.45091378463567683,
+      0.10015387466851146
+    ]
+  },
+  {
+    "anneal_min": 15,
+    "channel": "B",
+    "same_slope_sign_four_cases": false,
+    "slopes_rgb_per_hour": [
+      -0.24025084764778148,
+      0.24003396842191893,
+      -1.6242672487784986,
+      -0.36344198656348936
+    ]
+  }
+]

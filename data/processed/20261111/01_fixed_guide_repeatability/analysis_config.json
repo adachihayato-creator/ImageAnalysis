@@ -1,0 +1,41 @@
+{
+  "condition": "5min",
+  "elapsed_time_label": "1day",
+  "film_count": 1,
+  "group_size": 5,
+  "primary_method": "tracked corners, warp256, each-edge18% removed; no color correction",
+  "sensitivity_methods": [
+    "fixed_guide"
+  ],
+  "margins": [
+    0.12,
+    0.18,
+    0.24
+  ],
+  "paper_patch_centers": [
+    [
+      785,
+      555
+    ],
+    [
+      1585,
+      555
+    ],
+    [
+      1185,
+      250
+    ],
+    [
+      1185,
+      855
+    ]
+  ],
+  "paper_patch_size": [
+    40,
+    40
+  ],
+  "ccm_identical": true,
+  "fixed_profile_sha256": "e2c6d57c337cdb281bd6a7885bb437310ea60bf1eb8c482316721e3b853d28f7",
+  "guide_profile_sha256": "711a8835ff93bc99d46cb108960f9b0da1f4454b93cca59fabb8590fdb5b6487",
+  "code_sha256": "e94e62d496fcd6da3758f363c79f9fd0ada7ecf562d20ad7bd39d8f7b6b54d7d"
+}

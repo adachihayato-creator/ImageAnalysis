@@ -1,0 +1,131 @@
+{
+  "independent_films": 3,
+  "time_label": "nominal1h, not precise simultaneous XRD",
+  "grids": [
+    8,
+    4
+  ],
+  "canonical_size": 256,
+  "cell_pixels": {
+    "8x8": "32x32",
+    "4x4": "64x64"
+  },
+  "perimeter_exclusion": false,
+  "ellipse_exclusion": false,
+  "common_reference": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/1h/photo_20261112_163701_835677.jpg",
+  "fit_centers": [
+    [
+      785,
+      555
+    ],
+    [
+      1585,
+      555
+    ],
+    [
+      1185,
+      250
+    ],
+    [
+      1185,
+      855
+    ]
+  ],
+  "spot_extraction": "computed once over full256 image, sigma8 local contrast>.1,connected pixels>=3, then partitioned; no cell-specific threshold",
+  "fine_pattern": "Gaussian sigma0.7 minus3, computed over full image then partitioned",
+  "cells_not_independent_samples": true,
+  "coordinates": "row1=top,column1=left in detected substrate orientation; separate films have no shared physical feature coordinates",
+  "registration": [
+    {
+      "anneal_min": 5,
+      "corners": [
+        [
+          1099.0,
+          449.0
+        ],
+        [
+          1349.0,
+          454.0
+        ],
+        [
+          1350.0,
+          697.0
+        ],
+        [
+          1096.0,
+          698.0
+        ]
+      ],
+      "input_size": [
+        2304,
+        1296
+      ],
+      "gain_RGB": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "anneal_min": 10,
+      "corners": [
+        [
+          1125.0,
+          435.0
+        ],
+        [
+          1347.0,
+          441.0
+        ],
+        [
+          1336.0,
+          702.0
+        ],
+        [
+          1102.0,
+          697.0
+        ]
+      ],
+      "input_size": [
+        2304,
+        1296
+      ],
+      "gain_RGB": [
+        1.0178464417611517,
+        0.9926936706716175,
+        0.9553626944314789
+      ]
+    },
+    {
+      "anneal_min": 15,
+      "corners": [
+        [
+          1094.0,
+          447.0
+        ],
+        [
+          1351.0,
+          449.0
+        ],
+        [
+          1352.0,
+          686.0
+        ],
+        [
+          1098.0,
+          689.0
+        ]
+      ],
+      "input_size": [
+        2304,
+        1296
+      ],
+      "gain_RGB": [
+        0.999542506789082,
+        1.1647533379717057,
+        1.5374366316725714
+      ]
+    }
+  ],
+  "code_sha256": "c577d15157779e18840d2fe64afd8b053621aa0efdc6feb976f407c33f990057"
+}
