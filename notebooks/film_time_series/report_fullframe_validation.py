@@ -5,7 +5,7 @@ import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from matplotlib.font_manager import fontManager
-P=Path('data/processed/20261113/03_fullframe_validation');read=lambda n:list(csv.DictReader((P/n).open(encoding='utf-8-sig')))
+P=Path('results/20261113/03_fullframe_validation');read=lambda n:list(csv.DictReader((P/n).open(encoding='utf-8-sig')))
 primary=read('primary_regions.csv');partition=read('partition_of_full_detections.csv');sums=read('repeatability_summary.csv');ranks=read('ranking_by_region.csv')
 fontManager.addfont('/mnt/c/Windows/Fonts/YuGothR.ttc');plt.rcParams.update({'font.family':'Yu Gothic','font.size':13});fig,axes=plt.subplots(1,2,figsize=(11,4.5))
 rr=[next(r for r in sums if r['region']==k) for k in ['central18','full']]

@@ -16,7 +16,7 @@ from matplotlib.font_manager import FontProperties
 
 ROOT = Path(__file__).resolve().parents[2]
 SOURCE = ROOT / 'data/raw/撮影再現性/20261110_FACsSnPbI3_Sn25mol'
-OUT = ROOT / 'data/processed/20261110/01_capture_repeatability'
+OUT = ROOT / 'results/20261110/01_capture_repeatability'
 SIZE = 256
 MARGINS = (.12, .18, .24)
 COLORS = ('#d44b40', '#269753', '#416bc3')

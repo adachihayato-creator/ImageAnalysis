@@ -1,0 +1,158 @@
+{
+  "independent_films": 3,
+  "per_condition_films": 1,
+  "age": "User nominal labels; 1day is not exact 24h. XRD clock ignored. Photo/XRD not assumed simultaneous.",
+  "background_reference": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/1h/photo_20261112_163701_835677.jpg",
+  "fit": [
+    [
+      785,
+      555
+    ],
+    [
+      1585,
+      555
+    ],
+    [
+      1185,
+      250
+    ],
+    [
+      1185,
+      855
+    ]
+  ],
+  "heldout": [
+    [
+      785,
+      250
+    ],
+    [
+      1585,
+      250
+    ],
+    [
+      785,
+      855
+    ],
+    [
+      1585,
+      855
+    ]
+  ],
+  "patch_size_px": 40,
+  "warp_size": [
+    256,
+    256
+  ],
+  "primary_image": "full substrate quadrilateral, no ellipse exclusion, no edge exclusion",
+  "spot": "contrast (gray-Gaussian_sigma8)/max(Gaussian_sigma8,1)>0.10, component>=3px; segmented once on full frame then region partition",
+  "margins": [
+    0,
+    0.05,
+    0.18
+  ],
+  "low_peak_windows": [
+    {
+      "search": [
+        12.25,
+        13
+      ],
+      "background": [
+        [
+          11.5,
+          11.8
+        ],
+        [
+          13.1,
+          13.3
+        ]
+      ]
+    },
+    {
+      "search": [
+        12.25,
+        13
+      ],
+      "background": [
+        [
+          12,
+          12.2
+        ],
+        [
+          13.05,
+          13.2
+        ]
+      ]
+    },
+    {
+      "search": [
+        12.25,
+        13
+      ],
+      "background": [
+        [
+          12.1,
+          12.25
+        ],
+        [
+          13,
+          13.15
+        ]
+      ]
+    }
+  ],
+  "main_windows": {
+    "low": {
+      "search": [
+        12,
+        13
+      ],
+      "background": [
+        [
+          11.5,
+          11.8
+        ],
+        [
+          13.1,
+          13.3
+        ]
+      ]
+    },
+    "main": {
+      "search": [
+        13.4,
+        14.7
+      ],
+      "background": [
+        [
+          13.15,
+          13.35
+        ],
+        [
+          14.9,
+          15.2
+        ]
+      ]
+    },
+    "high": {
+      "search": [
+        27.5,
+        29.0
+      ],
+      "background": [
+        [
+          27.0,
+          27.3
+        ],
+        [
+          29.2,
+          29.5
+        ]
+      ]
+    }
+  },
+  "image_second_points": "5/10min2h and15min1h problematic backgrounds; shown distinctly, not used to infer clean time trends",
+  "not_phase_fraction": true,
+  "not_physical_degradation_proof": true,
+  "code_sha256": "69e63810fbc8b5863e92da461e9f6a11b77076e552b8132ef60dce561dd11692"
+}

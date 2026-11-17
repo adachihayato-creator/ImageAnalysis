@@ -1,0 +1,76 @@
+{
+  "reference": "data/raw/試行錯誤写真/photo_20261117_171305_386943.jpg",
+  "fit_centers": [
+    [
+      785,
+      555
+    ],
+    [
+      1585,
+      555
+    ],
+    [
+      1185,
+      250
+    ],
+    [
+      1185,
+      855
+    ]
+  ],
+  "check_centers": [
+    [
+      785,
+      250
+    ],
+    [
+      1585,
+      250
+    ],
+    [
+      785,
+      855
+    ],
+    [
+      1585,
+      855
+    ]
+  ],
+  "patch_size": 40,
+  "results": [
+    {
+      "filename": "photo_20261117_171113_901894.jpg",
+      "background_RGB": [
+        173.93375,
+        169.2065625,
+        148.80656249999998
+      ],
+      "relative_background_error_percent": 4.370534199365634,
+      "heldout_error_after_correction_percent": 1.3623319679638268,
+      "fixed_settings_verified": true
+    },
+    {
+      "filename": "photo_20261117_171305_386943.jpg",
+      "background_RGB": [
+        163.753125,
+        166.17734375,
+        145.13890625
+      ],
+      "relative_background_error_percent": 0.0,
+      "heldout_error_after_correction_percent": 0.0,
+      "fixed_settings_verified": true
+    },
+    {
+      "filename": "photo_20261117_171423_288864.jpg",
+      "background_RGB": [
+        163.863125,
+        162.67093749999998,
+        145.17953125
+      ],
+      "relative_background_error_percent": 1.5463643298756053,
+      "heldout_error_after_correction_percent": 0.9059371265509375,
+      "fixed_settings_verified": true
+    }
+  ],
+  "note": "Relative RGB background metric, not calibrated color difference; not proof of film color accuracy. Film identity awaiting user confirmation."
+}

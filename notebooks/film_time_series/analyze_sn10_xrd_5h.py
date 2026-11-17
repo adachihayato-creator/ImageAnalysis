@@ -11,7 +11,7 @@ from matplotlib.font_manager import fontManager
 from analyze_sn10_xrd import features,scan_metadata,WINDOWS
 ROOT=Path(__file__).resolve().parents[2];sys.path.insert(0,str(ROOT/'notebooks/capture_repeatability'))
 from analyze_repeatability import corners_and_bbox,roi
-B=ROOT/'data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112';O=ROOT/'data/processed/20261112/13_xrd_0h_1h_5h';O.mkdir(exist_ok=True)
+B=ROOT/'data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112';O=ROOT/'results/20261112/13_xrd_0h_1h_5h';O.mkdir(exist_ok=True)
 fontManager.addfont('/mnt/c/Windows/Fonts/YuGothR.ttc');plt.rcParams['font.family']='Yu Gothic'
 colors=['#dd8c26','#2775b2','#27955f'];scans={};rows=[];timings=[];manifest=[]
 def record(p,kind):manifest.append({'path':str(p.relative_to(ROOT)),'kind':kind,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()})
@@ -37,7 +37,7 @@ for m in [5,10,15]:
 write('changes_0to5.csv',changes)
 # Photo matching uses actual timestamps; 15min latest age is intentionally not assumed to be5h.
 photo_rows=[];crops=[]
-metrics=list(csv.DictReader((ROOT/'data/processed/20261112/09_image_time_series_4points/metrics.csv').open(encoding='utf-8-sig')))
+metrics=list(csv.DictReader((ROOT/'results/20261112/09_image_time_series_4points/metrics.csv').open(encoding='utf-8-sig')))
 for m,stem in [(5,'205257_705981'),(10,'205350_731887'),(15,'205430_272313')]:
  p=next((ROOT/'data/raw').rglob('photo_20261112_'+stem+'.jpg'));d=json.loads(p.with_suffix('.json').read_text());a=np.array(Image.open(p).convert('RGB'));corners,_=corners_and_bbox(a);crop=cv2.warpPerspective(a,cv2.getPerspectiveTransform(corners,np.float32([[0,0],[255,0],[255,255],[0,255]])),(256,256));crops.append(crop)
  base=next(r for r in metrics if int(r['anneal_min'])==m);paper=np.mean([a[y-20:y+20,x-20:x+20].mean((0,1)) for x,y in [(785,555),(1585,555),(1185,250),(1185,855)]],axis=0);pix=roi(crop,.18);gain=np.array([float(base['paper_'+c]) for c in 'RGB'])/paper

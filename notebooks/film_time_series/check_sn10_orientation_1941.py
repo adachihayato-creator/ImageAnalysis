@@ -7,7 +7,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 sys.path.insert(0,'notebooks/capture_repeatability')
 from analyze_repeatability import corners_and_bbox
-B=Path('data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112');O=Path('data/processed/20261112/08_capture_orientation_1941');O.mkdir(exist_ok=True)
+B=Path('data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112');O=Path('results/20261112/08_capture_orientation_1941');O.mkdir(exist_ok=True)
 old=[next((B/f'{m}min/1h').glob('*.jpg')) for m in [5,10,15]]
 new=[next(Path('data/raw').rglob(n+'.jpg')) for n in ['photo_20261112_194141_190983','photo_20261112_194238_111697','photo_20261112_194343_578299']]
 def crop(p):

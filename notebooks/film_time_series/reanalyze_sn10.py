@@ -13,7 +13,7 @@ from matplotlib.font_manager import fontManager
 from analyze_sn10_xrd import features,scan_metadata,WINDOWS
 ROOT=Path(__file__).resolve().parents[2];sys.path.insert(0,str(ROOT/'notebooks/capture_repeatability'))
 from analyze_repeatability import corners_and_bbox,roi
-B=ROOT/'data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112';O=ROOT/'data/processed/20261112/14_integrated_reanalysis';O.mkdir(exist_ok=True);(O/'corrected_crops').mkdir(exist_ok=True)
+B=ROOT/'data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112';O=ROOT/'results/20261112/14_integrated_reanalysis';O.mkdir(exist_ok=True);(O/'corrected_crops').mkdir(exist_ok=True)
 fontManager.addfont('/mnt/c/Windows/Fonts/YuGothR.ttc');plt.rcParams['font.family']='Yu Gothic'
 COL=['#cf493f','#278d4f','#426dc9'];FIT=[(785,555),(1585,555),(1185,250),(1185,855)];CHECK=[(785,250),(1585,250),(785,855),(1585,855)]
 rows=[];sens=[];validation=[];manifest=[];crops={};metas=[]

@@ -10,8 +10,7 @@ Thumbs.db
 desktop.ini
 *.Zone.Identifier
 
-# --- 大容量の実験用オリジナル画像（rawデータ）はGitの追跡から除外する ---
-data/raw/
+# --- ユーザー指定により研究原本も保存。認証情報・一時ファイルは別途除外 ---
 # Windows download metadata
 *:Zone.Identifier
 
@@ -30,5 +29,5 @@ presentations/20261015/*.pptx
 **/backups/
 presentations/20261112/.*.pptx
 presentations/20261112/preview/
-data/processed/**/previous_analysis/
+results/**/previous_analysis/
 ~$*

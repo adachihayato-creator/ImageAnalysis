@@ -1,0 +1,674 @@
+[
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/1枚目0h.jpg",
+    "sha256": "1bfbef6559216114fd07dde34b833690a38b6396335e73b904cfe4567978deca"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/1枚目1h.jpg",
+    "sha256": "4d26c499372ad6f7ac31e5bcc1859d7467b4ff4ebec33ef14df0ba1fb3ed45ed"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/1枚目2h.jpg",
+    "sha256": "8e67a3e7fcfda7bbd47d54600fba809efb6157d54e76956dae182cf05fa94ef3"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/1枚目3h.jpg",
+    "sha256": "bdbbdadae1a503b912850d20fe3d52c1cb4682b0b5ea52aafa3f542eceb9e6ae"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/1枚目4h.jpg",
+    "sha256": "9a27523bdcc61f686ce058caaa15182608cb0d2da7d1c10bb60bf9c19c29e1cb"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/1枚目5h.jpg",
+    "sha256": "60b7a79712ed8241fa6763697ad4ca6262b4edd12fb0a6c5f6ea46e3a0ba8c98"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/1枚目24h.jpg",
+    "sha256": "7529b1d265756ef94eeea94be0dd9e2623513171f504811897ad024e13afe77b"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/2枚目0h.jpg",
+    "sha256": "84f93081adffd17dbb78a3a3bd1e60a5829af6a5cc8d88cfea8ff6b4e2ed8630"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/2枚目1h.jpg",
+    "sha256": "09e4505b0ee14f4a114091570d78d1d0eaddf7b54d47c3c800b8579b28b729b2"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/2枚目2h.jpg",
+    "sha256": "f6036574a7cd39dfefe4815925662d6d5ddb33929ab279141c8c3d5ba42be1d7"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/2枚目3h.jpg",
+    "sha256": "984fa5fb1268565863efb0c4e32ebe01e80866b9811451f676eba0632846cd61"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/2枚目4h.jpg",
+    "sha256": "67295c7344f8ffdf2fe4e12b9c41aa2d02697f25be26054d1be7049cd7f857cd"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/2枚目5h.jpg",
+    "sha256": "db1c8f2ed5b501cb8cd8e86c70402435ab021840696ddd63bb20c4b38e4362bd"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/2枚目24h.jpg",
+    "sha256": "766a7c14275f90e661423152d351f1e76818d0f93838796c84fc6374dd6280b8"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/1枚目0h.jpg",
+    "sha256": "1f541072fa8a0ef43dddada6ae12a500cd5eeac512d84a511b40252b7b4fe89a"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/1枚目1h.jpg",
+    "sha256": "40a5b829c2d2492068efdadd67c5abc70c0a0b198f4bada8d3f872f5e8899a59"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/1枚目2h.jpg",
+    "sha256": "b8e45350c1c27889af985214f76367b876c924defbc659049b38ffbf4c618063"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/1枚目3h.jpg",
+    "sha256": "e12f28cc8a5928e0e82b9551c5fe762b4397f368be8be7b675625361ee703118"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/1枚目4h.jpg",
+    "sha256": "ac05ac40491f4b743775491a8bb5fc72aa5a316e320cfa592e351676d2184afa"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/1枚目5h.jpg",
+    "sha256": "f8951c97298260c3e04c98b671a6dd049c28761331394b4351ef0f8c1d0270e7"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/1枚目24h.jpg",
+    "sha256": "e50fc7d23e9e5528c057a414bf1c35825eea869f821c56b3543e5ae80a8e9b96"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/2枚目0h.jpg",
+    "sha256": "917a9aa67bc4418ffa9f2b581b79c8bc257f4ff6c2634e821a6fcdf0fcba6b3d"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/2枚目1h.jpg",
+    "sha256": "f45c888fba8397466c540052e8e4d2e9cd7ca9b21a4152f2cf4aefee88072aa2"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/2枚目2h.jpg",
+    "sha256": "cadeafa1e52a761c8b919b55b781ffa60aba14870ea217c8d99d85a80fffa21e"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/2枚目3h.jpg",
+    "sha256": "7bcbec4e5f799e8ae93be7de209a9db8fd9586ab3af72d63aa32c93f4dd1b7fb"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/2枚目4h.jpg",
+    "sha256": "06c42bc2a090f885308cb9f4901510be5d2e7d173afbc368530952f597bef422"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/2枚目5h.jpg",
+    "sha256": "f373b7ab8f0c3bf9cdfe70195717c33a991bde58ec824276659b0030498a0757"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/2枚目24h.jpg",
+    "sha256": "62987dc8f26b9bb3a4400b9443a438bc9e5704fad036f4f4413eb3fc8a1f15a5"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/20261110/5min/2h/photo_20261110_172838_425085.jpg",
+    "sha256": "664e627a20d69c138be0333b1538adac2b10ece9b28af5ad2793bbcf1e881008"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/20261110/5min/2h/photo_20261110_172838_425085.json",
+    "sha256": "9c5d561f77ea27fcf94eecdefe950497db3edbeecee9ace4bf8591a630843138"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/20261110/5min/3h/photo_20261110_190011_602812.jpg",
+    "sha256": "1f3866716b663d33d8b2353d873c899fd4bd1a06bccaa8c840da9f048bf6c08f"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/20261110/5min/3h/photo_20261110_190011_602812.json",
+    "sha256": "0812239a2c327a786eda288b9a1ea47d0c6c6daa12a83e225ee7659926c41b89"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/20261110/5min/1day/01_動かさず5回/photo_20261111_174445_968382.jpg",
+    "sha256": "41ccdeb63a662e4c8f92f69fe149fe19433800a95f92181c8cf0de23caa60026"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/20261110/5min/1day/01_動かさず5回/photo_20261111_174445_968382.json",
+    "sha256": "0a4f2ba7ecb3ae2b22457fbbbdc3321927f709b7faab756601260336233581f1"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/20261110/10min/2h/photo_20261110_180544_544077.jpg",
+    "sha256": "8fb3f8a4a4234b289ff1f444b3ce8e1f5d5cc66118181220be7bdb1cacf91457"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/20261110/10min/2h/photo_20261110_180544_544077.json",
+    "sha256": "f944e8a4c9660a65deab5058f1ef267626fa5f4b5c35df56efc527bb2037add4"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/20261110/10min/3h/photo_20261110_190136_786693.jpg",
+    "sha256": "bf2fa7c4b4b67e515ab93845e8f234713f38bdcee9944cebf00a715763f1c7cc"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/20261110/10min/3h/photo_20261110_190136_786693.json",
+    "sha256": "57771da05e502371197df388afdcdc7f3531555d7bdd1c76bb9d7f56e037aeab"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/20261110/10min/1day/photo_20261111_181207_039029.jpg",
+    "sha256": "426a07032074206b5225de7c5def2fa30f65b28eaabc85fa0387bd5ec5c2840d"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/20261110/10min/1day/photo_20261111_181207_039029.json",
+    "sha256": "ef29588e0f3dcfb62601a71e8fdafd7b50bd5b9c5579cf644e0db00f208edf7f"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/1h/photo_20261112_163701_835677.jpg",
+    "sha256": "5b4409fc72b3a86a6c768b1b6014a9480c00a48757ad4f2c88abf5b07f66531c"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/1h/photo_20261112_163701_835677.json",
+    "sha256": "09343c11711aebc6f09074c8715ca182a6757ff7cad1f3e9d05bf46509d41184"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/2h/photo_20261112_175349_328671.jpg",
+    "sha256": "fe2d00422cb57a2a570730fddcc479e6b549ecdecd5f32571bd0908050f4cd03"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/2h/photo_20261112_175349_328671.json",
+    "sha256": "9056edbf8c729610227b7a95687a55708bb5d20ed760e8fdf531f7f1a633b445"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/3h/photo_20261112_185926_165626.jpg",
+    "sha256": "05d0b94d11d158d1caa1d75fe2a5c0d34656c320ea7d95b47c980121bdeb966c"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/3h/photo_20261112_185926_165626.json",
+    "sha256": "e520b729c037e9306cf3873c2edd31297859b59366ab6ee0f6ec36d8ff8020b3"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/4h/photo_20261112_194141_190983.jpg",
+    "sha256": "ebd982d6f89d865fb928773d7719ebf6dda2734287bd5c54dc772777bac3b7e5"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/4h/photo_20261112_194141_190983.json",
+    "sha256": "25054dc027cdd2492b88ce4bffaaa702e3ad96e3cc6f6a435d268794df476190"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_205257_705981.jpg",
+    "sha256": "71d1262cbbe8fa615f2b41901d3da8d1b88f551f325636e092885c71b0aff598"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_205257_705981.json",
+    "sha256": "fc995645088a3f7cfb393b615b7a752313d2c1063f92780f84c9150d94ce3409"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/1day/photo_20261113_132634_377868.jpg",
+    "sha256": "f86dc292af5f53ab13654b5b8d7091cd7792595ae9563f81d1ce2548177aee06"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/1day/photo_20261113_132634_377868.json",
+    "sha256": "542cff982375b7fe275fe25a9e64a152169b7a229f01ff0da54279ee56b2da15"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/1h/photo_20261112_163823_568713.jpg",
+    "sha256": "dfbd86d33b23458d637a5019efe8f2d77d780dc70e2a48e24b07f4f1df280663"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/1h/photo_20261112_163823_568713.json",
+    "sha256": "646263ee789ee03fb0a1783436c5dc498f87760f204e12e96a2f91cc76789468"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/2h/photo_20261112_175429_369058.jpg",
+    "sha256": "c84797822cb1e41f755b92c31b12c96e15ff9e80df4234be694311a583ef215e"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/2h/photo_20261112_175429_369058.json",
+    "sha256": "87b0be5d2f97d188f775b12b4e0db18bbfa008ca53d43b2d2781954ced1d6667"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/3h/photo_20261112_190056_730761.jpg",
+    "sha256": "6f3600e5730ed02a292cd0042a0f6a0a1805a70c16348828790afc3eb6a84c65"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/3h/photo_20261112_190056_730761.json",
+    "sha256": "8885b863ad692154fc6bbaa75fb246f436b21b3b2eff174f64fc437609524919"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/4h/photo_20261112_194238_111697.jpg",
+    "sha256": "e9be8087b0cbce32c18597f8dd060f0635532b89a27b4d258b37cc1a1370de68"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/4h/photo_20261112_194238_111697.json",
+    "sha256": "17d7dc19fd0037670d417786793ba5d2dddf01e57af8e368a9c9ea59582470d5"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_205350_731887.jpg",
+    "sha256": "c9599b06eb5af82442ae7ae2e01a62154cfb160b66523ff7553fa85795df2e96"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_205350_731887.json",
+    "sha256": "f01e3cad0329e268cc79440462eb54685874eb4614374ad5d91dadaa4f8024b2"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/1day/photo_20261113_132828_592619.jpg",
+    "sha256": "6eaadf132e2f5e13e8d993c1dc62d999323f11870035e6f0bb60bb94eafc0fba"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/1day/photo_20261113_132828_592619.json",
+    "sha256": "eb083083acbdf0d5cb041a1cfa280c5c5232eeafb3d9383452f8fec5d1c439a9"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/0h/photo_20261112_164117_524607.jpg",
+    "sha256": "b4d974588f5f1a85e08921f7a4b0ea7164fdcc35dc77fbb818a9702ff5cde5c4"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/0h/photo_20261112_164117_524607.json",
+    "sha256": "2590af1d6a2ea26fd9fdd479a092d301031994702ac8cf4201d507fe2ef49f8a"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/1h/photo_20261112_175516_408891.jpg",
+    "sha256": "a7b4039e68acebe128e5da9b0899570071e82ad1aae17f9da0ae65cb93f2a09c"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/1h/photo_20261112_175516_408891.json",
+    "sha256": "23cbcbcdcef4675718d7e252242ca15ed25d047c47e75b2f9c801e35410935d7"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/2h/photo_20261112_190147_952547.jpg",
+    "sha256": "e6f8f43bf9b27c8725b248cf13ca85e0baeec7d68d710852d53716ba923ff887"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/2h/photo_20261112_190147_952547.json",
+    "sha256": "07f6375bcf890fdf5bf43d8d1257ff759705a1771b412543dc23677de180d483"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/3h/photo_20261112_194343_578299.jpg",
+    "sha256": "e6c31fcec4a5878d2d317c815c443f72a20e74a48212e1f8d49103c862159a7e"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/3h/photo_20261112_194343_578299.json",
+    "sha256": "80638a47706a9b729a7bf5c49d40243037eaa6c6e2a9c638cd5f62743f910b35"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_205430_272313.jpg",
+    "sha256": "f04393e2055a4d724730b3389b11d5b7d7a6677010b138d58678ebbe56906fdf"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_205430_272313.json",
+    "sha256": "a3855f8c8cbbe0b207ed854a8cf6e719b891fdd0837eb173519aca9ccd413185"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/1day/photo_20261113_132919_783501.jpg",
+    "sha256": "8c5f72815fb4d4c77099cc79188fae5f141f4920fca5a3cd626f562924d8e2e2"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/1day/photo_20261113_132919_783501.json",
+    "sha256": "4d3d9fd48e56feb0bb4c3a318492da0636f29dad83dc2dd8163e87ee2d4797c0"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_01/0h/photo_20261117_171305_386943.jpg",
+    "sha256": "e38950ed87f41a450e53a8ebc500aa71f22f1205679cc4269bd4e847b9f5d595"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_01/0h/photo_20261117_171305_386943.json",
+    "sha256": "08f65851684dd72a873d6f9e22d9a28f6fcccdc669d60f5491748e4435ca79a8"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_01/1h/photo_20261117_181531_782987.jpg",
+    "sha256": "37345a6ba2400971a41e7780294a32f1e58695a65d753cfdf184d15446c04c4f"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_01/1h/photo_20261117_181531_782987.json",
+    "sha256": "98d2e2b8683995ad57285374a87b6ac0144112d8ad9737e3aab5f7ad6e02fd95"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_01/2h/photo_20261117_192430_130682.jpg",
+    "sha256": "07538bd604461eeac29ed94a8b8ace3a5d560597e092e6ec8e24a1fa8621925b"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_01/2h/photo_20261117_192430_130682.json",
+    "sha256": "531a073ee58ca06b1cbedecc99469cb9c9f40f2419dc567cbc82bccd6a38c2f7"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_01/3h/photo_20261117_201457_178486.jpg",
+    "sha256": "f4a156e47107e464ee1b1f9e8c27c74498a275a9abed4c03a2271c1534c9e5a1"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_01/3h/photo_20261117_201457_178486.json",
+    "sha256": "1a1725facb071e8d2164071f7e6469f14781c2531a20cad13fd972b65f155f94"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_01/4h/photo_20261117_211301_078465.jpg",
+    "sha256": "0abe16fc3b612a4164ffff7e900431fc88e440fd3be1de560158cf065146170c"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_01/4h/photo_20261117_211301_078465.json",
+    "sha256": "5ebb1629af781b64343782f033b49afa4b8808acfbedb4a6fdb26d3c4c102745"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_02/0h/photo_20261117_171423_288864.jpg",
+    "sha256": "98fae8e83c6c4a4afc524c9097019d6ad6f15d256e6c69600243ff6fa8bbac51"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_02/0h/photo_20261117_171423_288864.json",
+    "sha256": "8f536d63d47c3067732ef51a16f5e08237145b01c3d5fdd43afa2f35dfab3cb1"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_02/1h/photo_20261117_181617_584917.jpg",
+    "sha256": "5b4a6be99c15d5940973716f4303ab090f998c0c6cda105c29fdbe5749a2caab"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_02/1h/photo_20261117_181617_584917.json",
+    "sha256": "a75316324f21c66d85f7fa58ac4e5cfab29f8095b3a3a9383fd7a5f9080d5d5e"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_02/2h/photo_20261117_192513_447356.jpg",
+    "sha256": "7ed8d76e3c54eae50de8edf87072f1d72e38a0b5c9b51e8bdb4c16d3cec720d5"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_02/2h/photo_20261117_192513_447356.json",
+    "sha256": "1e67e327af1b1417a5b078c290cd3070bb0b720367933a6dee5eb67aa1c96bcd"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_02/3h/photo_20261117_201600_069040.jpg",
+    "sha256": "75d0fc28f20ef2db73e7c161f4b4e06aac3c79ea51adc339de41e66db9e866a1"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_02/3h/photo_20261117_201600_069040.json",
+    "sha256": "2cb965975cce1e3b1e4b86c18b4a7b3335798ef346668c6e50a3ee104a38707b"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_02/4h/photo_20261117_211357_154297.jpg",
+    "sha256": "dd5e38c66d970684512f034d21d17cb88c9862d379afbcd75fefe46a6ad0fb1b"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_02/4h/photo_20261117_211357_154297.json",
+    "sha256": "4ae4cb470db3795cbd914d4ca65ffb091bac2cb14083f466a93652381e4b37b8"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_03/0h/photo_20261117_172025_111796.jpg",
+    "sha256": "c1d995028e73947c8d1aa217f978d8239ff95e889c1fa3c21d372385e00a12b8"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_03/0h/photo_20261117_172025_111796.json",
+    "sha256": "3e1889b6e50663b905b69a0ea1ac3d6afcd1fe79bb7ebe56c952f4df69906de7"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_03/1h/photo_20261117_182811_596362.jpg",
+    "sha256": "596971fe39d15aa164f1633d8d42f77346e50e8c7c09db0f1cac4649538a8a55"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_03/1h/photo_20261117_182811_596362.json",
+    "sha256": "542ed131ce8602a27b698b42f627c4228d3f522bb880d97ba0cd46eae6bb529d"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_03/2h/photo_20261117_192607_943152.jpg",
+    "sha256": "78b425bcbdacdc6d6c6a7ffaa0a1b5ae371cedeeb522695590eedd422fef857b"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_03/2h/photo_20261117_192607_943152.json",
+    "sha256": "bc17f4a2887e99004bee61f5eae84abc5f0b10d152c5f3b30accc08684a92a9a"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_03/3h/photo_20261117_201656_123441.jpg",
+    "sha256": "94c90e5cc7bc7fa9cd73b5b1ad9bb56f7b7f29b222b088f87ced227680eace59"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_03/3h/photo_20261117_201656_123441.json",
+    "sha256": "7df54af0686417314186e8f6882738511e65de91b9198853c29daabc1f6c659a"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_03/4h/photo_20261117_211455_437335.jpg",
+    "sha256": "3b41b72e9e1c8218f8230411db12ca508bd4b840309f2467ac3f150f105f8597"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_03/4h/photo_20261117_211455_437335.json",
+    "sha256": "7cdfd02f1449e00502b027fd9ae7c26d8ac94b0f186ef7d3729de15f498e5baf"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_04/0h/photo_20261117_172447_913634.jpg",
+    "sha256": "0cab9cccf894af745f414a412fa1a739088fe4e793675f176837d1f7dd686071"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_04/0h/photo_20261117_172447_913634.json",
+    "sha256": "ca1a050643d3fa54c7e23e7a66833059cedc7a5dfc8ed42245a5b362f76b71a8"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_04/1h/photo_20261117_182944_198197.jpg",
+    "sha256": "9578dfc6cdc391383ba676fbceef7a4263e85400b639d6bde859f41ca9f47361"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_04/1h/photo_20261117_182944_198197.json",
+    "sha256": "280194e55cd1049ea9bda874f4c584146eba331d22dd2e7ece251580a733c40d"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_04/2h/photo_20261117_192657_642214.jpg",
+    "sha256": "bf193298e68ada282792c030c42be932db8a5eb864f9d89d471d061a76c86b06"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_04/2h/photo_20261117_192657_642214.json",
+    "sha256": "63c893fb2479f5ba8d3b8863302c405ae54e4758da77279beed745d18dcaec77"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_04/3h/photo_20261117_201742_917429.jpg",
+    "sha256": "ce405052147c7993cacaecf7b34bc1759475bb22cc6489871f37fbd6b7542815"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_04/3h/photo_20261117_201742_917429.json",
+    "sha256": "e6a39ea91120a4b30e4f112b00e3f9bfe68df762fccf978c6c92772a424468a0"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_04/4h/photo_20261117_211528_071313.jpg",
+    "sha256": "3e786589552013959cf37f8febc17616ac528b70e30c77506356470ad8d33794"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_04/4h/photo_20261117_211528_071313.json",
+    "sha256": "0647755fefe70c7d5f517d2e349f12c0a4b8ece179f6a5013816fac4926fb9e7"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_01/0h/photo_20261117_173941_317098.jpg",
+    "sha256": "9afebc3055a5b0e4004e4a31ece8ec9c1867c89e7dc206d9e28b418b2c44e1bd"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_01/0h/photo_20261117_173941_317098.json",
+    "sha256": "e54abb699b856c470168a7d8c7957b5ed54e104c920ce1a6405ec1a8aef7e248"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_01/1h/photo_20261117_184655_091765.jpg",
+    "sha256": "ae43d47212d0bf1e79272a4b5f505bbca64379337ccc39b6dea69d898abf5f5d"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_01/1h/photo_20261117_184655_091765.json",
+    "sha256": "a0173c02990df56c4537ee0f5ec623964d1ebe343c88a422485dc09809369218"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_01/2h/photo_20261117_193942_893836.jpg",
+    "sha256": "061b110bb06ecba98805607ff98e0a771822349200ade58557d94c7e0c2ccffd"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_01/2h/photo_20261117_193942_893836.json",
+    "sha256": "ed6204c6fd2ebbb5662dcbc8a8e29d287f69bccd827c90388d27778781504169"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_01/3h/photo_20261117_203835_143894.jpg",
+    "sha256": "6cc2bdbfd854d64d721e084ea6facf17263c922014614ac51630521dead0d926"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_01/3h/photo_20261117_203835_143894.json",
+    "sha256": "9e06d2d33f9539a285353dd28507094f611b80fe034963df76349f464146ab3e"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_01/4h/photo_20261117_213821_505770.jpg",
+    "sha256": "236856e062727d13fba05519e67e34245eb3f56faba0869cafec629f84a97836"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_01/4h/photo_20261117_213821_505770.json",
+    "sha256": "9568f1a0920a0ec91114942416743e00c66579aa56fe708dcd8b47fa43f955eb"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_02/0h/photo_20261117_174101_628864.jpg",
+    "sha256": "e345e32255ddadf479033265cec9fde44666865755c2212ab85b9a4250221888"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_02/0h/photo_20261117_174101_628864.json",
+    "sha256": "d347ee28a39139cd8219e02530e5c47c6ccbbed9e14c93b8ce41c3284f9cef75"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_02/1h/photo_20261117_184850_073774.jpg",
+    "sha256": "8c774a8d29ff0445df335494f016c607793a82f373a946ce379981e54668a01c"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_02/1h/photo_20261117_184850_073774.json",
+    "sha256": "2a44251459288d73ffba1c35aadcc46284d17db147b7d459a169fd2873c99f75"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_02/2h/photo_20261117_194042_407816.jpg",
+    "sha256": "ab86991c2a9a8fcffc3edf78faf487c642ee06941c7a95d12f072969d4ba8b70"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_02/2h/photo_20261117_194042_407816.json",
+    "sha256": "f2df9a0f801541a6480e5c075cf53b32b2395beb81acf6fcc4bd16e13182c037"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_02/3h/photo_20261117_203927_603638.jpg",
+    "sha256": "864cb6d8f3bb4d9becf13fb3771cdc1c5328e38cd2c849f3c5b0f797ae5f6b4f"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_02/3h/photo_20261117_203927_603638.json",
+    "sha256": "daa92746c46bfee58ba2c0b098c153b40811b30fd580665227a2a29505d924fd"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_02/4h/photo_20261117_213922_520189.jpg",
+    "sha256": "2580a4732ac1b0f5d0c69c9447fb0e1c335a2faa705a02687d06857cf144729f"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_02/4h/photo_20261117_213922_520189.json",
+    "sha256": "063ac5ff99d010ef5f72c0cd41ab877777a7492b66c3192aab1fe851f38633d5"
+  },
+  {
+    "path": "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_01/0h/photo_20261117_185235_609677.jpg",
+    "sha256": "a008ba695697b595f48d57ed4a8829b01faf30537c2351c9a9a70cf7962f011a"
+  },
+  {
+    "path": "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_01/0h/photo_20261117_185235_609677.json",
+    "sha256": "1b0898225f32c000d5d38a4ed12f46e1d36a73b565cf05aad7afaf3ded7c55c8"
+  },
+  {
+    "path": "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_01/1h/photo_20261117_195848_814061.jpg",
+    "sha256": "99f6b4b27a65d1e6159f3676bcf04b4f5a48bbc092b88df57e67a67721aba5ff"
+  },
+  {
+    "path": "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_01/1h/photo_20261117_195848_814061.json",
+    "sha256": "d378659d07e1c82a14440c0e771717db91cdd73556bb41adab80e69f96729632"
+  },
+  {
+    "path": "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_01/2h/photo_20261117_210312_198998.jpg",
+    "sha256": "4a6d5d36d23fc19d62eef3f105aff969085943d17a59d5f00f33a89616910c43"
+  },
+  {
+    "path": "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_01/2h/photo_20261117_210312_198998.json",
+    "sha256": "510ba349e800a84065663992243acea8ed6e890adf4c5073c92bffae6c552808"
+  },
+  {
+    "path": "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_01/3h/photo_20261117_215221_244986.jpg",
+    "sha256": "f7f79e95831870c32b9d0ab5a52350b9fca8dd6a4d5eed64345e08a5f5970804"
+  },
+  {
+    "path": "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_01/3h/photo_20261117_215221_244986.json",
+    "sha256": "42ae43d6968071d521bb4a40574958312d23a82eac6893f2e90b8745ad8851d8"
+  },
+  {
+    "path": "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_02/0h/photo_20261117_185344_917580.jpg",
+    "sha256": "468f7d955a30a413a33745cb1e089950e64396a96277a0fb2096cb0f5d6c7c36"
+  },
+  {
+    "path": "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_02/0h/photo_20261117_185344_917580.json",
+    "sha256": "e65dac05cc3d2da12be0dec34f7e17f69e02f8bb274e2be9dd2d2c4368b854e2"
+  },
+  {
+    "path": "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_02/1h/photo_20261117_195930_509057.jpg",
+    "sha256": "93acd3569d6e2ee7e4a0b3d8cd3093553400157aae0a5d73e0e96ca58df7719d"
+  },
+  {
+    "path": "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_02/1h/photo_20261117_195930_509057.json",
+    "sha256": "594367916a69da8e4c1f4871836a462e6fb3228447cedd5803291c3942741b19"
+  },
+  {
+    "path": "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_02/2h/photo_20261117_210355_436217.jpg",
+    "sha256": "30861d5f3d0ff2305c25cb5b887ce924db6b3236ba146e4e432f2f5ef1b37291"
+  },
+  {
+    "path": "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_02/2h/photo_20261117_210355_436217.json",
+    "sha256": "ba811821fcbbc2417c5edfc42cd15955fcfdfcff3958b82d9f01dc3948e98e00"
+  },
+  {
+    "path": "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_02/3h/photo_20261117_215329_302178.jpg",
+    "sha256": "c2d2206732e41a93a0c1f4c7081115238c2af8bfe118b809807d1efdf844a0cb"
+  },
+  {
+    "path": "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_02/3h/photo_20261117_215329_302178.json",
+    "sha256": "4c5d93987333fd4fc736d0b301da30ecf91aa215c40eec57098858d04bb4875d"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_01/0h/photo_20261117_185500_437332.jpg",
+    "sha256": "16570cefa16e6dc4ace1a6547191b10167ad6296b63b069998896d47d3c53d1a"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_01/0h/photo_20261117_185500_437332.json",
+    "sha256": "a17f2d87e36b08ac0b3bdd087241cec55a0891b7cdd1bb54154874f5e2f465ee"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_01/1h/photo_20261117_200021_391388.jpg",
+    "sha256": "3bbe1d974fe976e9a5d5c14dac22fb14e7bc8558745072c93a4c9e26d6875314"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_01/1h/photo_20261117_200021_391388.json",
+    "sha256": "dd4a74ce16a634b0bc3e3f791dce2a99fb210c23a68a61afa51a2363d923c6ed"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_01/2h/photo_20261117_210450_893422.jpg",
+    "sha256": "d6c6cd6ae89c7281ccf3bc2964ed47cebea0a96a15092350449a32f366940b40"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_01/2h/photo_20261117_210450_893422.json",
+    "sha256": "04bc8f5987b49f32d35ca6d8e6096944204acc5e19dbb2ea42a8206e0a6d9307"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_01/3h/photo_20261117_215419_133743.jpg",
+    "sha256": "cb5e2c47b9f50d690eb5902a7fb0eabc4505a4ee21751d7898b0364c512d5823"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_01/3h/photo_20261117_215419_133743.json",
+    "sha256": "16a7f79a0d25ce52842d824b227694476a9fc21cdf8145fd75fdf63269ae0eff"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_02/0h/photo_20261117_191044_178796.jpg",
+    "sha256": "574c6afb3e8be0864ccdb4b07eb4727a4040b8b698af108aab07f605a956bef1"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_02/0h/photo_20261117_191044_178796.json",
+    "sha256": "f81c466e2d84e3a4b2a086d7633690d5abad78495d7aca060df8f8284011e360"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_02/1h/photo_20261117_200650_445903.jpg",
+    "sha256": "a9a8f2e45fc540e14c0307ac313ac83d8dafb234721239fbdeacffe79fe26ead"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_02/1h/photo_20261117_200650_445903.json",
+    "sha256": "f0060dd90432c22345233d73f6f8f534e953249d232515a10ce900296c2bb41b"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_02/2h/photo_20261117_210539_120443.jpg",
+    "sha256": "e885491115a95e3a1d505cc6833ffeab649a713b2861e887ecb0a4a640ab4119"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_02/2h/photo_20261117_210539_120443.json",
+    "sha256": "c7e8f53ef567132638afb3e2e47a512a2bafd7b2f9ac591da13bcb94052f9557"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_02/3h/photo_20261117_215509_495467.jpg",
+    "sha256": "c790022b3b04c3a0c30be131c564ffcddb20446d275de211310760fa8f8fbe66"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_02/3h/photo_20261117_215509_495467.json",
+    "sha256": "c1a3e1b49240c7f3c3e79b36d1726acb04d26059e6816ec9ecff1b7450e60c4f"
+  }
+]

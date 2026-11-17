@@ -1,0 +1,43 @@
+{
+  "fit_centers": [
+    [
+      785,
+      555
+    ],
+    [
+      1585,
+      555
+    ],
+    [
+      1185,
+      250
+    ],
+    [
+      1185,
+      855
+    ]
+  ],
+  "held_out_centers": [
+    [
+      785,
+      250
+    ],
+    [
+      1585,
+      250
+    ],
+    [
+      785,
+      855
+    ],
+    [
+      1585,
+      855
+    ]
+  ],
+  "patch_size": 40,
+  "baseline": "first image per film",
+  "formula": "corrected_RGB = original_RGB * baseline_fit_mean / current_fit_mean",
+  "metric": "mean over 4 held-out patches of 100*sqrt(mean(((current-reference)/reference)**2))",
+  "source_manifest": "results/20261112/03_image_time_series/input_manifest.json"
+}

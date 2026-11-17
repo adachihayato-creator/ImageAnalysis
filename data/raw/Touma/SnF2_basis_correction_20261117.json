@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-17",
+  "scope": "Touma previous-week and current SnF2 labels",
+  "confirmed_basis": "組成式のSnに対応するSnI2量を基準とする。全体組成基準という以前の説明を訂正。",
+  "numeric_label": "0.1",
+  "unit_confirmation_pending": false,
+  "today_additive_presence": "User confirmed: Sn-free pair no additive; Sn10pair SnF2 0.1mol% relative to SnI2. Supersedes earlier noSnF2 statement.",
+  "updated_metadata": [
+    "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/condition_metadata.json",
+    "data/raw/Touma/FACsSnPbI3(Sn25mol%)/20261110/condition_metadata.json"
+  ],
+  "legacy_paths_and_reports": "Historical folder names and reports may retain0.1mol% or whole-composition basis; use this correction and updated metadata. Image/XRD raw signals unchanged.",
+  "confirmed_unit": "mol%",
+  "SnF2_moles_over_SnI2_moles": 0.001
+}

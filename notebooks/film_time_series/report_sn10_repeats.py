@@ -1,6 +1,6 @@
 from pathlib import Path
 import csv
-P=Path('data/processed/20261112/16_reanalysis_with_repeats')
+P=Path('results/20261112/16_reanalysis_with_repeats')
 read=lambda n:list(csv.DictReader((P/n).open(encoding='utf-8-sig')))
 ss=read('repeat_vs_time_change.csv');vv=read('held_out_background.csv')
 lines=['# 10分膜の5回撮影を加えた再解析','',
@@ -29,4 +29,4 @@ lines+=['','単位はJPEG RGB、SDは標本標準偏差(ddof=1)。5回とも同�
 'repeat_metrics_common_reference.csv＝5枚の同一基準RGB、repeat_vs_time_change.csv＝SD/全幅/経時差、repeat_roi_sensitivity.csv＝ROI12/18/24%、film_identity_matches.csv＝同一膜の特徴点比較、held_out_background.csv＝未使用背景での検証。input_manifest.json/analysis_config.jsonに入力ハッシュと条件。元写真・JSON・以前の解析は変更していません。','',
 '再実行：python3 notebooks/film_time_series/reanalyze_sn10_with_repeats.py → python3 notebooks/film_time_series/report_sn10_repeats.py（リポジトリ直下、NumPy/OpenCV/Pillow/Matplotlib使用）。未使用背景の検証方法：固定の対角4領域40px、初期10分膜写真に対するRGB成分別相対差RMSの領域平均。']
 (P/'README.md').write_text('\n'.join(lines)+'\n')
-f=Path('data/processed/20261112/README.md');s=f.read_text();link='\n## 最新：10分膜の5回撮影によるばらつき評価\n\n[経時変化と置き直し試験の比較](16_reanalysis_with_repeats/README.md)\n';f.write_text(s+link if link not in s else s)
+f=Path('results/20261112/README.md');s=f.read_text();link='\n## 最新：10分膜の5回撮影によるばらつき評価\n\n[経時変化と置き直し試験の比較](16_reanalysis_with_repeats/README.md)\n';f.write_text(s+link if link not in s else s)

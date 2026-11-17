@@ -1,0 +1,282 @@
+[
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 50 2 2h.rasx",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 50 2 2h.rasx",
+    "sha256": "5146704fb55c6342309509a992ace7e428a22a7087cb45f6d070ef450baa3c8f"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 90 2 3.5h.rasx",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 90 2 3.5h.rasx",
+    "sha256": "3ed8abf4dc25ffe0bc2bc65f4d84be6bb966cd9eaea75a9736f92823da9422b0"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 50 1.rasx",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 50 1.rasx",
+    "sha256": "f01c877f4802db973be23d67ac49577b157e2e9633a2121b67b930850b4d240b"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/BrRb 20% 2 3.5h.rasx",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/BrRb 20% 2 3.5h.rasx",
+    "sha256": "be37975cad710e09af3ca6ee85746a7e12cbbb46240287fbb0b96f4ee8fd3394"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/BrRb 20% 2.txt",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/BrRb 20% 2.txt",
+    "sha256": "2eebb5567ae6f164c17c417ed5758ec6763ba40549d5ab9c4ecd09134a8701dc"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 90 1 3.5h.txt",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 90 1 3.5h.txt",
+    "sha256": "d7734809222da4dd04afd4a2d868c3d3db009bbffaf21fb8d7520e1c4f06ee90"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/BrRb 20% 2 3.5h.txt",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/BrRb 20% 2 3.5h.txt",
+    "sha256": "3dba551760d3312a5eed037f39e123e8104ec34775b87e811ad0ae0c9453054c"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 90 1 1h.txt",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 90 1 1h.txt",
+    "sha256": "05e15a575939420927365a7095d5f3e9904b1dae811f9024c685f6108c1a33f0"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 90 2.txt",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 90 2.txt",
+    "sha256": "611bc05c0396f28673f0a82abd558fb035e6fb49eee8254d3542c99330020368"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/BrRb 20% 1.rasx",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/BrRb 20% 1.rasx",
+    "sha256": "dd4efd265debe02dcca8ece9ed48e4a1ab5b37d6875a2c24e32501a8d713b5a7"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 50 1 3.5h.rasx",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 50 1 3.5h.rasx",
+    "sha256": "85ed48b3723453a9edd5d0dc70206a015f578c59d5002e31f73702c91bcba702"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 90 1.rasx",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 90 1.rasx",
+    "sha256": "a4411355c39a43aa94fe5a1d7a1b991807d25d26cdbbf45c1085fca874429ac2"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 90 2 3.5h.txt",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 90 2 3.5h.txt",
+    "sha256": "b5b0bb2809311a584f71230bbf86b3c339d3b6c109f6215ca9fb147309ffee5f"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 90 1 3.5h.rasx",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 90 1 3.5h.rasx",
+    "sha256": "14522112f1bfd1f9ddd52da1bb17b8e3d1db6213fcf87e5554a85623f6de9f7d"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 50 2 2h.txt",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 50 2 2h.txt",
+    "sha256": "0088b7ae2e3a6596b39828b237e088e6a45c1614469d755d561c5463aaf05d11"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 90 1 1h.rasx",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 90 1 1h.rasx",
+    "sha256": "10638d28c36682c01448d2b5ac719d52a39b24a482bcb3829ad99d954ed15a41"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 90 2.rasx",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 90 2.rasx",
+    "sha256": "d59653e8cbd67e8440587bced4d414288bd0977aaaff767fe88b90379c0c7079"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 50 2.rasx",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 50 2.rasx",
+    "sha256": "88ed5842f3b8915df0c19d720deea9abd9b199b88af8aa10535902e09a31b9f4"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/BrRb 20% 1.txt",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/BrRb 20% 1.txt",
+    "sha256": "642ce21d6d01fe1eea11b5eaf8d6b7dde35869ff22e4140d7b7545bcede80b8d"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 50 2.txt",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 50 2.txt",
+    "sha256": "d35efa5494f94cb911f8f6f1219b777c3319e6c3ba5bb360751be9d63ad694d7"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 90 2 1h.txt",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 90 2 1h.txt",
+    "sha256": "ab4ea5506107a241713ceb37ca05ec604d61532ad367e86c772ff15a588f7d2c"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 50 1 3.5h.txt",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 50 1 3.5h.txt",
+    "sha256": "5a0925a0daa30a128c0fd192efdd7c40133507a409d4492daed3b5f4ef2c9325"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/BrRb 20% 2.rasx",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/BrRb 20% 2.rasx",
+    "sha256": "24690b98a49cbc8903b2d5c835ee82fa6f88d99aa66b927f9d6a782bd7be7397"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 50 2 3.5h.rasx",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 50 2 3.5h.rasx",
+    "sha256": "a8b0a008aa17d316bad1fd6a6b26eee2cdfcaf2340fa1e3508878d2810feb5e5"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/BrRb 20% 1 3.5h.txt",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/BrRb 20% 1 3.5h.txt",
+    "sha256": "c902f23b481af0529d6f780e013a5287a7a92790ddacbd66305da15d750eb631"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 50 1 2h.rasx",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 50 1 2h.rasx",
+    "sha256": "029fc22cec81e933eebcd08f9159f314069bed9cc82a0ef7610db6c378e9ba7e"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 90 2 1h.rasx",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 90 2 1h.rasx",
+    "sha256": "ea58b5ac38dbcec0351b83d86daae8611a0791fd4406f0ab3ee7b621b069df40"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 50 1 2h.txt",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 50 1 2h.txt",
+    "sha256": "6220c08d13676a02f98417b4c77b2644f34c68b9329061db965c21823d55f20c"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 90 1.txt",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 90 1.txt",
+    "sha256": "7de150683def2d5da96394d0d7e76469df40924032af91ac7a29ccdff72fe417"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 50 2 3.5h.txt",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 50 2 3.5h.txt",
+    "sha256": "0ac80be566a083a512ddedd1e7b0e9911917ab34a355b02727de3735b625c72b"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/BrRb 20% 1 3.5h.rasx",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/BrRb 20% 1 3.5h.rasx",
+    "sha256": "78366d3be95a56d62cfd6539376b840df163a5e22881a4193b85be419189bd2b"
+  },
+  {
+    "source": "data/raw/20261117/Tuji/261117/FACsPbI3 50 1.txt",
+    "destination": "data/raw/XRD/20261117/Tuji/261117/FACsPbI3 50 1.txt",
+    "sha256": "cbf88005042b4ab466a165e882331eada16146a9c43c8ecf38258187490fd887"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/SnF2 10 1 1h.rasx",
+    "destination": "data/raw/XRD/20261117/Touma/261117/SnF2 10 1 1h.rasx",
+    "sha256": "46b646310baebcce56697059e84bad166568d9ae7617d6b78caf32eb59aa7f45"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/FACsPbI3 2.rasx",
+    "destination": "data/raw/XRD/20261117/Touma/261117/FACsPbI3 2.rasx",
+    "sha256": "33048b4daf471970bdbb1599d893f65e54f7a936e6315a2ab64eab7c8e87ba3c"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/SnF2 10 1 3h.rasx",
+    "destination": "data/raw/XRD/20261117/Touma/261117/SnF2 10 1 3h.rasx",
+    "sha256": "36cd2f4bc513b5563ea1beed409b3ee8f36e6850a079ae565d9cab04413bc6aa"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/SnF2 10 2 3h.rasx",
+    "destination": "data/raw/XRD/20261117/Touma/261117/SnF2 10 2 3h.rasx",
+    "sha256": "8ddfd1150888b4e7e1fba8f8fd97bf9d91a01864cdf3efe3924bbce03a04e969"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/FACsPbI3 2.txt",
+    "destination": "data/raw/XRD/20261117/Touma/261117/FACsPbI3 2.txt",
+    "sha256": "680a8f2e8779990d5ae285199c91d955a9fe62cfd6f88ec6e57ccf0e2189acf7"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/FACsPbI3 2 1h.txt",
+    "destination": "data/raw/XRD/20261117/Touma/261117/FACsPbI3 2 1h.txt",
+    "sha256": "abe77915fd8eda3b6af28d84a32ffcb686a58ee9d0a0d14c56a35f427523d013"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/SnF2 10 1.rasx",
+    "destination": "data/raw/XRD/20261117/Touma/261117/SnF2 10 1.rasx",
+    "sha256": "c6afc26d3f02619076107bc6eaa52f44d23a93b71ff80620b128e4e1eb015213"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/SnF2 10 2.txt",
+    "destination": "data/raw/XRD/20261117/Touma/261117/SnF2 10 2.txt",
+    "sha256": "269c759c05d17dc0c53c90484f6987f266cd2a9c32d23119e3f593b6460b70ea"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/SnF2 10 2 3h.txt",
+    "destination": "data/raw/XRD/20261117/Touma/261117/SnF2 10 2 3h.txt",
+    "sha256": "0daf1393bdb1162c1ef76ac06182c9a5de602cca0ee6a81a155b534ea75bc1b2"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/FACsPbI3 1.txt",
+    "destination": "data/raw/XRD/20261117/Touma/261117/FACsPbI3 1.txt",
+    "sha256": "42ad5b875448c7988e1b15591ba83c439d4cc7ad181296dddcb329bb0368888f"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/SnF2 10 1.txt",
+    "destination": "data/raw/XRD/20261117/Touma/261117/SnF2 10 1.txt",
+    "sha256": "66d502cab09db6469d60a3d19834f484235136e77c4e8f952df2ece0862eb2f2"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/SnF2 10 1 3h.txt",
+    "destination": "data/raw/XRD/20261117/Touma/261117/SnF2 10 1 3h.txt",
+    "sha256": "9490e2b7f402338bb710aba25575f80e3c935024d3273fc2d460a54f54744192"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/SnF2 10 2 1h.txt",
+    "destination": "data/raw/XRD/20261117/Touma/261117/SnF2 10 2 1h.txt",
+    "sha256": "e6d7c16fae2e2d14234284c528871735f1224b15578e3f5f12c9a1d44412de9f"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/FACsPbI3 1 1.5h.rasx",
+    "destination": "data/raw/XRD/20261117/Touma/261117/FACsPbI3 1 1.5h.rasx",
+    "sha256": "6f1d0ae2e1d42f9ac50ee207dc85c695651304f45150e6cf4976f12b5ebeae36"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/FACsPbI3 1 3.5h.txt",
+    "destination": "data/raw/XRD/20261117/Touma/261117/FACsPbI3 1 3.5h.txt",
+    "sha256": "5cc590a4bb03f03737a657b0cb1889d7a1dc25ef54af8776d154974f395b4a82"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/FACsPbI3 1 1.5h.txt",
+    "destination": "data/raw/XRD/20261117/Touma/261117/FACsPbI3 1 1.5h.txt",
+    "sha256": "86d9ab1acdb2441be16d472f0dcbc9d9a71f73f98e9ded5af2758ede8270702f"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/FACsPbI3 1 3h.rasx",
+    "destination": "data/raw/XRD/20261117/Touma/261117/FACsPbI3 1 3h.rasx",
+    "sha256": "e1cb4cce55853836cf1877b46713197a61fba4bcf2f8b18a35f558ee75cf468a"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/FACsPbI3 2 3h.txt",
+    "destination": "data/raw/XRD/20261117/Touma/261117/FACsPbI3 2 3h.txt",
+    "sha256": "ebbe9dfe9f82f0e775f516dd74379f2137c7775ccdb61c4c48481bbb0cc4d813"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/SnF2 10 2.rasx",
+    "destination": "data/raw/XRD/20261117/Touma/261117/SnF2 10 2.rasx",
+    "sha256": "f0ab6e19c1fedd2645188b803d0c80fcf58f264d30122854d74baa908ba7789a"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/FACsPbI3 2 1h.rasx",
+    "destination": "data/raw/XRD/20261117/Touma/261117/FACsPbI3 2 1h.rasx",
+    "sha256": "3db680abbf37ed47af0a10ddce9d4e748c97e01c2132fa7bd6c558532fb323a1"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/FACsPbI3 1.rasx",
+    "destination": "data/raw/XRD/20261117/Touma/261117/FACsPbI3 1.rasx",
+    "sha256": "4bce60904da47ffd439b9852586b194f80479f9aac64c620b61dc02edd6adeb6"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/FACsPbI3 2 3h.rasx",
+    "destination": "data/raw/XRD/20261117/Touma/261117/FACsPbI3 2 3h.rasx",
+    "sha256": "89f55bdc6f018f8d604a9a11da9d85743fb3d8c3932de1ab1b70340492798902"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/SnF2 10 2 1h.rasx",
+    "destination": "data/raw/XRD/20261117/Touma/261117/SnF2 10 2 1h.rasx",
+    "sha256": "26eb5fecf11ed9b3b26c66ade8a1bfb7bb06328aa015348ca8c1fd8e7d5b8250"
+  },
+  {
+    "source": "data/raw/20261117/Touma/261117/SnF2 10 1 1h.txt",
+    "destination": "data/raw/XRD/20261117/Touma/261117/SnF2 10 1 1h.txt",
+    "sha256": "22666b96bf846dbc42f3113c41551d978afd6d9e05f60a84f5c9a1cf17056840"
+  }
+]

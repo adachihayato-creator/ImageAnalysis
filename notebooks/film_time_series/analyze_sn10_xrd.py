@@ -21,7 +21,7 @@ ROOT=Path(__file__).resolve().parents[2]
 sys.path.insert(0,str(ROOT/'notebooks/capture_repeatability'))
 from analyze_repeatability import corners_and_bbox,roi
 BASE=ROOT/'data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112'
-OUT=ROOT/'data/processed/20261112/01_sn10_xrd_image_comparison'
+OUT=ROOT/'results/20261112/01_sn10_xrd_image_comparison'
 WINDOWS={
     'low':{'search':(12,13),'background':((11.5,11.8),(13.1,13.3))},
     'main':{'search':(13.4,14.7),'background':((13.15,13.35),(14.9,15.2))},

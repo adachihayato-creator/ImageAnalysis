@@ -1,0 +1,13 @@
+﻿split,quantity,channel,pairs,films,R2_all_points,R2_equal_film_weights,definition
+leave_one_film_out,level,R,64,19,0.9735567421433707,0.9777505100992301,1-SSE/SST; not squared Pearson correlation; predictions unchanged
+leave_one_film_out,level,G,64,19,0.9851748390388302,0.9850216055607564,1-SSE/SST; not squared Pearson correlation; predictions unchanged
+leave_one_film_out,level,B,64,19,0.9902285054601563,0.9906352680336143,1-SSE/SST; not squared Pearson correlation; predictions unchanged
+leave_one_film_out,change,R,64,19,0.12873250950265136,0.07379583568920567,1-SSE/SST; not squared Pearson correlation; predictions unchanged
+leave_one_film_out,change,G,64,19,0.16668569537824063,0.061334078861647545,1-SSE/SST; not squared Pearson correlation; predictions unchanged
+leave_one_film_out,change,B,64,19,0.12642749308100143,0.1796506623865729,1-SSE/SST; not squared Pearson correlation; predictions unchanged
+older_to_today,level,R,36,10,0.9804245356462351,0.9824681355467663,1-SSE/SST; not squared Pearson correlation; predictions unchanged
+older_to_today,level,G,36,10,0.9764877330520686,0.979744483512164,1-SSE/SST; not squared Pearson correlation; predictions unchanged
+older_to_today,level,B,36,10,0.9775993284984386,0.9804066117597422,1-SSE/SST; not squared Pearson correlation; predictions unchanged
+older_to_today,change,R,36,10,-0.01468259986348408,-0.007517327341441726,1-SSE/SST; not squared Pearson correlation; predictions unchanged
+older_to_today,change,G,36,10,-0.47498869096528185,-0.4046320000311405,1-SSE/SST; not squared Pearson correlation; predictions unchanged
+older_to_today,change,B,36,10,-0.3564912847719497,-0.308110918480625,1-SSE/SST; not squared Pearson correlation; predictions unchanged

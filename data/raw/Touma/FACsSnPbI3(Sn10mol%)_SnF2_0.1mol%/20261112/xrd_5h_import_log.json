@@ -1,0 +1,113 @@
+{
+  "status": "complete",
+  "actions": [
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 5min 5hr.txt",
+      "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/5h/SnI2 0.1 5min 5hr.txt",
+      "sha256": "0446041d37f44a8a5bf96707a885d4cc0a7fe32f1bfcfe1e350932fde5cc8c87",
+      "operation": "move"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 5min 5hr.rasx",
+      "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/5h/SnI2 0.1 5min 5hr.rasx",
+      "sha256": "2652df6f0a44c436e8d66f33c002bb3c5d1d819e34ecaf8cf1615a64f1c49691",
+      "operation": "move"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 10min 5hr.txt",
+      "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/5h/SnI2 0.1 10min 5hr.txt",
+      "sha256": "660470689e5807dbe512454ea0688942258f5dfff29b42f381fa23e67c82a93f",
+      "operation": "move"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 10min 5h.rasx",
+      "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/5h/SnI2 0.1 10min 5h.rasx",
+      "sha256": "b341b30a9f6c7cd9e0ddb60bcef065e8f5e113e05e9e6acbdf34ee6271cc9d01",
+      "operation": "move"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 15min 5h.rasx",
+      "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/5h/SnI2 0.1 15min 5h.rasx",
+      "sha256": "c888a15166e121e7332ed6ce3280ad2fe147fc45d0f6885a864ed283f6fbdfbe",
+      "operation": "move"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 15min 5h.txt",
+      "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/5h/SnI2 0.1 15min 5h.txt",
+      "sha256": "d8abefc3ea817d65fd00d5d8332d454eadfea127d8d38237706aa641460fa96e",
+      "operation": "move"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 15min 1h.txt",
+      "retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/1h/SnI2 0.1 15min 1h.txt",
+      "sha256": "a16792460182e0d1a9b5e69935e27fdaebcc1380804b7dad445323089c6b9fee",
+      "operation": "delete_exact_duplicate"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 10min.rasx",
+      "retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/0h/SnI2 0.1 10min.rasx",
+      "sha256": "b960a113a5d81ab6f3126e527b601880d2eff130bbec3e34c005e55de3e0e778",
+      "operation": "delete_exact_duplicate"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 5min.txt",
+      "retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/0h/SnI2 0.1 5min.txt",
+      "sha256": "ea8fea1529a235db8c2bccfaae4f91098c433d7ed431cf13d30cc31e50fe83be",
+      "operation": "delete_exact_duplicate"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 5min 1hr.rasx",
+      "retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/1h/SnI2 0.1 5min 1h.rasx",
+      "sha256": "41edb7ed41e057d7a0e59a422c380a0ba7b411c3361b363afb6f30881fba2fa7",
+      "operation": "delete_exact_duplicate"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 5min.rasx",
+      "retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/0h/SnI2 0.1 5min.rasx",
+      "sha256": "2eb47fd2c7a6368b18a7d09f62ebffec9740b0188a85deeed23c7c444b296250",
+      "operation": "delete_exact_duplicate"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 10min.txt",
+      "retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/0h/SnI2 0.1 10min.txt",
+      "sha256": "eb5d8935b1fbc3ddba9232c8ffd0e1ef6aa9ba88f8bbb4e15346c6d33737b45a",
+      "operation": "delete_exact_duplicate"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 15min.rasx",
+      "retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/0h/SnI2 0.1 15min.rasx",
+      "sha256": "5be7796ca44269ec048bb22d263c9ce000847b242bea913dab9fdb2ca0c739e9",
+      "operation": "delete_exact_duplicate"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 10min 1h.rasx",
+      "retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/1h/SnI2 0.1 10min 1h.rasx",
+      "sha256": "3d94d08d4f90b09f3523f850af492c01131594ead572be997777508ac7e1c770",
+      "operation": "delete_exact_duplicate"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 15min 1h.rasx",
+      "retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/1h/SnI2 0.1 15min 1h.rasx",
+      "sha256": "f21a532aea88368fbe6d9dd5eb09307dcf6957e8183980984d2b63bc17574a56",
+      "operation": "delete_exact_duplicate"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 5min 1hr.txt",
+      "retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/1h/SnI2 0.1 5min 1h.txt",
+      "sha256": "9a75965721d986916ea5f64893e91fb722ab5b637fc1018731241ff1e9b0546f",
+      "operation": "delete_exact_duplicate"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 10min 1hr.txt",
+      "retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/1h/SnI2 0.1 10min 1hr.txt",
+      "sha256": "ef5a84c079ed1ce05c042a2b7aa4e6a447ed85c3e544b6effa7506bc7c363334",
+      "operation": "delete_exact_duplicate"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 15min.txt",
+      "retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/0h/SnI2 0.1 15min.txt",
+      "sha256": "9d97de4c7b0458b1f27ec8f9967b11108dadc13607a44651815c12f22db7aef6",
+      "operation": "delete_exact_duplicate"
+    }
+  ]
+}

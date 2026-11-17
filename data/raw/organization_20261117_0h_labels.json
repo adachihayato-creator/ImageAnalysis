@@ -1,0 +1,25 @@
+{
+  "reason": "User identified initial capture as作製直後0h; rename unconfirmed-age directories.",
+  "paths": {
+    "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_02/initial_age_unconfirmed/photo_20261117_171423_288864.json": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_02/0h/photo_20261117_171423_288864.json",
+    "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_02/initial_age_unconfirmed/photo_20261117_171423_288864.jpg": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_02/0h/photo_20261117_171423_288864.jpg",
+    "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_03/initial_age_unconfirmed/photo_20261117_172025_111796.json": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_03/0h/photo_20261117_172025_111796.json",
+    "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_03/initial_age_unconfirmed/photo_20261117_172025_111796.jpg": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_03/0h/photo_20261117_172025_111796.jpg",
+    "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_04/initial_age_unconfirmed/photo_20261117_172447_913634.json": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_04/0h/photo_20261117_172447_913634.json",
+    "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_04/initial_age_unconfirmed/photo_20261117_172447_913634.jpg": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_04/0h/photo_20261117_172447_913634.jpg",
+    "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_01/initial_age_unconfirmed/photo_20261117_171305_386943.json": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_01/0h/photo_20261117_171305_386943.json",
+    "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_01/initial_age_unconfirmed/photo_20261117_171305_386943.jpg": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/film_01/0h/photo_20261117_171305_386943.jpg",
+    "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_02/initial_age_unconfirmed/photo_20261117_174101_628864.jpg": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_02/0h/photo_20261117_174101_628864.jpg",
+    "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_02/initial_age_unconfirmed/photo_20261117_174101_628864.json": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_02/0h/photo_20261117_174101_628864.json",
+    "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_01/initial_age_unconfirmed/photo_20261117_173941_317098.json": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_01/0h/photo_20261117_173941_317098.json",
+    "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_01/initial_age_unconfirmed/photo_20261117_173941_317098.jpg": "data/raw/Tuji/FACsPbI3_FA85Cs15_BrRb20percent/20261117/film_01/0h/photo_20261117_173941_317098.jpg",
+    "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_02/initial_age_unconfirmed/photo_20261117_185344_917580.jpg": "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_02/0h/photo_20261117_185344_917580.jpg",
+    "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_02/initial_age_unconfirmed/photo_20261117_185344_917580.json": "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_02/0h/photo_20261117_185344_917580.json",
+    "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_01/initial_age_unconfirmed/photo_20261117_185235_609677.jpg": "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_01/0h/photo_20261117_185235_609677.jpg",
+    "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_01/initial_age_unconfirmed/photo_20261117_185235_609677.json": "data/raw/Touma/FACsPbI3_FA85Cs15/20261117_130C_10min/film_01/0h/photo_20261117_185235_609677.json",
+    "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_02/initial_age_unconfirmed/photo_20261117_191044_178796.json": "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_02/0h/photo_20261117_191044_178796.json",
+    "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_02/initial_age_unconfirmed/photo_20261117_191044_178796.jpg": "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_02/0h/photo_20261117_191044_178796.jpg",
+    "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_01/initial_age_unconfirmed/photo_20261117_185500_437332.jpg": "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_01/0h/photo_20261117_185500_437332.jpg",
+    "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_01/initial_age_unconfirmed/photo_20261117_185500_437332.json": "data/raw/Touma/FACsSnPbI3_FA85Cs15_Sn10/20261117_130C_10min/film_01/0h/photo_20261117_185500_437332.json"
+  }
+}

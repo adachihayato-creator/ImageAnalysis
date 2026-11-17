@@ -1,0 +1,36 @@
+{
+  "material_family": "FACsSnPbI3",
+  "a_site_ratios": null,
+  "sn_fraction_basis": "Sn / (Sn + Pb), molar",
+  "additive": "SnF2",
+  "additive_amount_mol_percent": 0.1,
+  "additive_basis_user_description": "組成式のSnに対応するSnI2のモル量に対してSnF2を0.1mol%添加",
+  "anneal_temperature_C": 130,
+  "minutes_labels_mean": "annealing duration, not age after deposition",
+  "source": "User clarification 2026-11-12",
+  "sn_fraction": 0.05,
+  "pb_fraction": 0.95,
+  "anneal_durations_min": [
+    5,
+    10
+  ],
+  "existing_path_label_incorrect": "Sn25mol% in parent path is incorrect for this 20261110 batch only; October15 specimens are not relabeled",
+  "capture_dates": [
+    "2026-11-10",
+    "2026-11-11"
+  ],
+  "precursor_solution_dispense_volume_uL": 50,
+  "dispense_volume_source": "User confirmed 2026-11-17: all previous Touma/Tuji films used50uL; only new Tuji films1/2 used90uL.",
+  "condition_correction_history": [
+    {
+      "date": "2026-11-17",
+      "previous_basis": "全体の組成に対して0.1 mol%",
+      "previous_amount_mol_percent": 0.1,
+      "reason": "User corrects reference from whole composition to SnI2 corresponding to formula Sn; numeric0.1 unit still to clarify."
+    }
+  ],
+  "additive_reference_species": "SnI2 (formula Sn precursor)",
+  "additive_amount_user_label": "0.1",
+  "additive_numeric_unit_status": "User confirmed mol%;0.1mol% relative to SnI2, not0.1molar ratio.",
+  "SnF2_moles_over_SnI2_moles": 0.001
+}

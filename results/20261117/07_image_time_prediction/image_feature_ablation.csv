@@ -1,0 +1,7 @@
+﻿split,model,film_weighted_MAE_RGB,observations,films
+leave_one_film_out,history_only,0.8052537850163499,64,19
+leave_one_film_out,meanRGB_plus_history,0.8065280506240945,64,19
+leave_one_film_out,all_image_plus_history,0.7805483925302279,64,19
+older_to_today,history_only,0.8363022249915101,36,10
+older_to_today,meanRGB_plus_history,0.9581975703181635,36,10
+older_to_today,all_image_plus_history,0.8646836916819243,36,10

@@ -1,0 +1,10 @@
+{
+  "source": "User confirmation against test photo captured_at2026-11-17T21:25:36.699609+09:00",
+  "reference_clock": "camera/RaspberryPi timestamp",
+  "xrd_ahead_seconds": 390,
+  "correction_seconds": -390,
+  "example_camera_time": "21:25:36",
+  "corresponding_xrd_clock_time": "21:32:06",
+  "past_dates_offset_validity": "not yet confirmed",
+  "raw_timestamps_modified": false
+}

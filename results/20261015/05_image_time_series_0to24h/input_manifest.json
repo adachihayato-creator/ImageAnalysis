@@ -1,0 +1,226 @@
+[
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/1枚目0h.jpg",
+    "sha256": "1bfbef6559216114fd07dde34b833690a38b6396335e73b904cfe4567978deca"
+  },
+  {
+    "path": "results/20261015/01_crops/Tuji/FACsPbI3_BrRb_5mol_per_gram/1枚目0h.jpg",
+    "sha256": "a6ee6daa2abe76cb73298554739f027007f3aebfbc5d99f6f499918887761e49"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/1枚目1h.jpg",
+    "sha256": "4d26c499372ad6f7ac31e5bcc1859d7467b4ff4ebec33ef14df0ba1fb3ed45ed"
+  },
+  {
+    "path": "results/20261015/01_crops/Tuji/FACsPbI3_BrRb_5mol_per_gram/1枚目1h.jpg",
+    "sha256": "f88ab11ba02a587a1e2878c5d734c0a4728ad5128674848fc5097ad4aabfe4fa"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/1枚目2h.jpg",
+    "sha256": "8e67a3e7fcfda7bbd47d54600fba809efb6157d54e76956dae182cf05fa94ef3"
+  },
+  {
+    "path": "results/20261015/01_crops/Tuji/FACsPbI3_BrRb_5mol_per_gram/1枚目2h.jpg",
+    "sha256": "78daadda5777dc226d6a88799c81551c1f6fdb189851fd689ff1b4e2041377f6"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/1枚目3h.jpg",
+    "sha256": "bdbbdadae1a503b912850d20fe3d52c1cb4682b0b5ea52aafa3f542eceb9e6ae"
+  },
+  {
+    "path": "results/20261015/01_crops/Tuji/FACsPbI3_BrRb_5mol_per_gram/1枚目3h.jpg",
+    "sha256": "d5cb419d2133297fa2d1bfb40c793b0fb5e2fd7c06be89b2cc44fe2753487235"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/1枚目4h.jpg",
+    "sha256": "9a27523bdcc61f686ce058caaa15182608cb0d2da7d1c10bb60bf9c19c29e1cb"
+  },
+  {
+    "path": "results/20261015/01_crops/Tuji/FACsPbI3_BrRb_5mol_per_gram/1枚目4h.jpg",
+    "sha256": "2fe8152a619cc1a8823d8544ce9814bd6db59440a6b25910efe4aca46cf918f1"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/1枚目5h.jpg",
+    "sha256": "60b7a79712ed8241fa6763697ad4ca6262b4edd12fb0a6c5f6ea46e3a0ba8c98"
+  },
+  {
+    "path": "results/20261015/01_crops/Tuji/FACsPbI3_BrRb_5mol_per_gram/1枚目5h.jpg",
+    "sha256": "b46a96a53a89db451ace655b9c5e475ed34e81a6238a3a512031318984eae904"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/1枚目24h.jpg",
+    "sha256": "7529b1d265756ef94eeea94be0dd9e2623513171f504811897ad024e13afe77b"
+  },
+  {
+    "path": "results/20261015/01_crops/Tuji/FACsPbI3_BrRb_5mol_per_gram/1枚目24h.jpg",
+    "sha256": "ed321c82d60cff33bd1d8a04f3ced7107e82667552bb30620b9ac08a06dac00e"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/2枚目0h.jpg",
+    "sha256": "84f93081adffd17dbb78a3a3bd1e60a5829af6a5cc8d88cfea8ff6b4e2ed8630"
+  },
+  {
+    "path": "results/20261015/01_crops/Tuji/FACsPbI3_BrRb_5mol_per_gram/2枚目0h.jpg",
+    "sha256": "d59b8fbcbf8ad539ead2edfbbe813c9af12ae0476fc6be45e964faae95b52963"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/2枚目1h.jpg",
+    "sha256": "09e4505b0ee14f4a114091570d78d1d0eaddf7b54d47c3c800b8579b28b729b2"
+  },
+  {
+    "path": "results/20261015/01_crops/Tuji/FACsPbI3_BrRb_5mol_per_gram/2枚目1h.jpg",
+    "sha256": "8389cf08b1604411f8b5f062478f99e8c254ce9a98de75b2f780bb3c3440e7d1"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/2枚目2h.jpg",
+    "sha256": "f6036574a7cd39dfefe4815925662d6d5ddb33929ab279141c8c3d5ba42be1d7"
+  },
+  {
+    "path": "results/20261015/01_crops/Tuji/FACsPbI3_BrRb_5mol_per_gram/2枚目2h.jpg",
+    "sha256": "bf28c2d70fa9bf742455cdcfb71450251be5d4b305765218819822626eac7c27"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/2枚目3h.jpg",
+    "sha256": "984fa5fb1268565863efb0c4e32ebe01e80866b9811451f676eba0632846cd61"
+  },
+  {
+    "path": "results/20261015/01_crops/Tuji/FACsPbI3_BrRb_5mol_per_gram/2枚目3h.jpg",
+    "sha256": "0a14315c590d6572f00a400f747c1f0d476517d2e7a9a525f28edd4e4a6207b2"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/2枚目4h.jpg",
+    "sha256": "67295c7344f8ffdf2fe4e12b9c41aa2d02697f25be26054d1be7049cd7f857cd"
+  },
+  {
+    "path": "results/20261015/01_crops/Tuji/FACsPbI3_BrRb_5mol_per_gram/2枚目4h.jpg",
+    "sha256": "8d9ed0e418a3811bf6d670ecbc065f6b3d6116e2dbd2dee245388549b64585b7"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/2枚目5h.jpg",
+    "sha256": "db1c8f2ed5b501cb8cd8e86c70402435ab021840696ddd63bb20c4b38e4362bd"
+  },
+  {
+    "path": "results/20261015/01_crops/Tuji/FACsPbI3_BrRb_5mol_per_gram/2枚目5h.jpg",
+    "sha256": "1dbf104b70d37575f2aab0a39dca72c8f87f61b345ca55b8b1fd2bdb01fbc7b9"
+  },
+  {
+    "path": "data/raw/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/2枚目24h.jpg",
+    "sha256": "766a7c14275f90e661423152d351f1e76818d0f93838796c84fc6374dd6280b8"
+  },
+  {
+    "path": "results/20261015/01_crops/Tuji/FACsPbI3_BrRb_5mol_per_gram/2枚目24h.jpg",
+    "sha256": "c244dd560632faea793743916c2149439776e2f1743f54b79160655449a0db8a"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/1枚目0h.jpg",
+    "sha256": "1f541072fa8a0ef43dddada6ae12a500cd5eeac512d84a511b40252b7b4fe89a"
+  },
+  {
+    "path": "results/20261015/01_crops/Touma/FACsSnPbI3(Sn25mol%)/1枚目0h.jpg",
+    "sha256": "4dca1a319d6acc2d529ee43ddecd31a2301f6fa00693cef1a92d2ad11a5f3764"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/1枚目1h.jpg",
+    "sha256": "40a5b829c2d2492068efdadd67c5abc70c0a0b198f4bada8d3f872f5e8899a59"
+  },
+  {
+    "path": "results/20261015/01_crops/Touma/FACsSnPbI3(Sn25mol%)/1枚目1h.jpg",
+    "sha256": "5a732d5bbdef2cac557a02bc9a103779e695fc495ce5526b69f64637360f65f3"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/1枚目2h.jpg",
+    "sha256": "b8e45350c1c27889af985214f76367b876c924defbc659049b38ffbf4c618063"
+  },
+  {
+    "path": "results/20261015/01_crops/Touma/FACsSnPbI3(Sn25mol%)/1枚目2h.jpg",
+    "sha256": "05c2298be8c347ce72246dd81faba6ab24e5045a2e1f3fb73e635a1b82bc621d"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/1枚目3h.jpg",
+    "sha256": "e12f28cc8a5928e0e82b9551c5fe762b4397f368be8be7b675625361ee703118"
+  },
+  {
+    "path": "results/20261015/01_crops/Touma/FACsSnPbI3(Sn25mol%)/1枚目3h.jpg",
+    "sha256": "9ed611c3ce3f2add21e96362c58142c4cec22112ba6a7c44544df7e2a264968b"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/1枚目4h.jpg",
+    "sha256": "ac05ac40491f4b743775491a8bb5fc72aa5a316e320cfa592e351676d2184afa"
+  },
+  {
+    "path": "results/20261015/01_crops/Touma/FACsSnPbI3(Sn25mol%)/1枚目4h.jpg",
+    "sha256": "31e569fd03457082fd7518fcc8913f91e1502769689f24a1de1d78f18e0c6f67"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/1枚目5h.jpg",
+    "sha256": "f8951c97298260c3e04c98b671a6dd049c28761331394b4351ef0f8c1d0270e7"
+  },
+  {
+    "path": "results/20261015/01_crops/Touma/FACsSnPbI3(Sn25mol%)/1枚目5h.jpg",
+    "sha256": "3622b3d3a96d9f7f749066860b803cbd37c6a601eb4a5c84fb8fdaf775cffe68"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/1枚目24h.jpg",
+    "sha256": "e50fc7d23e9e5528c057a414bf1c35825eea869f821c56b3543e5ae80a8e9b96"
+  },
+  {
+    "path": "results/20261015/01_crops/Touma/FACsSnPbI3(Sn25mol%)/1枚目24h.jpg",
+    "sha256": "eae0ff36a3d94ee735c73d07da296aa26a8015de27cb24683eae60cf48e02d34"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/2枚目0h.jpg",
+    "sha256": "917a9aa67bc4418ffa9f2b581b79c8bc257f4ff6c2634e821a6fcdf0fcba6b3d"
+  },
+  {
+    "path": "results/20261015/01_crops/Touma/FACsSnPbI3(Sn25mol%)/2枚目0h.jpg",
+    "sha256": "eafb60a1b1a579ae1c31abc3f7c788e25d61c800decc95020064e7e13576fd56"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/2枚目1h.jpg",
+    "sha256": "f45c888fba8397466c540052e8e4d2e9cd7ca9b21a4152f2cf4aefee88072aa2"
+  },
+  {
+    "path": "results/20261015/01_crops/Touma/FACsSnPbI3(Sn25mol%)/2枚目1h.jpg",
+    "sha256": "1977966855903248debf2eaaf6dedd241c74bb7ce6080b89c97b8a5804b6af67"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/2枚目2h.jpg",
+    "sha256": "cadeafa1e52a761c8b919b55b781ffa60aba14870ea217c8d99d85a80fffa21e"
+  },
+  {
+    "path": "results/20261015/01_crops/Touma/FACsSnPbI3(Sn25mol%)/2枚目2h.jpg",
+    "sha256": "91bb7a9d05fc86fdcd7bbb8fba49770dea658122373c171548668eeaafbf5415"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/2枚目3h.jpg",
+    "sha256": "7bcbec4e5f799e8ae93be7de209a9db8fd9586ab3af72d63aa32c93f4dd1b7fb"
+  },
+  {
+    "path": "results/20261015/01_crops/Touma/FACsSnPbI3(Sn25mol%)/2枚目3h.jpg",
+    "sha256": "d6cc824b03c14fded68f2f4dceac0c843f6947fe2ebfd1ac7894a0ba3d410f77"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/2枚目4h.jpg",
+    "sha256": "06c42bc2a090f885308cb9f4901510be5d2e7d173afbc368530952f597bef422"
+  },
+  {
+    "path": "results/20261015/01_crops/Touma/FACsSnPbI3(Sn25mol%)/2枚目4h.jpg",
+    "sha256": "9d087b5057953f167ae2ead9dd62fb881889279e714a2c52121054dda5270e34"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/2枚目5h.jpg",
+    "sha256": "f373b7ab8f0c3bf9cdfe70195717c33a991bde58ec824276659b0030498a0757"
+  },
+  {
+    "path": "results/20261015/01_crops/Touma/FACsSnPbI3(Sn25mol%)/2枚目5h.jpg",
+    "sha256": "8f4a12023adf3c355c7213067261d11ae6914963be631b6c984c343ea4cc21d6"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn25mol%)/10_15/2枚目24h.jpg",
+    "sha256": "62987dc8f26b9bb3a4400b9443a438bc9e5704fad036f4f4413eb3fc8a1f15a5"
+  },
+  {
+    "path": "results/20261015/01_crops/Touma/FACsSnPbI3(Sn25mol%)/2枚目24h.jpg",
+    "sha256": "42cb0e74665e8b9d8956f0fb320e1dce44f6040499da21a4044d4ac9631aa512"
+  }
+]

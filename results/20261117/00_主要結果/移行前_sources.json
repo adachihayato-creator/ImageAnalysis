@@ -1,0 +1,67 @@
+[
+  {
+    "result": "results/01_今回の予測_20261117/01_まず見る_予測誤差.png",
+    "source": "results/20261117/06_xrd_ratio_prediction/02_モデルの予測誤差.png",
+    "sha256": "aa723c37c17eb1af4da138efdda35230bc873e689e297f9e834048d4a4314a61"
+  },
+  {
+    "result": "results/01_今回の予測_20261117/02_実測と予測.png",
+    "source": "results/20261117/06_xrd_ratio_prediction/03_実測と予測.png",
+    "sha256": "2e413e09b29193f9029b64559a0ffd1d4dca65faa33a4124933b403135420121"
+  },
+  {
+    "result": "results/01_今回の予測_20261117/03_条件を変えた確認.png",
+    "source": "results/20261117/06_xrd_ratio_prediction/04_補正と領域による影響.png",
+    "sha256": "8760fea4b8f9d186131e9225d1bcdbcac719e24f49793531a37023eeb5668a5b"
+  },
+  {
+    "result": "results/02_1日後の画像とXRD_20261113/01_まず見る_画像とXRDの変化.png",
+    "source": "results/20261113/08_1day_image_xrd/05_画像とXRDの時間変化の対応.png",
+    "sha256": "b02cf894712831c8b45c054ad6da168cba6b51ca25e33df836dd02c6445d5ebd"
+  },
+  {
+    "result": "results/02_1日後の画像とXRD_20261113/02_画像と斑点.png",
+    "source": "results/20261113/08_1day_image_xrd/01_1hと1日後の画像と斑点.png",
+    "sha256": "0ae66b3c9b81c876078c86b71626b0f0b16a575622c976025aab767ef56d249c"
+  },
+  {
+    "result": "results/02_1日後の画像とXRD_20261113/03_XRDの経時変化.png",
+    "source": "results/20261113/08_1day_image_xrd/03_XRD_1日後まで.png",
+    "sha256": "8461987668637a5edcc18b80df4b1440170c24f3a04713e77f250b9d5857c19b"
+  },
+  {
+    "result": "results/02_1日後の画像とXRD_20261113/04_斑点の変化と区画分布.png",
+    "source": "results/20261113/08_1day_image_xrd/04_斑点の経時変化と8x8分布.png",
+    "sha256": "ec675d805721662bb9c1251b76ec1781a8b1751a23ff39439f7c2b1a2a98933e"
+  },
+  {
+    "result": "results/03_撮影の再現性_20261111_12/01_繰り返し撮影.png",
+    "source": "results/20261112/16_reanalysis_with_repeats/01_5回撮影の写真.png",
+    "sha256": "f8483fc91580d49f5e98a2f98c7545851c89e01509a4ffa17497b03d90174d9e"
+  },
+  {
+    "result": "results/03_撮影の再現性_20261111_12/02_経時変化と撮影ばらつき.png",
+    "source": "results/20261112/16_reanalysis_with_repeats/03_経時変化と撮影ばらつきの比較.png",
+    "sha256": "6a60a75202ac892f2eb28d3d1feaeae70b9d4ab4d04448f5cf05a889c40e4696"
+  },
+  {
+    "result": "results/04_区画解析_20261113/01_区画の位置.png",
+    "source": "results/20261113/04_mesh_8x8/01_8x8の区画.png",
+    "sha256": "11e582717f1ccfe51df20a89df296446e5c93a27268305135ee7a34011940e42"
+  },
+  {
+    "result": "results/04_区画解析_20261113/02_斑点の分布.png",
+    "source": "results/20261113/04_mesh_8x8/02_斑点面積の分布.png",
+    "sha256": "64f6aad7bbe700f3533d15f97edd21cab06aa476a9e7cf0768eb31158297b9c4"
+  },
+  {
+    "result": "results/04_区画解析_20261113/03_区画ごとの平均RGB.png",
+    "source": "results/20261113/04_mesh_8x8/03_区画ごとの平均RGB.png",
+    "sha256": "1dd19b718ab9609fc366d9ac2511230ce7a8ff4799b84f76307dc6c984950a27"
+  },
+  {
+    "result": "results/05_10月の経時変化_20261015/01_0hから24hのRGB.png",
+    "source": "results/20261015/05_image_time_series_0to24h/rgb_time_series_0to24h.png",
+    "sha256": "448587a6f6c556991c5a89f02691010fd7772c6de2c596fdaff7529c56485e3f"
+  }
+]

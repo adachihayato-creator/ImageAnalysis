@@ -17,7 +17,7 @@ from analyze_repeatability import corners_and_bbox, roi
 
 ROOT=Path(__file__).resolve().parents[2]
 SOURCE=ROOT/'data/raw/Touma/FACsSnPbI3(Sn25mol%)/20261110/5min/1day'
-OUT=ROOT/'data/processed/20261111/01_fixed_guide_repeatability'
+OUT=ROOT/'results/20261111/01_fixed_guide_repeatability'
 PAPER_PATCHES=[(785,555),(1585,555),(1185,250),(1185,855)]
 COLORS=['#ce453c','#24934e','#356cc8']
 

@@ -12,7 +12,7 @@ from matplotlib.font_manager import FontProperties
 from xrd_image_comparison import FILES, feature14, peak
 
 ROOT=Path(__file__).resolve().parents[2]
-OUT=ROOT/'data/processed/20261015/06_xrd_image_practice'
+OUT=ROOT/'results/20261015/06_xrd_image_practice'
 IMAGES={
     'BrRb_1':'Tuji/FACsPbI3_BrRb_5mol_per_gram/1枚目0h.jpg',
     'BrRb_2':'Tuji/FACsPbI3_BrRb_5mol_per_gram/2枚目0h.jpg',
@@ -29,7 +29,7 @@ def main():
     OUT.mkdir(parents=True,exist_ok=True)
     fontpath=Path('/mnt/c/Windows/Fonts/YuGothR.ttc')
     font=FontProperties(fname=str(fontpath)) if fontpath.exists() else FontProperties()
-    temporal_path=ROOT/'data/processed/20261015/05_image_time_series_0to24h/aligned_rgb.csv'
+    temporal_path=ROOT/'results/20261015/05_image_time_series_0to24h/aligned_rgb.csv'
     temporal=list(csv.DictReader(temporal_path.open(encoding='utf-8-sig')))
     data={};rows=[];manifest=[]
     for tag,relative in FILES.items():
@@ -39,7 +39,7 @@ def main():
         location,width,height,bg=feature14(x,y)
         smooth=np.convolve(y,np.ones(5)/5,mode='same');net=smooth-bg
         window=(x>=13.4)&(x<=14.4)
-        image_path=ROOT/'data/processed/20261015/01_crops'/IMAGES[tag]
+        image_path=ROOT/'results/20261015/01_crops'/IMAGES[tag]
         image=np.array(Image.open(image_path).convert('RGB'));h,w=image.shape[:2]
         mx,my=round(w*.18),round(h*.18)
         pixels=image[my:h-my,mx:w-mx].reshape(-1,3)

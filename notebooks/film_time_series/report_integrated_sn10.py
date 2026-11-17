@@ -1,7 +1,7 @@
 from pathlib import Path
 import csv,json
 import numpy as np
-P=Path('data/processed/20261112/14_integrated_reanalysis')
+P=Path('results/20261112/14_integrated_reanalysis')
 def read(name):return list(csv.DictReader((P/name).open(encoding='utf-8-sig')))
 rs=read('image_metrics.csv');summary=read('image_change_summary.csv');xs=read('xrd_low_peak_sensitivity.csv');xr=read('xrd_features.csv');v=read('held_out_background.csv');robust=[]
 for m in [5,10,15]:
@@ -59,5 +59,5 @@ lines+=['','低角側の積分窓を12.25〜13.0°に統一し、背景の両側
 '元データの削除・上書きなし。input_manifest.jsonに原本SHA-256、analysis_config.jsonに条件。image_metrics.csv・image_change_summary.csv・image_roi_sensitivity.csv、xrd_features.csv・xrd_low_peak_sensitivity.csvに全数値。','',
 '再実行（リポジトリ直下）：python3 notebooks/film_time_series/reanalyze_sn10.py → python3 notebooks/film_time_series/report_integrated_sn10.py。NumPy/OpenCV/Pillow/Matplotlibが必要。']
 (P/'README.md').write_text('\n'.join(lines)+'\n')
-f=Path('data/processed/20261112/README.md');s=f.read_text();link='\n## 最新の統合再解析\n\n[写真15枚・XRD9測定の主解析と背景処理の感度確認](14_integrated_reanalysis/README.md)\n';f.write_text(s+link if link not in s else s)
+f=Path('results/20261112/README.md');s=f.read_text();link='\n## 最新の統合再解析\n\n[写真15枚・XRD9測定の主解析と背景処理の感度確認](14_integrated_reanalysis/README.md)\n';f.write_text(s+link if link not in s else s)
 print('統合レポートを作成')

@@ -1,0 +1,22 @@
+[
+  {
+    "from": "results/background_correction_20261015",
+    "to": "results/20261015/02_background_correction",
+    "files": 26
+  },
+  {
+    "from": "results/xrd_initial_vs_color_20261015",
+    "to": "results/20261015/03_xrd_comparison",
+    "files": 12
+  },
+  {
+    "from": "results/Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15",
+    "to": "results/20261015/01_crops/Tuji/FACsPbI3_BrRb_5mol_per_gram",
+    "files": 16
+  },
+  {
+    "from": "results/Touma/FACsSnPbI3(Sn25mol%)/10_15",
+    "to": "results/20261015/01_crops/Touma/FACsSnPbI3(Sn25mol%)",
+    "files": 16
+  }
+]

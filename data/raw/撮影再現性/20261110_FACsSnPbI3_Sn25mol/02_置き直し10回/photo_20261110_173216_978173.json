@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "image_filename": "photo_20261110_173216_978173.jpg",
+  "captured_at": "2026-11-10T17:32:16.978173+09:00",
+  "captured_at_note": "Host local time near capture; not sensor exposure time",
+  "mode": "metadata_only_original_auto_controls",
+  "fixed_settings_verified": false,
+  "capture_size": [
+    2304,
+    1296
+  ],
+  "stream_format": "RGB888",
+  "settings": {
+    "ExposureTime": 11944,
+    "AnalogueGain": 1.1228070259094238,
+    "DigitalGain": 1.00106942653656,
+    "ColourGains": [
+      2.325242757797241,
+      1.8941630125045776
+    ],
+    "LensPosition": 10.680779457092285,
+    "AfState": 2,
+    "AeLocked": null,
+    "AwbLocked": null,
+    "ColourTemperature": 4983,
+    "SensorTimestamp": 1419958768000,
+    "FrameDuration": 17849,
+    "ScalerCrop": [
+      0,
+      0,
+      4608,
+      2592
+    ],
+    "SensorTemperature": 78.0
+  },
+  "missing_settings": [
+    "AeLocked",
+    "AwbLocked"
+  ],
+  "metadata": {
+    "SensorTimestamp": 1419958768000,
+    "ScalerCrop": [
+      0,
+      0,
+      4608,
+      2592
+    ],
+    "FrameWallClock": 1794299536881571584,
+    "AfPauseState": 0,
+    "ExposureTime": 11944,
+    "FocusFoM": 1822,
+    "DigitalGain": 1.00106942653656,
+    "SensorTemperature": 78.0,
+    "FrameDuration": 17849,
+    "LensPosition": 10.680779457092285,
+    "AfState": 2,
+    "AeState": 2,
+    "ColourTemperature": 4983,
+    "Lux": 1172.1375732421875,
+    "ColourGains": [
+      2.325242757797241,
+      1.8941630125045776
+    ],
+    "SensorBlackLevels": [
+      4096,
+      4096,
+      4096,
+      4096
+    ],
+    "AnalogueGain": 1.1228070259094238,
+    "ColourCorrectionMatrix": [
+      1.5404036045074463,
+      -0.3715271055698395,
+      -0.16887377202510834,
+      -0.279930055141449,
+      1.6508854627609253,
+      -0.37094810605049133,
+      0.003947739955037832,
+      -0.5256783366203308,
+      1.5217405557632446
+    ]
+  },
+  "camera_properties": {
+    "Model": "imx708",
+    "UnitCellSize": [
+      1400,
+      1400
+    ],
+    "Location": 2,
+    "Rotation": 180,
+    "ColorFilterArrangement": 0,
+    "PixelArraySize": [
+      4608,
+      2592
+    ],
+    "PixelArrayActiveAreas": [
+      [
+        16,
+        24,
+        4608,
+        2592
+      ]
+    ],
+    "ScalerCropMaximum": [
+      0,
+      0,
+      4608,
+      2592
+    ],
+    "SystemDevices": [
+      20737,
+      20738,
+      20739,
+      20749,
+      20750,
+      20741,
+      20742,
+      20744
+    ],
+    "SensorSensitivity": 2.0
+  },
+  "software_versions": {
+    "python": "3.11.2",
+    "picamera2": "0.3.31",
+    "Pillow": "9.4.0",
+    "numpy": "1.26.4",
+    "opencv": "4.13.0"
+  },
+  "units": {
+    "ExposureTime": "microseconds",
+    "FrameDuration": "microseconds",
+    "SensorTimestamp": "nanoseconds; sensor clock, not wall clock"
+  }
+}

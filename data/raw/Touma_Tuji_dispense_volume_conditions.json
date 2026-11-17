@@ -1,0 +1,17 @@
+{
+  "source": "User clarification 2026-11-17",
+  "material": "precursor solution used for film deposition; not antisolvent",
+  "default_precursor_solution_dispense_volume_uL": 50,
+  "scope": "User states all previous Touma and Tuji data used 50 uL. Does not apply to Yamamoto or other owners.",
+  "exceptions": [
+    {
+      "sample_id": "20261117_FA85Cs15_Pb_130C_5min_1",
+      "volume_uL": 90
+    },
+    {
+      "sample_id": "20261117_FA85Cs15_Pb_130C_5min_2",
+      "volume_uL": 90
+    }
+  ],
+  "batch_metadata": "data/raw/Tuji/FACsPbI3_FA85Cs15/20261117/condition_metadata.json"
+}

@@ -1,6 +1,6 @@
 from pathlib import Path
 import csv
-P=Path('data/processed/20261113/06_spot_texture_comparison');read=lambda n:list(csv.DictReader((P/n).open(encoding='utf-8-sig')))
+P=Path('results/20261113/06_spot_texture_comparison');read=lambda n:list(csv.DictReader((P/n).open(encoding='utf-8-sig')))
 primary=read('paired_texture_spot_xrd.csv');rows=read('all_image_metrics.csv');repeat=read('repeatability_summary.csv');mixed=read('unequal_blur_sensitivity.csv')
 lines=['# 斑点面積と、しきい値を使わない模様指標の比較','',
 '## 結論','',

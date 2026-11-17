@@ -14,7 +14,7 @@ from analyze_repeatability import corners_and_bbox, roi
 
 ROOT=Path(__file__).resolve().parents[2]
 BASE=ROOT/'data/raw/Touma/FACsSnPbI3(Sn25mol%)/20261110'
-OUT=ROOT/'data/processed/20261111/02_5min_10min_comparison'
+OUT=ROOT/'results/20261111/02_5min_10min_comparison'
 INPUTS=[('5min','3h','5min/3h/photo_20261110_190011_602812.jpg'),
         ('5min','1day','5min/1day/01_動かさず5回/photo_20261111_174445_968382.jpg'),
         ('10min','3h','10min/3h/photo_20261110_190136_786693.jpg'),

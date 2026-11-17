@@ -1,6 +1,6 @@
 from pathlib import Path
 import csv,json
-P=Path('data/processed/20261113/05_threshold_5to50');read=lambda n:list(csv.DictReader((P/n).open(encoding='utf-8-sig')))
+P=Path('results/20261113/05_threshold_5to50');read=lambda n:list(csv.DictReader((P/n).open(encoding='utf-8-sig')))
 primary=read('primary_threshold_metrics.csv');allrows=read('all_threshold_metrics.csv');regional=[]
 for t in range(5,51,5):
  rows=[r for r in primary if int(r['threshold_percent'])==t];order=sorted(rows,key=lambda r:-float(r['inside_edge5_area_percent']));count=0

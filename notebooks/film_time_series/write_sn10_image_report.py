@@ -1,6 +1,6 @@
 from pathlib import Path
 import csv,json
-P=Path('data/processed/20261112/03_image_time_series')
+P=Path('results/20261112/03_image_time_series')
 rows=list(csv.DictReader((P/'metrics.csv').open(encoding='utf-8-sig')))
 lines=['# Sn10%：3膜の画像経時変化とXRDの対応','',
 '## 最初に見る図','',
@@ -42,13 +42,13 @@ lines+=['','[1h画像とXRDの対応図](../01_sn10_xrd_image_comparison/02_1h�
 (P/'README.md').write_text('\n'.join(lines)+'\n')
 # Descriptive linkage table for the one available paired change, with no correlation claim.
 rs=[r for r in rows if int(r['anneal_min'])==15][:2]
-xrd=list(csv.DictReader(Path('data/processed/20261112/01_sn10_xrd_image_comparison/xrd_features.csv').open(encoding='utf-8-sig')))
+xrd=list(csv.DictReader(Path('results/20261112/01_sn10_xrd_image_comparison/xrd_features.csv').open(encoding='utf-8-sig')))
 linked=[]
 for r in rs:
  x=next(x for x in xrd if x['anneal_min']=='15' and x['elapsed_label']==r['label'])
  linked.append({**r,'xrd_main_angle_deg':x['main_angle_deg'],'xrd_main_apparent_fwhm_deg':x['main_apparent_fwhm_deg'],'xrd_low_over_main_net_area':x['low_over_main_net_area'],'note':'nominal time pairing, not simultaneous; only one film with image0h/1h'})
 with (P/'15min_image_xrd_time_pairs.csv').open('w',encoding='utf-8-sig',newline='') as f:
  w=csv.DictWriter(f,fieldnames=list(linked[0]));w.writeheader();w.writerows(linked)
-f=Path('data/processed/20261112/README.md');s=f.read_text();link='\n[3膜・9枚の画像経時変化とXRDとの対応](03_image_time_series/README.md)\n';f.write_text(s+link if link not in s else s)
+f=Path('results/20261112/README.md');s=f.read_text();link='\n[3膜・9枚の画像経時変化とXRDとの対応](03_image_time_series/README.md)\n';f.write_text(s+link if link not in s else s)
 for m in [5,10,15]:
  r=[r for r in rows if int(r['anneal_min'])==m][-1];print(m, {c:round(float(r['delta_'+c]),2) for c in 'RGB'}, {c:round(float(r['bg_normalized_delta_'+c]),2) for c in 'RGB'})

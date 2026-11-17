@@ -10,7 +10,7 @@ import cv2
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
-ROOT=Path(__file__).resolve().parents[2];DAY=ROOT/'data/processed/20261015';OUT=DAY/'04_image_time_series'
+ROOT=Path(__file__).resolve().parents[2];DAY=ROOT/'results/20261015';OUT=DAY/'04_image_time_series'
 TAGS=['BrRb_1','BrRb_2','Sn25_1','Sn25_2'];COLORS=['#1768ac','#63a6d4','#bd4a16','#e89b34']
 # Conservative, manually selected potential reflection regions in 0 h normalized coordinates.
 # These are hypotheses about optical artifacts, not automatic defect identification.

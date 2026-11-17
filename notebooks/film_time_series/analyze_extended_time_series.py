@@ -11,7 +11,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from background_correction import bbox,boxes,region,GROUPS
 from aligned_color_analysis import register,mask_for,feature,corr
-ROOT=Path(__file__).resolve().parents[2];DAY=ROOT/'data/processed/20261015';OUT=DAY/'05_image_time_series_0to24h'
+ROOT=Path(__file__).resolve().parents[2];DAY=ROOT/'results/20261015';OUT=DAY/'05_image_time_series_0to24h'
 TIMES=[0,1,2,3,4,5,24];TAGS=['BrRb_1','BrRb_2','Sn25_1','Sn25_2'];COLORS=['#1768ac','#63a6d4','#bd4a16','#e89b34']
 
 def csvsave(name,rows):

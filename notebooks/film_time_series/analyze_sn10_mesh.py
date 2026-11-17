@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from matplotlib.font_manager import fontManager
 ROOT=Path(__file__).resolve().parents[2];sys.path.insert(0,str(ROOT/'notebooks/capture_repeatability'))
 from analyze_repeatability import corners_and_bbox
-B=ROOT/'data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112';O=ROOT/'data/processed/20261113/04_mesh_8x8';O.mkdir(parents=True,exist_ok=True);(O/'images').mkdir(exist_ok=True)
+B=ROOT/'data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112';O=ROOT/'results/20261113/04_mesh_8x8';O.mkdir(parents=True,exist_ok=True);(O/'images').mkdir(exist_ok=True)
 FIT=[(785,555),(1585,555),(1185,250),(1185,855)];cells=[];whole=[];manifest=[];cornerslog=[];maps={};cropimages={}
 fontManager.addfont('/mnt/c/Windows/Fonts/YuGothR.ttc');plt.rcParams.update({'font.family':'Yu Gothic','font.size':12})
 def write(name,rs):

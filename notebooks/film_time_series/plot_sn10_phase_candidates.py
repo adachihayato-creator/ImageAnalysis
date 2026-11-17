@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from matplotlib.font_manager import FontProperties
 ROOT=Path(__file__).resolve().parents[2]
 BASE=ROOT/'data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD'
-OUT=ROOT/'data/processed/20261112/02_xrd_phase_candidates';OUT.mkdir(exist_ok=True)
+OUT=ROOT/'results/20261112/02_xrd_phase_candidates';OUT.mkdir(exist_ok=True)
 font=FontProperties(fname='/mnt/c/Windows/Fonts/YuGothR.ttc');plt.rcParams['font.family']=font.get_name();matplotlib.font_manager.fontManager.addfont(font.get_file())
 fig,axes=plt.subplots(3,3,figsize=(16,12));rows=[];manifest=[]
 windows=[('FA系δ相候補',11.8,.35),('ヨウ化物候補',12.7,.4),('Cs系副相候補',13.2,.25),('ペロブスカイト',14.1,.55),('Cs系副相候補',26.5,.35),('ペロブスカイト',28.3,.5),('PbI2補助候補',53.5,.4)]

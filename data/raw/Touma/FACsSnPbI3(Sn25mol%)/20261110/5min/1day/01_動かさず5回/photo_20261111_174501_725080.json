@@ -1,0 +1,281 @@
+{
+  "schema_version": 2,
+  "image_filename": "photo_20261111_174501_725080.jpg",
+  "captured_at": "2026-11-11T17:45:01.725080+09:00",
+  "captured_at_note": "Host local time near capture; not sensor exposure time",
+  "mode": "fixed_settings",
+  "fixed_settings_verified": true,
+  "fixed_settings": {
+    "mode": "fixed_settings",
+    "profile": {
+      "schema_version": 1,
+      "context": {
+        "model": "imx708",
+        "camera_id": "/base/soc/i2c0mux/i2c@1/imx708@1a",
+        "capture_size": [
+          2304,
+          1296
+        ],
+        "format": "RGB888"
+      },
+      "created_at": "2026-11-10T18:59:14.869340+09:00",
+      "values": {
+        "ExposureTime": 12772,
+        "AnalogueGain": 1.1228070259094238,
+        "ColourGains": [
+          2.2844626903533936,
+          1.9236259460449219
+        ],
+        "LensPosition": 12.0
+      },
+      "tolerances": {
+        "ExposureTime": 1.0,
+        "AnalogueGain": 0.0001,
+        "ColourGains": 0.0001,
+        "LensPosition": 0.005
+      },
+      "tolerances_note": "Provisional numeric comparison only; not calibrated accuracy",
+      "operator_reference_check_required": true,
+      "reference_note": "Operator confirms neutral reference/texture at sample plane and fixed lighting",
+      "calibration_method": "auto reference -> manual preview -> operator save",
+      "command_values": {
+        "ExposureTime": 12798,
+        "AnalogueGain": 1.1228070259094238,
+        "ColourGains": [
+          2.2844626903533936,
+          1.9236259460449219
+        ],
+        "LensPosition": 12.0
+      },
+      "exposure_rounding_adjustment": {
+        "original_command_us": 12772,
+        "observed_actual_us": 12746,
+        "corrected_command_us": 12798,
+        "stable_distinct_frames": 5,
+        "note": "One attempt based on observed constant offset; original actual-value tolerance unchanged"
+      },
+      "operator_confirmed_at": "2026-11-10T19:00:04.824421+09:00",
+      "software_versions": {
+        "python": "3.11.2",
+        "picamera2": "0.3.31",
+        "Pillow": "9.4.0",
+        "numpy": "1.26.4",
+        "opencv": "4.13.0"
+      }
+    },
+    "profile_sha256": "e2c6d57c337cdb281bd6a7885bb437310ea60bf1eb8c482316721e3b853d28f7",
+    "requested_controls": {
+      "ExposureTime": 12798,
+      "AnalogueGain": 1.1228070259094238,
+      "ColourGains": [
+        2.2844626903533936,
+        1.9236259460449219
+      ],
+      "LensPosition": 12.0
+    },
+    "expected_actual_values": {
+      "ExposureTime": 12772,
+      "AnalogueGain": 1.1228070259094238,
+      "ColourGains": [
+        2.2844626903533936,
+        1.9236259460449219
+      ],
+      "LensPosition": 12.0
+    },
+    "requested_auto_controls": {
+      "AeEnable": false,
+      "AwbEnable": false,
+      "AfMode": "Manual"
+    },
+    "frame_verification": {
+      "passed": true,
+      "problems": [],
+      "differences": {
+        "ExposureTime": [
+          0
+        ],
+        "AnalogueGain": [
+          0.0
+        ],
+        "ColourGains": [
+          0.0,
+          0.0
+        ],
+        "LensPosition": [
+          0.0
+        ]
+      }
+    },
+    "fixed_settings_verified": true,
+    "verification_note": "Values match within stored provisional tolerances; not proof of optical stability"
+  },
+  "position_guide": {
+    "state": "registered",
+    "profile_sha256": "711a8835ff93bc99d46cb108960f9b0da1f4454b93cca59fabb8590fdb5b6487",
+    "profile": {
+      "schema_version": 1,
+      "context": {
+        "model": "imx708",
+        "camera_id": "/base/soc/i2c0mux/i2c@1/imx708@1a",
+        "capture_size": [
+          2304,
+          1296
+        ],
+        "format": "RGB888"
+      },
+      "corners_normalized": [
+        [
+          0.46026921406860616,
+          0.3258687258687259
+        ],
+        [
+          0.5683890577507599,
+          0.3312741312741313
+        ],
+        [
+          0.5692574902301346,
+          0.5166023166023166
+        ],
+        [
+          0.4585323491098567,
+          0.5158301158301158
+        ]
+      ],
+      "created_at": "2026-11-10T19:16:33.376188+09:00",
+      "source": {
+        "method": "operator_confirmed_existing_outline",
+        "previous_profile_sha256": "8e48ecb14069fba8e70caf11b0df21cbe32205121aede48a9bcc271cfb94624a"
+      },
+      "meaning": "substrate outline, not the color-analysis ROI",
+      "orientation_note": "UP is screen orientation; substrate identity/orientation is not detected"
+    },
+    "alignment_verified": false,
+    "note": "Visual guide only; no automatic position/height/tilt verification"
+  },
+  "capture_size": [
+    2304,
+    1296
+  ],
+  "stream_format": "RGB888",
+  "settings": {
+    "ExposureTime": 12772,
+    "AnalogueGain": 1.1228070259094238,
+    "DigitalGain": 1.0009269714355469,
+    "ColourGains": [
+      2.2844626903533936,
+      1.9236259460449219
+    ],
+    "LensPosition": 12.0,
+    "AfState": 0,
+    "AeLocked": null,
+    "AwbLocked": null,
+    "ColourTemperature": 4939,
+    "SensorTimestamp": 197544118000,
+    "FrameDuration": 17849,
+    "ScalerCrop": [
+      0,
+      0,
+      4608,
+      2592
+    ],
+    "SensorTemperature": 65.0
+  },
+  "missing_settings": [
+    "AeLocked",
+    "AwbLocked"
+  ],
+  "metadata": {
+    "SensorTimestamp": 197544118000,
+    "ScalerCrop": [
+      0,
+      0,
+      4608,
+      2592
+    ],
+    "FrameWallClock": 1794386701644805888,
+    "AfPauseState": 0,
+    "ExposureTime": 12772,
+    "FocusFoM": 1400,
+    "DigitalGain": 1.0009269714355469,
+    "SensorTemperature": 65.0,
+    "FrameDuration": 17849,
+    "LensPosition": 12.0,
+    "AfState": 0,
+    "AeState": 0,
+    "ColourTemperature": 4939,
+    "Lux": 1162.7330322265625,
+    "ColourGains": [
+      2.2844626903533936,
+      1.9236259460449219
+    ],
+    "SensorBlackLevels": [
+      4096,
+      4096,
+      4096,
+      4096
+    ],
+    "AnalogueGain": 1.1228070259094238,
+    "ColourCorrectionMatrix": [
+      1.5390499830245972,
+      -0.3691072165966034,
+      -0.16994041204452515,
+      -0.2802901268005371,
+      1.6535756587982178,
+      -0.37327784299850464,
+      0.005526852793991566,
+      -0.5314103960990906,
+      1.5258935689926147
+    ]
+  },
+  "camera_properties": {
+    "Model": "imx708",
+    "UnitCellSize": [
+      1400,
+      1400
+    ],
+    "Location": 2,
+    "Rotation": 180,
+    "ColorFilterArrangement": 0,
+    "PixelArraySize": [
+      4608,
+      2592
+    ],
+    "PixelArrayActiveAreas": [
+      [
+        16,
+        24,
+        4608,
+        2592
+      ]
+    ],
+    "ScalerCropMaximum": [
+      0,
+      0,
+      4608,
+      2592
+    ],
+    "SystemDevices": [
+      20737,
+      20739,
+      20740,
+      20749,
+      20750,
+      20744,
+      20745,
+      20746
+    ],
+    "SensorSensitivity": 2.0
+  },
+  "software_versions": {
+    "python": "3.11.2",
+    "picamera2": "0.3.31",
+    "Pillow": "9.4.0",
+    "numpy": "1.26.4",
+    "opencv": "4.13.0"
+  },
+  "units": {
+    "ExposureTime": "microseconds",
+    "FrameDuration": "microseconds",
+    "SensorTimestamp": "nanoseconds; sensor clock, not wall clock"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "task": "Current image plus available past trend -> next observed mean RGB30–120min later",
+  "input": "meanRGB, grayCV, spotpct, finepattern, previousRGB slopes and availability/gap, next horizon. No composition, owner, date orXRD in model.",
+  "primary_target": "future meanRGB in JPEG units, modeled as hourlychange and multiplied byforecast horizon",
+  "training": "19films, leavefilmout or leavebatchout; all samefilm samples grouped; equalfilm weights; train-onlyStandardScaler; Ridge alpha10 fixed; RF200trees depth3 leaf4 fixed",
+  "correction": "Eachfilm FIRST photo paper as its own reference; prediction input uses only past/current paper. Future paper is used ONLY to define measured corrected target. Future paper normalization must be available when evaluating. Not a forecast of future lighting.",
+  "image_method": "quadrilateral warp256, fullframe primary; raw andmargin18% sensitivity; ellipse included. No physical colorcalibration.",
+  "known_bad": "Nov12 secondphotos only excluded inprimary; includeall sensitivity. October nominaltime uncertainty andBrRb1alignment remain.",
+  "forecast_output": "Next1h currentfilms forecast using older batches only; no future observed labels, UNVERIFIED.",
+  "long_horizon": "24h images retained ininventory but not scored as1h forecast because horizon outside30–120min",
+  "code_sha256": "6ef82f039568f47e9da2d92cba57bc68e21976bcc37b5cce3e77e4b46d7ea5db"
+}

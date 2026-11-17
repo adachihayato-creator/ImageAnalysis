@@ -1,6 +1,6 @@
 from pathlib import Path
 import csv
-P=Path('data/processed/20261112/13_xrd_0h_1h_5h')
+P=Path('results/20261112/13_xrd_0h_1h_5h')
 rows=list(csv.DictReader((P/'xrd_features.csv').open(encoding='utf-8-sig')));pairs=list(csv.DictReader((P/'latest_photo_xrd_pairs.csv').open(encoding='utf-8-sig')))
 def fmt(v,n=3):return f'{float(v):.{n}f}' if v!='' else '抽出不成立'
 lines=['# Sn10%：0h・1h・5h XRDと最新画像','',
@@ -36,4 +36,4 @@ lines+=['','- 5分：画像の補正後平均色の差は小さく、主相候�
 'xrd_features.csv＝9測定の指標、scan_metadata.csv＝測定時刻と装置条件、changes_0to5.csv＝0→5h差、latest_photo_xrd_pairs.csv＝画像・XRDの対応と時刻差。input_manifest.json＝入力SHA-256。元の写真・XRDは変更していません。','',
 '再実行（リポジトリ直下）：python3 notebooks/film_time_series/analyze_sn10_xrd_5h.py、python3 notebooks/film_time_series/report_sn10_xrd_5h.py。']
 (P/'README.md').write_text('\n'.join(lines)+'\n')
-f=Path('data/processed/20261112/README.md');s=f.read_text();a='\n## 最新XRD：0h・1h・5h\n\n[9測定と最新画像の比較](13_xrd_0h_1h_5h/README.md)\n';f.write_text(s+a if a not in s else s)
+f=Path('results/20261112/README.md');s=f.read_text();a='\n## 最新XRD：0h・1h・5h\n\n[9測定と最新画像の比較](13_xrd_0h_1h_5h/README.md)\n';f.write_text(s+a if a not in s else s)

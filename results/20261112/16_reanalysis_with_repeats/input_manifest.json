@@ -1,0 +1,67 @@
+[
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_214248_811391.jpg",
+    "kind": "repeat_photo",
+    "sha256": "8fd01fb80f562042fbb53fc89f0b9c3f1cfe5517f3d15389cd39c81e9f96e1f0"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_214248_811391.json",
+    "kind": "repeat_metadata",
+    "sha256": "78efdb08d466a5732368efe9f1e59fba51b64a4b5aa156719c0d6ec989fc9277"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_214503_875751.jpg",
+    "kind": "repeat_photo",
+    "sha256": "387190413e4cd71b433b31f1c00dc9c6877ad2d87db08f932511f84d3040c699"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_214503_875751.json",
+    "kind": "repeat_metadata",
+    "sha256": "20052a36c1cd0c54a124429cce208ff859844bcb115927f279f21d11d9961dcd"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_214527_791849.jpg",
+    "kind": "repeat_photo",
+    "sha256": "31fe413ce86c4ac0b351c57aeae2574afc71b2139f6b7abaed6c3398b2e781c8"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_214527_791849.json",
+    "kind": "repeat_metadata",
+    "sha256": "9362f56a8a365fcd0097e96cd92e5e5bed73cfed6d8c6a43c87c1d3c47adafda"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_214548_050694.jpg",
+    "kind": "repeat_photo",
+    "sha256": "deceb08e26807646c1768aa106a3ad8c1af317687e21c88aa17f7f47a09f0107"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_214548_050694.json",
+    "kind": "repeat_metadata",
+    "sha256": "d43da2586d62a924424e1d8c817cec6c4154184a05c465aea1cdeaa1b2af4168"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_214621_290887.jpg",
+    "kind": "repeat_photo",
+    "sha256": "1211dd49c77370354ce396736cba50c8ac3dc1f1780b74842117ed96bb6fd5ae"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_214621_290887.json",
+    "kind": "repeat_metadata",
+    "sha256": "4de970d31e19066ecb3f091351edc5012b7f011984d2513f9b51f013de68e212"
+  },
+  {
+    "path": "results/20261112/14_integrated_reanalysis/image_metrics.csv",
+    "kind": "series_metrics",
+    "sha256": "82ecd00eef2eb31f8338a7ef41bea2062e65d2d32a5867aef9888466106a3d22"
+  },
+  {
+    "path": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/1h/photo_20261112_163823_568713.jpg",
+    "kind": "baseline_photo",
+    "sha256": "dfbd86d33b23458d637a5019efe8f2d77d780dc70e2a48e24b07f4f1df280663"
+  },
+  {
+    "path": "data/raw/試行錯誤写真/photo_20261112_205350_731887.jpg",
+    "kind": "identity_reference_photo",
+    "sha256": "c9599b06eb5af82442ae7ae2e01a62154cfb160b66523ff7553fa85795df2e96"
+  }
+]

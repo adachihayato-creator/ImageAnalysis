@@ -7,7 +7,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 sys.path.insert(0,'notebooks/capture_repeatability')
 from analyze_repeatability import corners_and_bbox
-out=Path('data/processed/20261112/04_orientation_check');out.mkdir(exist_ok=True)
+out=Path('results/20261112/04_orientation_check');out.mkdir(exist_ok=True)
 paths=[Path('data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/1h/photo_20261112_163701_835677.jpg'),Path('data/raw/試行錯誤写真/photo_20261112_185622_645764.jpg')]
 crops=[]
 for p in paths:

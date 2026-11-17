@@ -1,0 +1,150 @@
+{
+  "nominal_age": "1day",
+  "basis": "ユーザー申告、ファイル名1d/1dr。XRD装置時計は経過時間の判定に使用しない。",
+  "files": [
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 10min 1d.rasx",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/1day/SnI2 0.1 10min 1d.rasx",
+      "action": "move",
+      "sha256": "bfdce04f0bf7a189ba0c4b0d39dfcdecb8220d1c41076aa56d85200a703f73de"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 10min 1d.txt",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/1day/SnI2 0.1 10min 1d.txt",
+      "action": "move",
+      "sha256": "cccb263946e8762e4c1f702aa36cf0b62adbb22e983db25b923db473c9a62e35"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 10min 1h.rasx",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/1h/SnI2 0.1 10min 1h.rasx",
+      "action": "delete_exact_duplicate",
+      "sha256": "3d94d08d4f90b09f3523f850af492c01131594ead572be997777508ac7e1c770"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 10min 1hr.txt",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/1h/SnI2 0.1 10min 1hr.txt",
+      "action": "delete_exact_duplicate",
+      "sha256": "ef5a84c079ed1ce05c042a2b7aa4e6a447ed85c3e544b6effa7506bc7c363334"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 10min 5h.rasx",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/5h/SnI2 0.1 10min 5h.rasx",
+      "action": "delete_exact_duplicate",
+      "sha256": "b341b30a9f6c7cd9e0ddb60bcef065e8f5e113e05e9e6acbdf34ee6271cc9d01"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 10min 5hr.txt",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/5h/SnI2 0.1 10min 5hr.txt",
+      "action": "delete_exact_duplicate",
+      "sha256": "660470689e5807dbe512454ea0688942258f5dfff29b42f381fa23e67c82a93f"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 10min.rasx",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/0h/SnI2 0.1 10min.rasx",
+      "action": "delete_exact_duplicate",
+      "sha256": "b960a113a5d81ab6f3126e527b601880d2eff130bbec3e34c005e55de3e0e778"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 10min.txt",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/10min/0h/SnI2 0.1 10min.txt",
+      "action": "delete_exact_duplicate",
+      "sha256": "eb5d8935b1fbc3ddba9232c8ffd0e1ef6aa9ba88f8bbb4e15346c6d33737b45a"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 15min 1d.rasx",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/1day/SnI2 0.1 15min 1d.rasx",
+      "action": "move",
+      "sha256": "08e7b8af089e0be9619d713967ac02113ad703483073f32e4f558f615d9a9c11"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 15min 1d.txt",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/1day/SnI2 0.1 15min 1d.txt",
+      "action": "move",
+      "sha256": "104a88b919de41b55ca11d8ff755e2e4165f499c18400e3f99a37330945e2543"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 15min 1h.rasx",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/1h/SnI2 0.1 15min 1h.rasx",
+      "action": "delete_exact_duplicate",
+      "sha256": "f21a532aea88368fbe6d9dd5eb09307dcf6957e8183980984d2b63bc17574a56"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 15min 1h.txt",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/1h/SnI2 0.1 15min 1h.txt",
+      "action": "delete_exact_duplicate",
+      "sha256": "a16792460182e0d1a9b5e69935e27fdaebcc1380804b7dad445323089c6b9fee"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 15min 5h.rasx",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/5h/SnI2 0.1 15min 5h.rasx",
+      "action": "delete_exact_duplicate",
+      "sha256": "c888a15166e121e7332ed6ce3280ad2fe147fc45d0f6885a864ed283f6fbdfbe"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 15min 5h.txt",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/5h/SnI2 0.1 15min 5h.txt",
+      "action": "delete_exact_duplicate",
+      "sha256": "d8abefc3ea817d65fd00d5d8332d454eadfea127d8d38237706aa641460fa96e"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 15min.rasx",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/0h/SnI2 0.1 15min.rasx",
+      "action": "delete_exact_duplicate",
+      "sha256": "5be7796ca44269ec048bb22d263c9ce000847b242bea913dab9fdb2ca0c739e9"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 15min.txt",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/15min/0h/SnI2 0.1 15min.txt",
+      "action": "delete_exact_duplicate",
+      "sha256": "9d97de4c7b0458b1f27ec8f9967b11108dadc13607a44651815c12f22db7aef6"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 5min 1d.rasx",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/1day/SnI2 0.1 5min 1d.rasx",
+      "action": "move",
+      "sha256": "01b6f1435d58b90e35410ddaeaa77aec3e7bbcf16e8ac16e94d284c196c68968"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 5min 1dr.txt",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/1day/SnI2 0.1 5min 1dr.txt",
+      "action": "move",
+      "sha256": "d291a42b053b84c1c5ca761b087d7f9013b68653d6ca03916a3577249bd5631d"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 5min 1hr.rasx",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/1h/SnI2 0.1 5min 1h.rasx",
+      "action": "delete_exact_duplicate",
+      "sha256": "41edb7ed41e057d7a0e59a422c380a0ba7b411c3361b363afb6f30881fba2fa7"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 5min 1hr.txt",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/1h/SnI2 0.1 5min 1h.txt",
+      "action": "delete_exact_duplicate",
+      "sha256": "9a75965721d986916ea5f64893e91fb722ab5b637fc1018731241ff1e9b0546f"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 5min 5hr.rasx",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/5h/SnI2 0.1 5min 5hr.rasx",
+      "action": "delete_exact_duplicate",
+      "sha256": "2652df6f0a44c436e8d66f33c002bb3c5d1d819e34ecaf8cf1615a64f1c49691"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 5min 5hr.txt",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/5h/SnI2 0.1 5min 5hr.txt",
+      "action": "delete_exact_duplicate",
+      "sha256": "0446041d37f44a8a5bf96707a885d4cc0a7fe32f1bfcfe1e350932fde5cc8c87"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 5min.rasx",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/0h/SnI2 0.1 5min.rasx",
+      "action": "delete_exact_duplicate",
+      "sha256": "2eb47fd2c7a6368b18a7d09f62ebffec9740b0188a85deeed23c7c444b296250"
+    },
+    {
+      "source": "data/raw/試行錯誤写真/261112/SnI2 0.1 5min.txt",
+      "destination_or_retained_original": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/XRD/5min/0h/SnI2 0.1 5min.txt",
+      "action": "delete_exact_duplicate",
+      "sha256": "ea8fea1529a235db8c2bccfaae4f91098c433d7ed431cf13d30cc31e50fe83be"
+    }
+  ]
+}

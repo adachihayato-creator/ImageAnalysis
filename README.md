@@ -6,18 +6,18 @@
 - [撮影アプリ：設定の保存・固定と再起動後の照合](hardware/camera/FIXED_SETTINGS_GUIDE.md)
 - [白枠・位置合わせガイド](hardware/camera/POSITION_GUIDE.md)
 - [写真・JSONの取り込み](hardware/camera/IMPORT_README.md)
-- [画像15枚・XRD9測定の統合再解析](data/processed/20261112/14_integrated_reanalysis/README.md)
-- [撮り直し5回と経時変化の比較](data/processed/20261112/16_reanalysis_with_repeats/README.md)
-- [XRD副相候補と画像の明るい斑点](data/processed/20261113/02_xrd_image_features_fullframe/README.md)
-- [全体解析と中央解析の比較検証](data/processed/20261113/03_fullframe_validation/README.md)
-- [8×8・4×4の区画解析](data/processed/20261113/04_mesh_8x8/README.md)
-- [斑点しきい値5〜50%の感度解析](data/processed/20261113/05_threshold_5to50/README.md)
-- [斑点としきい値を使わない模様指標の比較](data/processed/20261113/06_spot_texture_comparison/README.md)
+- [画像15枚・XRD9測定の統合再解析](results/20261112/14_integrated_reanalysis/README.md)
+- [撮り直し5回と経時変化の比較](results/20261112/16_reanalysis_with_repeats/README.md)
+- [XRD副相候補と画像の明るい斑点](results/20261113/02_xrd_image_features_fullframe/README.md)
+- [全体解析と中央解析の比較検証](results/20261113/03_fullframe_validation/README.md)
+- [8×8・4×4の区画解析](results/20261113/04_mesh_8x8/README.md)
+- [斑点しきい値5〜50%の感度解析](results/20261113/05_threshold_5to50/README.md)
+- [斑点としきい値を使わない模様指標の比較](results/20261113/06_spot_texture_comparison/README.md)
 - [現在の発表資料（ユーザー編集済み版のスナップショット）](presentations/20261112/M1_11_12_研究進捗_撮影再現性と画像XRD.pptx)
 
 今回の独立膜はアニール条件ごとに1枚で計3枚です。副相候補が強い15分膜で画像特徴も大きい傾向は探索結果で、画像中の斑点をPbI₂と同定した結果ではありません。区画・画像の反復を独立膜数とみなしていません。XRDのPC時計は不正確なため、申告された公称時点を使用しています。
 
-元の写真・撮影JSON・XRDの `data/raw/`、接続用の秘密鍵、バックアップ・一時ファイルはGit管理対象外です。保存済みの図・CSV・報告書・発表資料は元データなしでも閲覧できます。
+元の写真・撮影JSON・XRD・発表資料の `data/raw/` も保存しています。接続用の秘密鍵、バックアップ・一時ファイルはGit管理対象外です。
 
 
 ペロブスカイト薄膜の色・均一性と、成膜後の外観変化を評価する研究用リポジトリです。
@@ -25,11 +25,11 @@
 
 ## 結果を見る
 
-- [解析結果の全体案内](data/processed/README.md)
-- [2026-10-15実験の結果一覧](data/processed/20261015/README.md)
-- [最新：0〜24 hの画像解析](data/processed/20261015/05_image_time_series_0to24h/README.md)
-- [0〜24 hのRGBグラフ](data/processed/20261015/05_image_time_series_0to24h/rgb_time_series_0to24h.png)
-- [初期XRDと画像変化の探索的比較](data/processed/20261015/03_xrd_comparison/report.md)
+- [解析結果の全体案内](results/旧解析一覧.md)
+- [2026-10-15実験の結果一覧](results/20261015/README.md)
+- [最新：0〜24 hの画像解析](results/20261015/05_image_time_series_0to24h/README.md)
+- [0〜24 hのRGBグラフ](results/20261015/05_image_time_series_0to24h/rgb_time_series_0to24h.png)
+- [初期XRDと画像変化の探索的比較](results/20261015/03_xrd_comparison/report.md)
 - [発表資料 M1_10_15_全体.pptx](presentations/20261015/M1_10_15_全体.pptx)
 
 ## 構成
@@ -40,7 +40,7 @@ hardware/lighting/               ArduinoのLED制御コード
 notebooks/                        既存の解析ノート・LED制御スケッチ
   film_time_series/               背景補正・位置合わせ・図作成のPythonコード
 data/
-  raw/                           元画像・元測定データ（Git管理対象外）
+  raw/                           元画像・元測定データ
   processed/
     20261015/
       01_crops/                  膜の切り抜き画像
@@ -63,7 +63,7 @@ python3 notebooks/film_time_series/analyze_extended_time_series.py
 ```
 
 実行には、ローカルの `data/raw/` に対応する元画像が必要です。元画像なしでも、保存済みのグラフ・CSV・レポートは閲覧できます。
-元画像は `data/raw/{Tuji,Touma}/材料名/10_15/`、切り抜き画像は `data/processed/20261015/01_crops/{Tuji,Touma}/材料名/` に保存し、`1枚目0h.jpg` などの命名を使用します。コードのGROUPSと各レポートを参照してください。
+元画像は `data/raw/{Tuji,Touma}/材料名/10_15/`、切り抜き画像は `results/20261015/01_crops/{Tuji,Touma}/材料名/` に保存し、`1枚目0h.jpg` などの命名を使用します。コードのGROUPSと各レポートを参照してください。
 発表資料作成コードはローカルのテンプレート・バックアップを必要とします。日本語図のフォント指定にはWindows上のフォントパスを使用しているものがあります。
 
 ## 結果の解釈
@@ -73,4 +73,8 @@ python3 notebooks/film_time_series/analyze_extended_time_series.py
 - 背景補正は相対的なJPEG RGB補正です。反射・角度差を完全には除去できません。
 - 24 hのBrRb系2膜は位置合わせが不確かなため、局所比較は暫定です。
 - 初期XRDだけで経時的な構造劣化を証明したものではありません。
-- 元画像・元測定データ、バックアップ、一時ファイルはGit管理対象外です。
+- 研究原本はGitに保存し、秘密鍵・接続設定・バックアップ・一時ファイルは対象外です。
+
+## 2026-11-17〜18：画像時間変化の予測
+
+[予測結果と方法](results/20261117/07_image_time_prediction/README.md)、[R²付きの変化量散布図](results/20261117/07_image_time_prediction/06_Ridge_実測と予測_変化量.png)。結果はresults/YYYYMMDDへ日付別に統一。旧data/processedのファイルは移行確認後に削除しています。

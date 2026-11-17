@@ -1,6 +1,6 @@
 from pathlib import Path
 import csv,json,hashlib
-P=Path('data/processed/20261113/01_xrd_image_features');read=lambda n:list(csv.DictReader((P/n).open(encoding='utf-8-sig')))
+P=Path('results/20261113/01_xrd_image_features');read=lambda n:list(csv.DictReader((P/n).open(encoding='utf-8-sig')))
 rs=read('paired_image_xrd.csv');ranks=read('rank_sensitivity_summary.csv');follow=read('same_film_followup.csv')
 lines=['# 約12.7°の副相候補ピークと画像特徴の探索','',
 '## 結論','',

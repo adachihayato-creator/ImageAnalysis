@@ -1,0 +1,59 @@
+{
+  "assignment_basis": "ユーザー指定：直近3枚を撮影順に5min・10min・15minの1日後として整理。1dayは公称ラベルで厳密な24時間ではない。",
+  "files": [
+    {
+      "sample": "5min",
+      "nominal_age": "1day",
+      "captured_at": "2026-11-13T13:26:34.377868+09:00",
+      "source": "data/raw/試行錯誤写真/photo_20261113_132634_377868.jpg",
+      "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/1day/photo_20261113_132634_377868.jpg",
+      "sha256": "f86dc292af5f53ab13654b5b8d7091cd7792595ae9563f81d1ce2548177aee06",
+      "fixed_settings_verified": true
+    },
+    {
+      "sample": "5min",
+      "nominal_age": "1day",
+      "captured_at": "2026-11-13T13:26:34.377868+09:00",
+      "source": "data/raw/試行錯誤写真/photo_20261113_132634_377868.json",
+      "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/5min/1day/photo_20261113_132634_377868.json",
+      "sha256": "542cff982375b7fe275fe25a9e64a152169b7a229f01ff0da54279ee56b2da15",
+      "fixed_settings_verified": true
+    },
+    {
+      "sample": "10min",
+      "nominal_age": "1day",
+      "captured_at": "2026-11-13T13:28:28.592619+09:00",
+      "source": "data/raw/試行錯誤写真/photo_20261113_132828_592619.jpg",
+      "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/1day/photo_20261113_132828_592619.jpg",
+      "sha256": "6eaadf132e2f5e13e8d993c1dc62d999323f11870035e6f0bb60bb94eafc0fba",
+      "fixed_settings_verified": true
+    },
+    {
+      "sample": "10min",
+      "nominal_age": "1day",
+      "captured_at": "2026-11-13T13:28:28.592619+09:00",
+      "source": "data/raw/試行錯誤写真/photo_20261113_132828_592619.json",
+      "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/10min/1day/photo_20261113_132828_592619.json",
+      "sha256": "eb083083acbdf0d5cb041a1cfa280c5c5232eeafb3d9383452f8fec5d1c439a9",
+      "fixed_settings_verified": true
+    },
+    {
+      "sample": "15min",
+      "nominal_age": "1day",
+      "captured_at": "2026-11-13T13:29:19.783501+09:00",
+      "source": "data/raw/試行錯誤写真/photo_20261113_132919_783501.jpg",
+      "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/1day/photo_20261113_132919_783501.jpg",
+      "sha256": "8c5f72815fb4d4c77099cc79188fae5f141f4920fca5a3cd626f562924d8e2e2",
+      "fixed_settings_verified": true
+    },
+    {
+      "sample": "15min",
+      "nominal_age": "1day",
+      "captured_at": "2026-11-13T13:29:19.783501+09:00",
+      "source": "data/raw/試行錯誤写真/photo_20261113_132919_783501.json",
+      "destination": "data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112/15min/1day/photo_20261113_132919_783501.json",
+      "sha256": "4d3d9fd48e56feb0bb4c3a318492da0636f29dad83dc2dd8163e87ee2d4797c0",
+      "fixed_settings_verified": true
+    }
+  ]
+}

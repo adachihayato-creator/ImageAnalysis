@@ -7,7 +7,7 @@ import csv, json
 import numpy as np
 from PIL import Image, ImageDraw
 ROOT=Path(__file__).resolve().parents[2]
-OUT=ROOT/'data/processed/20261015/02_background_correction'
+OUT=ROOT/'results/20261015/02_background_correction'
 GROUPS={'BrRb':('Tuji','FACsPbI3_BrRb_5mol_per_gram'),'Sn25':('Touma','FACsSnPbI3(Sn25mol%)')}
 
 def save_csv(name, rows):
@@ -41,7 +41,7 @@ def main():
    references=None;base_mean=None;base_corrected=None;panels=[]
    for t in range(4):
     name=f'{sample}枚目{t}h.jpg';raw=ROOT/'data/raw'/owner/material/'10_15'/name
-    processed=ROOT/'data/processed/20261015/01_crops'/owner/material/name
+    processed=ROOT/'results/20261015/01_crops'/owner/material/name
     im=Image.open(raw).convert('RGB');a=np.asarray(im,dtype=float)
     b=bbox(a);bs=boxes(b);patch=np.array([np.median(region(a,z),axis=(0,1)) for z in bs])
     if t==0:references=patch.copy()

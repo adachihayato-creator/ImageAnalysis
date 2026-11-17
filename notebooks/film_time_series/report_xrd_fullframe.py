@@ -4,7 +4,7 @@ import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from matplotlib.font_manager import fontManager
-ROOT=Path(__file__).resolve().parents[2];P=ROOT/'data/processed/20261113/02_xrd_image_features_fullframe';OLD=ROOT/'data/processed/20261113/01_xrd_image_features';read=lambda f:list(csv.DictReader(f.open(encoding='utf-8-sig')))
+ROOT=Path(__file__).resolve().parents[2];P=ROOT/'results/20261113/02_xrd_image_features_fullframe';OLD=ROOT/'results/20261113/01_xrd_image_features';read=lambda f:list(csv.DictReader(f.open(encoding='utf-8-sig')))
 full=read(P/'primary_features.csv');central=read(OLD/'primary_features.csv');rows=read(P/'all_feature_sensitivity.csv');comparisons=[];groups={}
 for r in rows:
  if float(r['roi_margin'])==0 and r['exclude_central_ellipse']=='False':groups.setdefault((r['background_normalized'],r['local_sigma_px'],r['contrast_threshold']),[]).append(r)

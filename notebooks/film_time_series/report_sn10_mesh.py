@@ -1,6 +1,6 @@
 from pathlib import Path
 import csv
-P=Path('data/processed/20261113/04_mesh_8x8');rows=list(csv.DictReader((P/'mesh_summary.csv').open(encoding='utf-8-sig')))
+P=Path('results/20261113/04_mesh_8x8');rows=list(csv.DictReader((P/'mesh_summary.csv').open(encoding='utf-8-sig')))
 lines=['# 膜全体の8×8メッシュ解析','',
 '公称1hの5・10・15分アニール膜を、各8×8＝64区画に分けました。位置合わせ後の256×256画像を使用し、1区画32×32画素です。外周・中央楕円とも除外せず、同じ基準の色補正を適用。4×4＝16区画でも集計しました。','',
 '## 見る順番','',

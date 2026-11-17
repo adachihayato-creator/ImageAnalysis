@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 from matplotlib.font_manager import fontManager
 ROOT=Path(__file__).resolve().parents[2];sys.path.insert(0,str(ROOT/'notebooks/capture_repeatability'))
 from analyze_repeatability import corners_and_bbox,roi
-P=ROOT/'data/processed/20261112/14_integrated_reanalysis';O=ROOT/'data/processed/20261112/16_reanalysis_with_repeats';O.mkdir(exist_ok=True)
+P=ROOT/'results/20261112/14_integrated_reanalysis';O=ROOT/'results/20261112/16_reanalysis_with_repeats';O.mkdir(exist_ok=True)
 fontManager.addfont('/mnt/c/Windows/Fonts/YuGothR.ttc');plt.rcParams['font.family']='Yu Gothic'
 series=list(csv.DictReader((P/'image_metrics.csv').open(encoding='utf-8-sig')));base=next(r for r in series if r['anneal_min']=='10' and r['photo_index']=='1');bgref=np.array([float(base['paper_'+c]) for c in 'RGB'])
 refpath=next((ROOT/'data/raw').rglob('photo_20261112_205350_731887.jpg'))

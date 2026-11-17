@@ -6,7 +6,7 @@ import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from matplotlib.font_manager import fontManager
-ROOT=Path(__file__).resolve().parents[2];P=ROOT/'data/processed/20261112/09_image_time_series_4points';O=ROOT/'data/processed/20261112/11_background_sensitivity_4points';O.mkdir(exist_ok=True)
+ROOT=Path(__file__).resolve().parents[2];P=ROOT/'results/20261112/09_image_time_series_4points';O=ROOT/'results/20261112/11_background_sensitivity_4points';O.mkdir(exist_ok=True)
 fontManager.addfont('/mnt/c/Windows/Fonts/YuGothR.ttc');plt.rcParams['font.family']='Yu Gothic'
 rows=list(csv.DictReader((P/'metrics.csv').open(encoding='utf-8-sig')));COL=['#cf493f','#278d4f','#426dc9'];results=[]
 fig,axes=plt.subplots(3,4,figsize=(17,11))

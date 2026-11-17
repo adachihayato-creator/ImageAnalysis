@@ -9,7 +9,7 @@ import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 ROOT=Path(__file__).resolve().parents[2]
-OUT=ROOT/'data/processed/20261015/03_xrd_comparison'
+OUT=ROOT/'results/20261015/03_xrd_comparison'
 FILES={
 'BrRb_1':'Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/BrRb5% 1.txt',
 'BrRb_2':'Tuji/FACsPbI3_BrRb_5mol_per_gram/10_15/BrRb5% 2.txt',
@@ -42,7 +42,7 @@ def feature14(x,y):
 
 def main():
  OUT.mkdir(parents=True,exist_ok=True)
- rgb=list(csv.DictReader((ROOT/'data/processed/20261015/02_background_correction/rgb_summary.csv').open(encoding='utf-8-sig')))
+ rgb=list(csv.DictReader((ROOT/'results/20261015/02_background_correction/rgb_summary.csv').open(encoding='utf-8-sig')))
  data={};features=[]
  for tag,path in FILES.items():
   a=np.loadtxt(ROOT/'data/raw'/path,skiprows=2,encoding='utf-8-sig');x,y=a.T

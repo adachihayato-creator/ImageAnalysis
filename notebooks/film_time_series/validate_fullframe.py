@@ -5,7 +5,7 @@ import numpy as np,cv2
 from PIL import Image
 ROOT=Path(__file__).resolve().parents[2];sys.path.insert(0,str(ROOT/'notebooks/capture_repeatability'))
 from analyze_repeatability import corners_and_bbox
-B=ROOT/'data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112';O=ROOT/'data/processed/20261113/03_fullframe_validation';O.mkdir(parents=True,exist_ok=True)
+B=ROOT/'data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112';O=ROOT/'results/20261113/03_fullframe_validation';O.mkdir(parents=True,exist_ok=True)
 FIT=[(785,555),(1585,555),(1185,250),(1185,855)];yy,xx=np.mgrid[:256,:256];central=(xx>=46)&(xx<210)&(yy>=46)&(yy<210);inner5=(xx>=13)&(xx<243)&(yy>=13)&(yy<243)
 MASKS={'full':np.ones((256,256),bool),'central18':central,'outer18':~central,'edge5':~inner5,'outer18_without_edge5':(~central)&inner5,'inside_edge5':inner5};manifest=[];primary=[];sensitivity=[];repeat=[];imagecache={}
 def rec(p,kind):manifest.append({'path':str(p.relative_to(ROOT)),'kind':kind,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()})
@@ -34,7 +34,7 @@ for m in [5,10,15]:
   for sigma in [6.,8.,12.]:
    for threshold in [.05,.1,.15]:
     rs,_=measure(raw,bg,corrected,sigma,threshold,True);sensitivity.extend({'anneal_min':m,'corrected':corrected,'sigma':sigma,'threshold':threshold,**r} for r in rs)
-repeats=json.loads((ROOT/'data/processed/20261112/16_reanalysis_with_repeats/input_manifest.json').read_text());files=[ROOT/e['path'] for e in repeats if e['kind']=='repeat_photo'];assert len(files)==5
+repeats=json.loads((ROOT/'results/20261112/16_reanalysis_with_repeats/input_manifest.json').read_text());files=[ROOT/e['path'] for e in repeats if e['kind']=='repeat_photo'];assert len(files)==5
 for i,p in enumerate(files):
  raw,bg=get(p);rec(p,'repeat10min');rec(p.with_suffix('.json'),'repeat_metadata');rs,_=measure(raw,bg,True,8,.1,True);repeat.extend({'capture_index':i+1,'filename':p.name,**r} for r in rs)
 summary=[]

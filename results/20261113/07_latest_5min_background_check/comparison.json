@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "photo_20261112_163701_835677.jpg",
+    "size": [
+      1296,
+      2304
+    ],
+    "background_RGB": [
+      159.77,
+      175.78,
+      177.18
+    ],
+    "held_out_deviation_before_percent": 0.0,
+    "held_out_deviation_after_percent": 0.0,
+    "fixed_settings_verified": true,
+    "captured_at": "2026-11-12T16:37:01.835677+09:00"
+  },
+  {
+    "filename": "photo_20261112_175349_328671.jpg",
+    "size": [
+      1296,
+      2304
+    ],
+    "background_RGB": [
+      160.63,
+      156.65,
+      132.0
+    ],
+    "held_out_deviation_before_percent": 16.844125810332695,
+    "held_out_deviation_after_percent": 1.8780387235540004,
+    "fixed_settings_verified": true,
+    "captured_at": "2026-11-12T17:53:49.328671+09:00"
+  },
+  {
+    "filename": "photo_20261112_205257_705981.jpg",
+    "size": [
+      1296,
+      2304
+    ],
+    "background_RGB": [
+      157.53,
+      168.18,
+      158.67
+    ],
+    "held_out_deviation_before_percent": 7.512939134387916,
+    "held_out_deviation_after_percent": 1.4020902493310747,
+    "fixed_settings_verified": true,
+    "captured_at": "2026-11-12T20:52:57.705981+09:00"
+  },
+  {
+    "filename": "photo_20261113_131532_689247.jpg",
+    "size": [
+      1296,
+      2304
+    ],
+    "background_RGB": [
+      163.08,
+      164.58,
+      149.17
+    ],
+    "held_out_deviation_before_percent": 10.532810978902093,
+    "held_out_deviation_after_percent": 1.4138899883635834,
+    "fixed_settings_verified": true,
+    "captured_at": "2026-11-13T13:15:32.689247+09:00"
+  }
+]

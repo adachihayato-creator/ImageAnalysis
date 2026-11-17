@@ -1,6 +1,6 @@
 from pathlib import Path
 import csv,json
-P=Path('data/processed/20261112/09_image_time_series_4points');rows=list(csv.DictReader((P/'metrics.csv').open(encoding='utf-8-sig')))
+P=Path('results/20261112/09_image_time_series_4points');rows=list(csv.DictReader((P/'metrics.csv').open(encoding='utf-8-sig')))
 lines=['# Sn10%：4時点・12枚の画像解析','',
 '[12枚の写真](01_膜の時系列.png)／[RGB・模様の経時変化](02_色と模様の経時変化.png)／[背景の影響](03_背景の変動と影響.png)','',
 '[補正後の写真と未使用背景での検証](../10_background_corrected_images_4points/README.md)／[問題時点を含める・除く4通りの比較](../11_background_sensitivity_4points/README.md)','',
@@ -29,4 +29,4 @@ lines+=['','この小さな差について撮り直し誤差を超えるとは�
 '元画像は変更せずPNGを派生出力。metrics.csv、input_manifest.json、analysis_config.jsonに数値・入力ハッシュ・条件を記録。旧9枚の解析結果は残しています。','',
 '再実行（リポジトリ直下）：analyze_sn10_images_4points.py → sn10_corrected_images_4points.py / sn10_sensitivity_4points.py → report_sn10_4points.py（notebooks/film_time_series内）。']
 (P/'README.md').write_text('\n'.join(lines)+'\n')
-f=Path('data/processed/20261112/README.md');s=f.read_text();link='\n## 最新：19:41〜19:43追加・12枚\n\n[4時点の画像解析・背景補正・感度比較](09_image_time_series_4points/README.md)\n';f.write_text(s+link if link not in s else s)
+f=Path('results/20261112/README.md');s=f.read_text();link='\n## 最新：19:41〜19:43追加・12枚\n\n[4時点の画像解析・背景補正・感度比較](09_image_time_series_4points/README.md)\n';f.write_text(s+link if link not in s else s)

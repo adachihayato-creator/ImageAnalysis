@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from matplotlib.font_manager import fontManager
 ROOT=Path(__file__).resolve().parents[2];sys.path.insert(0,str(ROOT/'notebooks/capture_repeatability'))
 from analyze_repeatability import corners_and_bbox
-B=ROOT/'data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112';O=ROOT/'data/processed/20261113/05_threshold_5to50';O.mkdir(parents=True,exist_ok=True)
+B=ROOT/'data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112';O=ROOT/'results/20261113/05_threshold_5to50';O.mkdir(parents=True,exist_ok=True)
 FIT=[(785,555),(1585,555),(1185,250),(1185,855)];thresholds=list(range(5,51,5));rows=[];manifest=[];crops={};masks={};yy,xx=np.mgrid[:256,:256];edge=(xx<13)|(xx>=243)|(yy<13)|(yy>=243);central=(xx>=46)&(xx<210)&(yy>=46)&(yy<210)
 def get(p):
  a=np.array(Image.open(p).convert('RGB'));corners,_=corners_and_bbox(a);raw=cv2.warpPerspective(a,cv2.getPerspectiveTransform(corners,np.float32([[0,0],[255,0],[255,255],[0,255]])),(256,256)).astype(float);bg=np.mean([a[y-20:y+20,x-20:x+20].mean((0,1)) for x,y in FIT],0);return raw,bg,corners

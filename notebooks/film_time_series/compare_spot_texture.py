@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from matplotlib.font_manager import fontManager
 ROOT=Path(__file__).resolve().parents[2];sys.path.insert(0,str(ROOT/'notebooks/capture_repeatability'))
 from analyze_repeatability import corners_and_bbox
-B=ROOT/'data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112';O=ROOT/'data/processed/20261113/06_spot_texture_comparison';O.mkdir(exist_ok=True)
+B=ROOT/'data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112';O=ROOT/'results/20261113/06_spot_texture_comparison';O.mkdir(exist_ok=True)
 FIT=[(785,555),(1585,555),(1185,250),(1185,855)];SCALES=[(.7,3.),(1.5,6.),(3.,12.)];BLURS=[0.,.5,1.,2.];MARGINS=[0.,.05,.18,.24];rows=[];manifest=[];repeat=[];maps={};yy,xx=np.mgrid[:256,:256];ellipse=((xx-127.5)/(256*.13))**2+((yy-127.5)/(256*.17))**2<=1
 ref=next((B/'5min/1h').glob('*.jpg'))
 def get(p):
@@ -32,7 +32,7 @@ for m in [5,10,15]:
  p=next((B/f'{m}min/1h').glob('*.jpg'));raw,bg=get(p)
  for f,kind in [(p,'film1h'),(p.with_suffix('.json'),'film_metadata')]:record(f,kind)
  for corrected in [False,True]:rows.extend(calculate(raw,bg,m,p.name,corrected,BLURS,[False,True]))
-repeat_manifest=json.loads((ROOT/'data/processed/20261112/16_reanalysis_with_repeats/input_manifest.json').read_text())
+repeat_manifest=json.loads((ROOT/'results/20261112/16_reanalysis_with_repeats/input_manifest.json').read_text())
 for e in repeat_manifest:
  if e['kind']!='repeat_photo':continue
  p=ROOT/e['path'];raw,bg=get(p);record(p,'repeat10min');record(p.with_suffix('.json'),'repeat_metadata');repeat.extend(calculate(raw,bg,10,p.name,True,[0.],[False]))
@@ -65,7 +65,7 @@ for margin in [0.,.05,.18]:
    picked=[next(r for r in rows if r['anneal_min']==m and r['corrected'] and r['added_blur_sigma_px']==blur and r['small_sigma_px']==small and r['margin']==margin and not r['exclude_ellipse']) for m,blur in zip([5,10,15],combo)];mixed.append({'margin':margin,'small_sigma_px':small,'large_sigma_px':large,'5min_blur_sigma':combo[0],'10min_blur_sigma':combo[1],'15min_blur_sigma':combo[2],'texture_largest_film':max(picked,key=lambda r:r['fine_relative_sd'])['anneal_min'],'spot_largest_film':max(picked,key=lambda r:r['bright_area_percent'])['anneal_min']})
 write('unequal_blur_sensitivity.csv',mixed)
 # Existing XRD descriptors are paired at film-level only.
-xrd=ROOT/'data/processed/20261113/02_xrd_image_features_fullframe/paired_image_xrd.csv';prior=list(csv.DictReader(xrd.open(encoding='utf-8-sig')));paired=[]
+xrd=ROOT/'results/20261113/02_xrd_image_features_fullframe/paired_image_xrd.csv';prior=list(csv.DictReader(xrd.open(encoding='utf-8-sig')));paired=[]
 for r in primary:
  x=next(a for a in prior if a['anneal_min']==str(r['anneal_min']));paired.append({**r,'xrd_low_main_min':x['xrd_1h_low_main_area_min'],'xrd_low_main_max':x['xrd_1h_low_main_area_max'],'xrd_note':x['xrd_note']})
 write('paired_texture_spot_xrd.csv',paired);record(xrd,'xrd_descriptor_input')

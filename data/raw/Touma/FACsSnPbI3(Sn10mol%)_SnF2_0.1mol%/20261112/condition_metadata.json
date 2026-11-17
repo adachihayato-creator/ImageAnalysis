@@ -1,0 +1,90 @@
+{
+  "material_family": "FACsSnPbI3",
+  "a_site_ratios": {
+    "FA": 0.9,
+    "Cs": 0.1
+  },
+  "sn_fraction_basis": "Sn / (Sn + Pb), molar",
+  "additive": "SnF2",
+  "additive_amount_mol_percent": 0.1,
+  "additive_basis_user_description": "組成式のSnに対応するSnI2のモル量に対してSnF2を0.1mol%添加",
+  "anneal_temperature_C": 130,
+  "minutes_labels_mean": "annealing duration, not age after deposition",
+  "source": "User clarification 2026-11-12",
+  "sn_fraction": 0.1,
+  "pb_fraction": 0.9,
+  "anneal_durations_min": [
+    5,
+    10,
+    15
+  ],
+  "status": "12 organized capture pairs and nine XRD scans; latest three photos pending age assignment",
+  "elapsed_times_recorded": [
+    "0h",
+    "1h",
+    "2h",
+    "3h",
+    "4h"
+  ],
+  "captured_condition_times": {
+    "5min": [
+      "1h",
+      "2h",
+      "3h",
+      "4h"
+    ],
+    "10min": [
+      "1h",
+      "2h",
+      "3h",
+      "4h"
+    ],
+    "15min": [
+      "0h",
+      "1h",
+      "2h",
+      "3h"
+    ]
+  },
+  "xrd_condition_times": {
+    "5min": [
+      "0h",
+      "1h",
+      "5h"
+    ],
+    "10min": [
+      "0h",
+      "1h",
+      "5h"
+    ],
+    "15min": [
+      "0h",
+      "1h",
+      "5h"
+    ]
+  },
+  "substrate": "glass",
+  "underlayer": "none",
+  "nominal_composition": "FA0.9Cs0.1Sn0.1Pb0.9I3",
+  "composition_confirmation": "User confirmed FA:Cs=9:1, glass substrate without underlayer",
+  "xrd_clock_reliable": false,
+  "xrd_clock_note": "User confirmed2026-11-17: relative to camera/RaspberryPi timestamp, XRD clock is6min30sec ahead. Subtract390seconds to align. Offset validity for earlier measurement dates remains unconfirmed.",
+  "precursor_solution_dispense_volume_uL": 50,
+  "dispense_volume_source": "User confirmed 2026-11-17: all previous Touma/Tuji films used50uL; only new Tuji films1/2 used90uL.",
+  "condition_correction_history": [
+    {
+      "date": "2026-11-17",
+      "previous_basis": "全体の組成に対して0.1 mol%",
+      "previous_amount_mol_percent": 0.1,
+      "reason": "User corrects reference from whole composition to SnI2 corresponding to formula Sn; numeric0.1 unit still to clarify."
+    }
+  ],
+  "additive_reference_species": "SnI2 (formula Sn precursor)",
+  "additive_amount_user_label": "0.1",
+  "additive_numeric_unit_status": "User confirmed mol%;0.1mol% relative to SnI2, not0.1molar ratio.",
+  "SnF2_moles_over_SnI2_moles": 0.001,
+  "xrd_clock_offset_ahead_of_reference_pc_seconds": 390,
+  "xrd_timestamp_correction_seconds": -390,
+  "xrd_clock_reference": "camera RaspberryPi captured_at",
+  "xrd_clock_reference_confirmed": true
+}

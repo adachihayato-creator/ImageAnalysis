@@ -1,0 +1,9 @@
+# 2026-11-17 XRD原本
+
+Tuji16測定・Touma12測定、計28測定（TXTとRASXの計56ファイル）。元のファイル名と担当者別フォルダ構造を保持してdata/raw/20261117から移動。全ファイルのSHA256を移動前後で照合。削除・改名なし。
+
+scan_inventory.csvはRASXのカウントを測定時間でcpsに換算し、TXTと全点照合した対応表。ファイル名だけでペアにしない。ToumaのSnF2 10 2の初回/1hのTXTはRASXと時点名が逆。Touma FACsPbI3 1は3h.rasxと3.5h.txtが一致。公称時点の確定・画像の膜番号対応はユーザー確認待ち。XRD時計は撮影ラズパイより6分30秒進むため、元記録と390秒差引き時刻を併記。無時点ファイルを自動的に0hへ割り当てない。
+
+## 試料別への整理完了
+
+原本56ファイルは各試料のfilm_番号/XRD/measurement_番号_時点へ移動。移動先とSHA256はorganized_measurements_manifest.json。scan_inventory.csvのパスは最初の取込時点の履歴。現在のパスと撮影候補はresults/20261117/05_xrd_image_time_matching/measurement_photo_timing.csv。

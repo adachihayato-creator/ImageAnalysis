@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 from matplotlib.font_manager import fontManager
 ROOT=Path(__file__).resolve().parents[2];sys.path.insert(0,str(ROOT/'notebooks/capture_repeatability'))
 from analyze_repeatability import corners_and_bbox,roi
-B=ROOT/'data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112';O=ROOT/'data/processed/20261112/03_image_time_series';O.mkdir(exist_ok=True);(O/'crops').mkdir(exist_ok=True)
+B=ROOT/'data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112';O=ROOT/'results/20261112/03_image_time_series';O.mkdir(exist_ok=True);(O/'crops').mkdir(exist_ok=True)
 fontManager.addfont('/mnt/c/Windows/Fonts/YuGothR.ttc');plt.rcParams['font.family']='Yu Gothic'
 C=['#cf493f','#278d4f','#426dc9'];PATCHES=[(785,555),(1585,555),(1185,250),(1185,855)]
 def save(fig,name):

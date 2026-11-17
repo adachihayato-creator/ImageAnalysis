@@ -1,0 +1,92 @@
+{
+  "target": "Median of valid12.25–13.0deg/main13.4–14.7deg net area ratios, at least2/3 backgrounds resolved; relative signal, notphasefraction",
+  "low_windows": [
+    {
+      "search": [
+        12.25,
+        13
+      ],
+      "background": [
+        [
+          11.5,
+          11.8
+        ],
+        [
+          13.1,
+          13.3
+        ]
+      ]
+    },
+    {
+      "search": [
+        12.25,
+        13
+      ],
+      "background": [
+        [
+          12,
+          12.2
+        ],
+        [
+          13.05,
+          13.2
+        ]
+      ]
+    },
+    {
+      "search": [
+        12.25,
+        13
+      ],
+      "background": [
+        [
+          12.1,
+          12.25
+        ],
+        [
+          13,
+          13.15
+        ]
+      ]
+    }
+  ],
+  "main_window": {
+    "search": [
+      13.4,
+      14.7
+    ],
+    "background": [
+      [
+        13.15,
+        13.35
+      ],
+      [
+        14.9,
+        15.2
+      ]
+    ]
+  },
+  "pairing": "Today first photo after corrected XRD end; primary screening gap<=30min is provisional operational choice, not validated stability threshold; all gaps sensitivity. Older nominal pairs unknown actual gap.",
+  "model": "Ridge alpha10 fixed, no tuning or feature selection on test; training-only imputation/scaling; no negative prediction clipping",
+  "features_conditions": [
+    "sn",
+    "rb",
+    "FA",
+    "anneal_C",
+    "anneal_min",
+    "volume",
+    "age_h"
+  ],
+  "features_image": [
+    "mean_R",
+    "mean_G",
+    "mean_B",
+    "gray_cv",
+    "spot_pct",
+    "fine"
+  ],
+  "evaluation": "Leaveonefilmout; all samefilm times together; equalfilm weights for fitting and MAE; older-to-today sensitivity if enough training",
+  "image_settings": "raw/corrected, margin0/.18; no ellipse exclusion;256warp; spotGaussian8 threshold10% area>=3px",
+  "warning": "Composition-dependent12.7degree candidate, not confirmed identical phase acrossfamilies. Resolved-only selection bias. No phase fraction or quality/degradation model.",
+  "code_sha256": "956a2d972a623c21b31b8de9ebfb350a095705264d3be724c9a0512f0e9e4880"
+}

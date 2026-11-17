@@ -1,0 +1,13 @@
+{
+  "input": "results/20261112/09_image_time_series_4points/metrics.csv",
+  "sha256": "9df5826d15cc383c8e417fca2396479b6da1a209d3b1fe96c43be23bb1570d5c",
+  "slope_method": "unweighted least squares, descriptive only",
+  "four_cases": [
+    "all_raw",
+    "all_bg_normalized",
+    "endpoints_raw",
+    "endpoints_bg_normalized"
+  ],
+  "middle_exclusion_reason": "background color shift",
+  "robustness": "same slope sign across four cases; no significance claim"
+}

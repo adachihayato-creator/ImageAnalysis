@@ -1,0 +1,104 @@
+{
+  "background_RGB": {
+    "171305_386943": [
+      163.753125,
+      166.17734375,
+      145.13890625
+    ],
+    "171423_288864": [
+      163.863125,
+      162.67093749999998,
+      145.17953125
+    ],
+    "172025_111796": [
+      164.2215625,
+      159.27703125,
+      141.1184375
+    ],
+    "172149_790757": [
+      165.20250000000001,
+      155.8215625,
+      126.2203125
+    ],
+    "172447_913634": [
+      163.789375,
+      170.54859375,
+      158.26906250000002
+    ]
+  },
+  "comparisons": [
+    {
+      "photo": "172149_790757",
+      "reference": "171305_386943",
+      "difference_before_percent": 8.865021487821021,
+      "heldout_after_percent": 1.2824880431831225
+    },
+    {
+      "photo": "172149_790757",
+      "reference": "171423_288864",
+      "difference_before_percent": 8.12374657981211,
+      "heldout_after_percent": 0.7378305656605809
+    },
+    {
+      "photo": "172149_790757",
+      "reference": "172025_111796",
+      "difference_before_percent": 6.457244756146001,
+      "heldout_after_percent": 0.8118453407556471
+    },
+    {
+      "photo": "172447_913634",
+      "reference": "171305_386943",
+      "difference_before_percent": 5.0358485865107045,
+      "heldout_after_percent": 1.5352749509545838
+    },
+    {
+      "photo": "172447_913634",
+      "reference": "171423_288864",
+      "difference_before_percent": 5.988490094364071,
+      "heldout_after_percent": 1.514528091905074
+    },
+    {
+      "photo": "172447_913634",
+      "reference": "172025_111796",
+      "difference_before_percent": 8.152586994609031,
+      "heldout_after_percent": 1.6290527238946209
+    }
+  ],
+  "method": "Fixed paper patches 40x40px; relative RGB RMS deviation averaged across4 heldout regions. Not calibrated color difference.",
+  "fit": [
+    [
+      785,
+      555
+    ],
+    [
+      1585,
+      555
+    ],
+    [
+      1185,
+      250
+    ],
+    [
+      1185,
+      855
+    ]
+  ],
+  "heldout": [
+    [
+      785,
+      250
+    ],
+    [
+      1585,
+      250
+    ],
+    [
+      785,
+      855
+    ],
+    [
+      1585,
+      855
+    ]
+  ]
+}

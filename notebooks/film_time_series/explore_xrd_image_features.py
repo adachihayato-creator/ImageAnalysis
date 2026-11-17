@@ -5,7 +5,7 @@ import numpy as np,cv2
 from PIL import Image
 ROOT=Path(__file__).resolve().parents[2];sys.path.insert(0,str(ROOT/'notebooks/capture_repeatability'))
 from analyze_repeatability import corners_and_bbox
-B=ROOT/'data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112';O=ROOT/'data/processed/20261113/01_xrd_image_features';O.mkdir(parents=True,exist_ok=True);(O/'crops').mkdir(exist_ok=True)
+B=ROOT/'data/raw/Touma/FACsSnPbI3(Sn10mol%)_SnF2_0.1mol%/20261112';O=ROOT/'results/20261113/01_xrd_image_features';O.mkdir(parents=True,exist_ok=True);(O/'crops').mkdir(exist_ok=True)
 FIT=[(785,555),(1585,555),(1185,250),(1185,855)];rows=[];manifest=[];maps={};crops={};target=np.float32([[0,0],[255,0],[255,255],[0,255]])
 def read(p):return list(csv.DictReader(p.open(encoding='utf-8-sig')))
 def write(name,rs):
@@ -40,7 +40,7 @@ for minute in [5,10,15]:
        maps[minute]={'mask':analysis,'spots':kept,'contrast':contrast};crops[minute]=np.rint(np.clip(rgb,0,255)).astype(np.uint8);Image.fromarray(crops[minute]).save(O/'crops'/f'{minute}min_1h_corrected.png')
 write('all_feature_sensitivity.csv',rows)
 primary=[r for r in rows if r['background_normalized'] and r['roi_margin']==.18 and not r['exclude_central_ellipse'] and r['local_sigma_px']==8 and r['contrast_threshold']==.1];write('primary_features.csv',primary)
-xrdsrc=ROOT/'data/processed/20261112/14_integrated_reanalysis/xrd_low_peak_sensitivity.csv';xrs=read(xrdsrc);paired=[]
+xrdsrc=ROOT/'results/20261112/14_integrated_reanalysis/xrd_low_peak_sensitivity.csv';xrs=read(xrdsrc);paired=[]
 for r in primary:
  vals=[float(x['low_over_main_area']) for x in xrs if x['anneal_min']==str(r['anneal_min']) and x['label']=='1h' and x['resolved']=='True'];paired.append({**r,'xrd_1h_low_main_area_min':min(vals) if vals else None,'xrd_1h_low_main_area_max':max(vals) if vals else None,'xrd_note':'副相候補/主相候補の面積比・相含有率ではない' if vals else '抽出不成立、ゼロではない'})
 write('paired_image_xrd.csv',paired)
